@@ -113,3 +113,35 @@ python generate_report.py --title "报告标题"
 - 添加 GitHub Actions 自动化健康检查
 - 支持多语言 Wiki 页面
 - 集成向量搜索增强检索
+## MkDocs Material 文档站
+
+本项目使用 [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) 将 Wiki 页面渲染为优美的文档网站。
+
+### 本地预览
+
+```bash
+# 安装依赖
+pip install mkdocs-material
+
+# 启动本地预览（支持热重载）
+mkdocs serve
+
+# 浏览器访问 http://127.0.0.1:8000
+```
+
+### 构建静态网站
+
+```bash
+mkdocs build
+```
+
+构建产物在 `site/` 目录。
+
+### 部署到 GitHub Pages
+
+```bash
+# 一键部署到 gh-pages 分支
+mkdocs gh-deploy
+
+# 访问 https://tempzhang.github.io/chinese-llm-wiki/
+```

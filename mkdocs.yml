@@ -1,0 +1,91 @@
+﻿# MkDocs Material 配置 - 中文 LLM Wiki 文档站
+site_name: 中文 LLM Wiki
+site_description: 面向 AI Agent 维护的中文结构化知识编译系统
+site_url: https://tempzhang.github.io/chinese-llm-wiki/
+repo_url: https://github.com/tempzhang/chinese-llm-wiki
+repo_name: tempzhang/chinese-llm-wiki
+edit_uri: blob/main/
+
+# 直接读取 llm-wiki/wiki/ 目录
+docs_dir: llm-wiki/wiki
+
+theme:
+  name: material
+  language: zh
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: 切换至深色模式
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: 切换至浅色模式
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.code.annotate
+
+# 中文导航
+nav:
+  - 总览: 00-总览.md
+  - 核心概念:
+    - LLM Wiki: concepts/LLM-Wiki.md
+    - RAG: concepts/RAG.md
+    - 知识编译: concepts/知识编译.md
+    - 双向链接: concepts/双向链接.md
+    - Markdown 知识库: concepts/Markdown知识库.md
+    - Git 版本化知识库: concepts/Git版本化知识库.md
+    - AI Agent 知识维护: concepts/AI-Agent知识维护.md
+    - 结构化笔记: concepts/结构化笔记.md
+  - 工作流:
+    - 资料摄取流程: workflows/资料摄取流程.md
+    - Wiki 健康检查流程: workflows/Wiki健康检查流程.md
+    - 查询回答流程: workflows/查询回答流程.md
+    - 资料更新流程: workflows/资料更新流程.md
+    - 冲突处理流程: workflows/冲突处理流程.md
+  - 对比分析:
+    - RAG 与 LLM Wiki 对比: comparisons/RAG与LLM-Wiki对比.md
+  - 报告:
+    - Karpathy LLM Wiki 中文解读: reports/Karpathy-LLM-Wiki-中文解读.md
+    - 中文 LLM Wiki 落地方案: reports/中文LLM-Wiki落地方案.md
+  - 问题库:
+    - 如何开始维护 LLM Wiki: questions/如何开始维护LLM-Wiki.md
+  - 决策记录:
+    - 为什么选择 Markdown 和 Git: decisions/为什么选择Markdown和Git.md
+  - 示例:
+    - 示例资料摘要: examples/示例资料摘要.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
+  - footnotes
+  - toc:
+      permalink: true
+      toc_depth: 3
+
+plugins:
+  - search:
+      lang: zh
