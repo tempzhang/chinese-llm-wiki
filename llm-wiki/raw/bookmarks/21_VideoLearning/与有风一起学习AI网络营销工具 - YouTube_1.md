@@ -1,0 +1,21 @@
+---
+category: 21_VideoLearning
+rating: 3
+domain: youtube.com
+add_date: 2024-12-10
+folder: 书签栏 > 有风
+tags: [视频, 学习]
+---
+
+# 与有风一起学习AI网络营销工具 - YouTube
+
+**URL:** https://www.youtube.com/@windyAIweb/videos
+
+**分类:** #视频 #学习
+
+**来源目录:** 书签栏 > 有风
+
+**推荐指数:** ★★★☆☆
+
+---
+*auto-generated 2026-05-29 22:05*

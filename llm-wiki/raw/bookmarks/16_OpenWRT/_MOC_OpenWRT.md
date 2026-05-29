@@ -1,0 +1,90 @@
+---
+category: MOC
+---
+# OpenWRT 资源
+
+OpenWRT软路由
+
+共 **79** 条
+
+---
+
+- ★★★★★ [[乌客]] - https://docs.qq.com/doc/DS25QZ3dGV3JGQ0lB
+- ★★★★★ [[磊科N60 Pro刷机教程]] - https://docs.qq.com/doc/DS2dER2ZnRVpRY1dQ?nlc=1
+- ★★★★☆ [[OpenClash 内核更新（0719） + 隐藏参数 + 祖传YAML分流优化 + 自训练 lightBGM 模型 = Samrt 智能策略稳如狗！完美...]] - https://www.youtube.com/watch?v=C1uGeY3RRuI
+- ★★★★☆ [[【软路由 NO.2】自己动手搭建跨境电商工作室软路由，一设备一住宅IP。 - YouTube]] - https://www.youtube.com/watch?v=UgWXuksQZNE
+- ★★★★☆ [[跨境电商使用软路由的技巧：指纹浏览器使用软路由，网口走代理 - YouTube]] - https://www.youtube.com/watch?v=73EeYjBTOb8
+- ★★★★☆ [[【软路由6 终章】整篇分享 我做 跨境电商网络搭建 的一切经验 - YouTube]] - https://www.youtube.com/watch?v=l-2Glt7Gb1Y
+- ★★★★☆ [[软路由怪落泪，但硬路由怪笑嘻了，磊科N60PRO刷机指南 - YouTube]] - https://www.youtube.com/watch?v=03V8uRE9HQ4
+- ★★★★☆ [[2GB 内存路由器能干啥？磊科 N60 Pro 刷 OpenWrt 全教程（含扩容） - YouTube]] - https://www.youtube.com/watch?v=0fp6HGTrkkI
+- ★★★★☆ [[&quot;喧宾夺主&quot;docker版1panel 如何管理宿主机iStoreOS的文件 - YouTube]] - https://www.youtube.com/watch?v=5s6bSP4n5hI
+- ★★★★☆ [[GitHub - wukongdaily-OrangePiShell- 在Linux上快速部署一些好用的docker项目。起初只是为了香橙派制作。推荐使用...]] - https://github.com/wukongdaily/OrangePiShell
+- ★★★★☆ [[GitHub - QYG2297248353-iycms- 高性能高并发永久免费影视CMS]] - https://github.com/QYG2297248353/iycms
+- ★★★★☆ [[路由器＆NAS玩家必备：Spaceship平台注册十年xyz顶级域名，不到50元！接入Cloudflare - YouTube]] - https://www.youtube.com/watch?v=6sStejv7H3Q
+- ★★★★☆ [[户外走播怎么弄？随时随地户外外网直播，插卡或者连接手机网络就可以用，便携式软路由 - YouTube]] - https://www.youtube.com/watch?v=gO2TUidT02o&list=PLVP8MsUg_u86aphZKHhoi2W146tWvHUJ7
+- ★★★★☆ [[Hyperv，飞牛，绿联虚拟机统一直接使用ISO镜像~安装iStoreOS（OpenWrt），省时省力~ - YouTube]] - https://www.youtube.com/watch?v=_9D26riQ3V0
+- ★★★★☆ [[Release ImmortalWrt-Installer-x86_64-ISO · wukongdaily-armbian-installer · Gi...]] - https://github.com/wukongdaily/armbian-installer/releases/tag/ImmortalWrt-Installer-x86_64-ISO
+- ★★★★☆ [[【全网最全】OpenClash零基础入门教程 - openclash优缺点、网络设置、安装、内核更新与上传、基础设置，新手使用指南，openwrt软路由O...]] - https://www.youtube.com/watch?v=7wiu1YA8Pbc
+- ★★★★☆ [[发行版 R2024-02-19 05-38-10 for Rockchip · haiibo-OpenWrt · GitHub]] - https://github.com/haiibo/OpenWrt/releases/tag/Rockchip
+- ★★★★☆ [[Cudy-TR3000刷入OpenWrt系统并设置多WIFI信号教程，Cudy-AX3000软路由刷机教程 - YouTube]] - https://www.youtube.com/watch?v=zyt-GvKHUCw&t=12s
+- ★★★★☆ [[60S自制OpenWrt，构建属于咱自己的OpenWrt 系统，自行DIY 可玩性极强，安全稳定，好用又好玩，根据自己需求最适配的构建自己的Openwrt...]] - https://www.youtube.com/watch?v=ZLr0kq-gnqk
+- ★★★★☆ [[“20元的玩客云，60S打造史上最强软路由；选择推荐+接线演示+刷机OpenWrt系统+科学上网PassWall 插件设置+本地网络设置 实现真全局科学上...]] - https://www.youtube.com/watch?v=HcMsxwDvJKc
+- ★★★★☆ [[爱快 + OpenClash + IPv6 旁路由完美配置 ，无DNS污染，无DNS泄漏，公网远程访问，完美网络16 - YouTube]] - https://www.youtube.com/watch?v=4W13smZaOzw
+- ★★★★☆ [[【软路由 NO.3】给自己的软路由网络加速 - YouTube]] - https://www.youtube.com/watch?v=l0yX1twOgNE
+- ★★★★☆ [[纯净外网环境网络设置，软路由多wifi设置，链式代理，openclash链式代理，防dns泄露，防webrtc泄露，加快网络访问速度 - YouTube]] - https://m.youtube.com/watch?v=rePhp9Fwyuk
+- ★★★★☆ [[【从零开始】最详细的新手入门软路由指南，家庭全设备科学上网看这篇就够了！什么是软路由？为什么要软路由？小白怎么上手软路由？软路由和硬路由的区别？软路由科普...]] - https://www.youtube.com/watch?v=JfSJmPFiL_s
+- ★★★★☆ [[软路由怎么选？无脑选R5s,性价比高，安装方便。R5s openwrt安装，软路由插件安装 - YouTube]] - https://www.youtube.com/watch?v=cZgsjZX0-6E
+- ★★★★☆ [[软路由多wifi设置，一个网络多个ip,openclash链式代理，防止dns泄露，webrtc泄露，纯净网络设置 - YouTube]] - https://www.youtube.com/watch?v=MIn75UF1v0U
+- ★★★★☆ [[{2025} 红米ax6000刷openwrt教程，安全刷机无风险，轻松上手 - YouTube]] - https://www.youtube.com/watch?v=N9SJVKc1Bks
+- ★★★★☆ [[纯净外网环境网络设置，软路由多wifi设置，链式代理，openclash链式代理，防dns泄露，防webrtc泄露，加快网络访问速度 - YouTube_1]] - https://www.youtube.com/watch?app=desktop&v=rePhp9Fwyuk
+- ★★★★☆ [[小白也能學會，不需要代碼，在家庭寬帶openwrt軟路由上，免费搭建私人專屬影視網站，安卓APP和ios app，可投屏播放。白嫖全網影視資源，告別會員V...]] - https://www.youtube.com/watch?v=ZbQSBk8I5aI
+- ★★★★☆ [[最便宜的软路由 - N1盒子安装iStoreOS软路由系统，手动安装科学上网等相关插件以及注意事项，小白一站式教程 - YouTube]] - https://www.youtube.com/watch?v=NXG8zASpPUs
+- ★★★★☆ [[GitHub - getaurora-download- 极光官方版本下载页 翻墙 代理 科学上网 外网 加速器 梯子 路由]] - https://github.com/getaurora/download
+- ★★★★☆ [[openwrt-luci- LuCI - OpenWrt Configuration Interface]] - https://github.com/openwrt/luci
+- ★★★★☆ [[Release iStoreOS 24.10.X · bcseputetto-Are-u-ok · GitHub]] - https://github.com/bcseputetto/Are-u-ok/releases/tag/iStoreOS_24.10
+- ★★★★☆ [[DNS神器AdGuard Home最简单设置，网页秒开！秒解析、去广告、防污染的adguardhome安装设置教程！实现家里所有设备过滤广告，实现国内外流...]] - https://www.youtube.com/watch?v=qKy2t4id24U
+- ★★★★☆ [[【全网最细】软路由openwrt唯一界面singbox插件homeproxy使用详细教程。 - YouTube]] - https://www.youtube.com/watch?v=nNRpbn9M2Lc
+- ★★★☆☆ [[iStoreOS]] - http://192.168.123.93/cgi-bin/luci/admin/quickstart/
+- ★★★☆☆ [[ImmortalWrt]] - http://192.168.123.95/cgi-bin/luci/admin/status/overview
+- ★★★☆☆ [[iStoreOS - 首页 - LuCI]] - http://192.168.123.20/cgi-bin/luci/admin/quickstart/
+- ★★★☆☆ [[oect的1Panel]] - http://192.168.123.184:10086/
+- ★★★☆☆ [[unnamed]] - http://192.168.123.92:5666/
+- ★★★☆☆ [[OpenWrt 出现未保存的配置，且无法保存成功的问题解决方案_openwrt未保存的配置-CSDN博客]] - https://blog.csdn.net/m0_60212601/article/details/127493166
+- ★★★☆☆ [[OpenWrt安装OpenClash - Forever Young]] - https://www.luxiyue.com/openwrt/openwrt%e5%ae%89%e8%a3%85openclash/
+- ★★★☆☆ [[LinuxMirrors项目使用指南：一键切换国内软件源-CSDN博客]] - https://blog.csdn.net/gitblog_00077/article/details/148527065
+- ★★★☆☆ [[wkyistore - LuCI]] - http://192.168.123.115/cgi-bin/luci/admin/quickstart/
+- ★★★☆☆ [[玩客云安装iStoreOS保姆级教程（带iStore商店）_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV1pLqgYPEck/?spm_id_from=333.788.recommend_more_video.-1&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★★☆☆ [[如何在iStoreOS（OpenWRT）中安装Docker Compose，让你的Docker使用更方便_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV1TC4y1A7gE/?vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★★☆☆ [[iStoreOS(OPENWRT)安装docker-compose_istoreos docker compose-CSDN博客]] - https://blog.csdn.net/Jimu2018/article/details/138325666
+- ★★★☆☆ [[1Panel 部署 爱影CMS-CSDN博客]] - https://blog.csdn.net/qq_20003465/article/details/141138668
+- ★★★☆☆ [[Check your IP address in system anti fraud detections, detecting real location]] - https://www.ip-score.com/
+- ★★★☆☆ [[IP-DNS Detect - What is your IP, what is your DNS, what informations you send...]] - https://ipleak.net/
+- ★★★☆☆ [[Internet Speed Test - Fast.com]] - https://fast.com/
+- ★★★☆☆ [[DNS leak test]] - https://dnsleaktest.com/
+- ★★★☆☆ [[易有云文件管理]] - http://192.168.123.20/cgi-bin/luci/admin/services/linkease/file/?path=/sata1-1
+- ★★★☆☆ [[unnamed_1]] - http://192.168.6.1/cgi-bin/luci/admin/services/openclash
+- ★★★☆☆ [[拨测-免费的域名检测工具网-网站测速-ping检测-域名污染-域名被墙-dns查询-IPv6网站测试-路由跟踪查询-劫持检测-站长工具]] - https://www.boce.com/
+- ★★★☆☆ [[检测被墙ITDOG - 在线ping_在线tcping_网站测速_HTTP测速_API测速_路由追踪_在线MTR_DNS查询_ITDOG-云邦畅想]] - https://www.itdog.cn/
+- ★★★☆☆ [[ImmortalWrt 软件仓库镜像使用帮助 - MirrorZ Help]] - https://help.mirrorz.org/immortalwrt/
+- ★★★☆☆ [[OpenClash所需资料]] - https://qichiyu.blogspot.com/2024/07/openclash.html
+- ★★★☆☆ [[ImmoralWRT软件源分享 - Deep Router]] - https://deeprouter.org/article/immoralwrt-opkg-replace-edu-mirror
+- ★★★☆☆ [[文件-北京大学开源镜像站]] - https://mirrors.pku.edu.cn/immortalwrt/releases/24.10.0/packages/x86_64/
+- ★★★☆☆ [[3. 更换软件镜像源 — [野火]OpenWrt用户手册—基于LubanCat-RK系列板卡 文档]] - https://doc.embedfire.com/openwrt/user_manal/zh/latest/User_Manual/openwrt/opkg.html
+- ★★★☆☆ [[ImmortalWrt Firmware Selector]] - https://firmware-selector.immortalwrt.org/
+- ★★★☆☆ [[Index of -releases-24.10.0-targets-rockchip-armv8-]] - https://downloads.immortalwrt.org/releases/24.10.0/targets/rockchip/armv8/
+- ★★★☆☆ [[iStoreOS-OpenWrt安装及配置OpenClash - 自由码农]] - https://blog.fxcxy.com/2024/03/17/iStoreOS-OpenWpt%E5%AE%89%E8%A3%85%E5%8F%8A%E9%85%8D%E7%BD%AEOpenClash/
+- ★★★☆☆ [[OpenClash 内核更新失败解决方法 - 1024社区]] - https://1024.day/d/1555
+- ★★★☆☆ [[Kwrt(OpenWrt)软路由固件下载与在线定制编译]] - https://openwrt.ai/?target=amlogic%2Fmeson8b&id=thunder-onecloud
+- ★★★☆☆ [[不到20元NAS玩客云远程下载、网络共享、远程访问一键openwrt方案_路由器_什么值得买]] - https://post.smzdm.com/p/a3xp6kvn/
+- ★★★☆☆ [[Kwrt(OpenWrt)软路由固件下载与在线定制编译_1]] - https://openwrt.ai/?target=x86%2F64&id=generic
+- ★★★☆☆ [[主页 - Alist for OpenWRT --- 主页 - Alist for OpenWRT]] - http://61.140.22.138:5252/
+- ★★★☆☆ [[软路由 dockers VPN eSir PlayGround - YouTube]] - https://www.youtube.com/c/eSirPlayGround
+- ★★★☆☆ [[Clash路由器上的]] - http://192.168.123.1:21068/ui/#/proxies
+- ★★★☆☆ [[SSR 路由器客户端下载、安装及使用教程（openwrt ShadowsocksR）-SSR中文网]] - https://ssr.tools/136
+- ★★★☆☆ [[让系统自带软路由，WIFI做WAN口见过没有？不需要双网口，什么都不需要，人人都能做。_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV11n4y1d7dk/?spm_id_from=333.788.videopod.sections&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★★☆☆ [[系统自带软路由续集（2）1分钟新装软路由，什么都不用设置直接使用。替换默认网口，解决网速缓慢问题_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV17S421d7Aa/?spm_id_from=333.1387.homepage.video_card.click&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★★☆☆ [[JUMP - 管理权 - LuCI]] - http://192.168.9.16/cgi-bin/luci/admin/system/admin
+- ★★★☆☆ [[比尔迈克的个人空间-比尔迈克个人主页-哔哩哔哩视频]] - https://space.bilibili.com/38049698
+- ★★★☆☆ [[OECT设备MAC修改工具 - RKDevInfoWriteTool - Laitai Tech]] - https://laitai.ltd/archives/RKDevInfoWriteTool.html
+- ★★★☆☆ [[路由器CPU性能天梯排行榜 – 猫点饭]] - https://mao.fan/socpk.html
+- ★★★☆☆ [[【中低功耗】家庭实用型『NAS+软路由』一体机组建心得 - 知乎]] - https://zhuanlan.zhihu.com/p/707171167

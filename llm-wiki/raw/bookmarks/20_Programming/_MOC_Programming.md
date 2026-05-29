@@ -1,0 +1,346 @@
+---
+category: MOC
+---
+# Programming 资源
+
+编程开发
+
+共 **335** 条
+
+---
+
+- ★★★★★ [[GPTNB ONEAPI]] - https://oneapi.gptnb.ai/
+- ★★★★★ [[天行数据TianAPI - 开发者API数据平台]] - https://www.tianapi.com/
+- ★★★★★ [[天聚数行控制台首页]] - https://www.tianapi.com/console/
+- ★★★★★ [[钱多多 API]] - https://api.aigcbest.top/
+- ★★★★☆ [[Codex 逆袭开始！国内畅玩 OpenAI Codex，对接自建 API 中转站完整教程 - YouTube]] - https://www.youtube.com/watch?v=t83I-yEgTU8&t=13s
+- ★★★★☆ [[How to Set Up Cloaking in 10 Minutes Without Bans — Complete Guide from Cloak...]] - https://www.youtube.com/watch?v=cYyA8MzsdCc
+- ★★★★☆ [[【大海淘客】1、淘宝建立之初为何拒绝百度，百万淘宝客的诞生！ - YouTube]] - https://www.youtube.com/watch?v=vgMBvx4mEIY&list=PL2mAUmcI4dk6iJuAF2pzqEBAg9WMNZkYk&index=1&ab_channel=%E5%A4%A7%E6%B5%B7%E8%B5%84%E6%BA%90
+- ★★★★☆ [[零基础html5+div+css+js网页开发教程第001期 - YouTube]] - https://www.youtube.com/watch?v=P-WF9RNdUow&list=PLHtXVCtcbbo3sis9FtsW9M5oSdffDOzkv
+- ★★★★☆ [[php宝塔搭建实战ShopWind开源电商系统php开源源码 - YouTube]] - https://www.youtube.com/watch?v=MfF7ZcvtYPc&ab_channel=web%E6%B5%8B%E8%AF%84
+- ★★★★☆ [[opencart 基礎網站操作-分類跟選單設定 - YouTube]] - https://www.youtube.com/watch?v=4vZlgP3Ldk4&list=PLHR9eesMWssYfMMoeKNUwVLTq8i7XHAMM&ab_channel=GoGoWeb%E5%93%81%E7%89%8C%E9%9B%BB%E5%95%86
+- ★★★★☆ [[Opencart│基礎網站操作-分類跟選單設定 - YouTube]] - https://www.youtube.com/watch?v=4vZlgP3Ldk4&list=PLHR9eesMWssYfMMoeKNUwVLTq8i7XHAMM
+- ★★★★☆ [[【Shopify建站】一口气看完！Shopify建站教程完整版！ - YouTube]] - https://www.youtube.com/watch?v=6GS--bQDaMM
+- ★★★★☆ [[免费企业邮箱Zoho域名邮箱申请和设置流程 - YouTube]] - https://www.youtube.com/watch?v=Ln0cyet6mlA
+- ★★★★☆ [[🤖 BORIS BREJCHA🤖 PYTHON-SHADOW5X-HIGH TECH MINIMAL👽PIKALLO DJ SET 👽 🚍🚒 EURO T...]] - https://www.youtube.com/watch?v=U7nhGv_zyN0&ab_channel=%F0%9F%91%BDPIKALLODJ%F0%9F%91%BD
+- ★★★★☆ [[轻松搭建一个开源的、属于自己的视频网站-搭建苹果cms-maccms10内容管理平台，轻松获取免费最新的各种视频资源，原来视频网站搭建如此简单，绝对值得了...]] - https://www.youtube.com/watch?v=pM2_NDONgbo
+- ★★★★☆ [[Shopify 引流- Facebook 低成本引流的五种方法 - YouTube]] - https://www.youtube.com/watch?v=LcuzIDlnDf4&ab_channel=%E7%9F%A5%E9%9D%92Alice
+- ★★★★☆ [[千锋Go语言教程：11 xorm框架知识介绍 - YouTube]] - https://www.youtube.com/watch?v=2h_ZLvCkRso
+- ★★★★☆ [[前后端 大数据 教程 尚硅谷_H5&amp;C3基础_3_HTML简介 - YouTube]] - https://www.youtube.com/watch?v=egmyh81Y1YQ&list=PLmOn9nNkQxJFs5KfK5ihVgb8nNccfkgxn&index=3
+- ★★★★☆ [[域名注册 - Namesilo域名购买、Freenom免费域名申请及Cloudflare域名解析-免费CDN纯小白教程 - YouTube]] - https://www.youtube.com/watch?v=xUJGJNeRUoY
+- ★★★☆☆ [[云服务器_CDN_虚拟主机托管业务提供商_免费云服务器 - 千宿云]] - https://cloud.qsuyun.com/
+- ★★★☆☆ [[小鱼儿网站建设 - YouTube]] - https://www.youtube.com/@xiaoyuerjz/videos
+- ★★★☆☆ [[工程師Tim - YouTube]] - https://www.youtube.com/@java1024/videos
+- ★★★☆☆ [[API Keys - OpenRouter]] - https://openrouter.ai/settings/keys
+- ★★★☆☆ [[高德开放平台 - 高德地图API]] - https://lbs.amap.com/
+- ★★★☆☆ [[Get API key - Google AI Studio]] - https://aistudio.google.com/app/apikey
+- ★★★☆☆ [[OpenAI Whisper 转写神器，零基础安装与实战教程-顶渲网]] - https://www.toprender.com/article-321-1.html
+- ★★★☆☆ [[控制台]] - http://192.168.6.11:8097/web/index.html#!/dashboard.html
+- ★★★☆☆ [[已购服务器详情 · 查看配置与管理操作 - VIRCS.COM]] - https://www.vircs.com/provisions/10587
+- ★★★☆☆ [[转运Account - tiptrans]] - https://www.tiptrans.com/clients/home.php?type=0
+- ★★★☆☆ [[New API芝麻开门]] - https://ai.opensdoor.cc/login
+- ★★★☆☆ [[eBoss 选品建站运营系统]] - http://127.0.0.1:5203/#sourcing
+- ★★★☆☆ [[如何给视频、图片去除水印？这两个方法可以帮你节省很多时间！！ – 零度解说]] - https://www.freedidi.com/11972.html
+- ★★★☆☆ [[抠图 换脸 AI视频换脸、AI绘画、深度学习，这5个网站值得推荐！ – 零度解说]] - https://www.freedidi.com/10710.html
+- ★★★☆☆ [[&#39;Serial&#39; Season 4 Presents &#39;Guantánamo&#39;- Insider History of G...]] - https://www.nytimes.com/interactive/2024/podcasts/serial-season-four-guantanamo.html#episode-0
+- ★★★☆☆ [[更换雪铁龙世嘉空调离合器线圈（上高速，空调突然不制冷）_C4世嘉论坛]] - https://club.m.autohome.com.cn/bbs/thread/3afe61fb49afbf6d/108769519-1.html
+- ★★★☆☆ [[Shopify Inc - Canada World - Shopify Inc Ten on Myip.ms]] - https://myip.ms/browse/sites/1/own/376714
+- ★★★☆☆ [[Hot Selling Delayed Ejaculation Sex Toys Extender Reusable Condoms Vibration ...]] - https://www.alibaba.com/product-detail/Hot-Selling-Delayed-Ejaculation-Sex-Toys_1600508597624.html?spm=a2700.shop_pl.41413.24.398be6b3hNR9rU
+- ★★★☆☆ [[Shophunter - Voted The Best Shopify Spy &amp; Product Research Tool! --- 商店猎人...]] - https://www.shophunter.io/
+- ★★★☆☆ [[客戶中心 - RackNerd LLC]] - https://my.racknerd.com/clientarea.php
+- ★★★☆☆ [[Control Panel]] - https://nerdvm.racknerd.com/control.php?_v=s2r2t2r2w20314g5q2g544w2
+- ★★★☆☆ [[AB轮询系统 cloak斗篷pareezy.com-index.html]] - https://www.pareezy.com/index.html
+- ★★★☆☆ [[KK斗篷 --- KowboyKit]] - https://kowboykit.com/
+- ★★★☆☆ [[Fecmall-2.x 安装 - 关于与安装 - FecShop Guide]] - https://www.fecmall.com/doc/fecshop-guide/develop/cn-2.0/guide-fecshop-2-graphical-install.html
+- ★★★☆☆ [[AdCloaking - 无需技术的广告斗篷工具，轻松提升营销效率 - adcloaking]] - https://adcloaking.com/
+- ★★★☆☆ [[ZeroCloak - AI-Powered Protection &amp; Advanced Traffic Filtering]] - https://zerocloak.com/
+- ★★★☆☆ [[GNAME-域名注册-域名申请-域名注册价格 --- GNAME-Domain registration-Domain application-Domai...]] - https://www.gname.com/
+- ★★★☆☆ [[Cheap Domain Names &amp; Web Hosting Starting at $0.99! - NameSilo]] - https://www.namesilo.com/?rid=076c694cr
+- ★★★☆☆ [[域名历史Wayback Machine]] - https://web.archive.org/
+- ★★★☆☆ [[域名比价Compare Prices of All Top-Level Domains - TLD-List --- 比较所有顶级域名的价格 -顶级域名列表]] - https://tld-list.com/?cur=CNY
+- ★★★☆☆ [[聚名网-到期域名查询抢注-域名注册-老域名买卖交易平台]] - https://www.juming.com/?tt=133577
+- ★★★☆☆ [[域名状态检测工具_微信QQ报毒、被墙、污染、ICP备案、百度收录免费检测查询]] - https://check.lzfh.com/
+- ★★★☆☆ [[2022年7月最新NameSilo域名优惠码整理 - 域名注册优惠-免费隐私保护-老唐笔记]] - https://oldtang.com/8458.html
+- ★★★☆☆ [[借助 Cloudflare 加速和保护您的站点 - Eddytempzhanghl@gmail.com&#39;s Account - Cloudflare]] - https://dash.cloudflare.com/eb1334c530ec3749e4dd81cc4252bf4d/add-site
+- ★★★☆☆ [[我的域名 - 聚名网 管理后台]] - https://www.juming.com/user/#/admin_ym
+- ★★★☆☆ [[域名管理器应用程序 - Spaceship]] - https://www.spaceship.com/zh/application/domain-list-application/
+- ★★★☆☆ [[登录_海域云-出口企业数字化解决方案提供商]] - https://www.seaarea.com/login
+- ★★★☆☆ [[域名信息]] - https://member.seaarea.com/domainProduct/domainManageInfo?productId=recover240617142112741913&tab=2
+- ★★★☆☆ [[Hong Kong Megalayer Technology Co., Ltd]] - https://account.megalayer.net/cart.php?gid=32
+- ★★★☆☆ [[Megalayer - Global ISP 全球二级电信服务提供商]] - https://www.megalayer.net/zh/
+- ★★★☆☆ [[大海资源服务器建站 - YouTube]] - https://www.youtube.com/@user-vf9ym3sr8s/playlists
+- ★★★☆☆ [[建站准备：服务器环境购买搭建，宝塔面板+工具箱_星辰云资源]] - https://xingchencloud.com/22897.html
+- ★★★☆☆ [[宝塔开心版8.0.2_宝塔Linux面板8.0.2 开心版_宝塔破解版 8.0.2]] - https://www.btkaixin.net/
+- ★★★☆☆ [[香港服务器 Megalayer我的客户中心 - Hong Kong Megalayer Technology Co., Ltd]] - https://account.megalayer.net/clientarea.php?action=services
+- ★★★☆☆ [[大海资源 - YouTube]] - https://www.youtube.com/@user-vf9ym3sr8s/videos
+- ★★★☆☆ [[CJdropshipping - Dropshipping from Worldwide to Worldwide!]] - https://cjdropshipping.com/
+- ★★★☆☆ [[#1 Dropshipping App - Zendrop]] - https://zendrop.com/
+- ★★★☆☆ [[Thrive Media - YouTube]] - https://www.youtube.com/@Thrivemedia0/videos
+- ★★★☆☆ [[Steven Liu - YouTube]] - https://www.youtube.com/@stevenliu2057/videos
+- ★★★☆☆ [[白小菌 - YouTube]] - https://www.youtube.com/@baixiaojun/videos
+- ★★★☆☆ [[iON云服务器 - iON - by Krypt - Evocative]] - https://ion.krypt.asia/?language=chinese
+- ★★★☆☆ [[搜索结果 - 插件市场 – 基于ThinkPHP和Bootstrap的极速后台开发框架]] - https://www.fastadmin.net/store.html?q=%E4%BC%81%E4%B8%9A%E7%BD%91%E7%AB%99
+- ★★★☆☆ [[序言 - ThinkPHP官方手册]] - https://doc.thinkphp.cn/v8_0/preface.html
+- ★★★☆☆ [[淘宝联盟淘宝客]] - https://pub.alimama.com/portal/v2/home/plus/index.htm?spm=a219t.11816995.cf7687754.1.27ef6a15lajB4v
+- ★★★☆☆ [[猫叔的星球fastadmin thinkphp交流]] - https://maoshu.fun/
+- ★★★☆☆ [[fastadmin系列公开教程]] - https://www.yuque.com/siri/fastadmin
+- ★★★☆☆ [[蛙蛙工具 - 便捷的在线工具网站]] - https://www.iamwawa.cn/
+- ★★★☆☆ [[HTML 系列教程]] - https://www.w3school.com.cn/h.asp
+- ★★★☆☆ [[欧方源码_网站模板_html模板下载_网站源码_系统源码_商业源码_pbootcms模板_企业网站模板下载 - www.ofym.com]] - https://www.ofym.com/
+- ★★★☆☆ [[pub.alimama.com-portal-v2-home-plus-index.htm]] - https://pub.alimama.com/portal/v2/home/plus/index.htm
+- ★★★☆☆ [[大树巴巴-综合服务云平台-开发平台]] - https://www.dashubaba.com/index.html
+- ★★★☆☆ [[首页-莱卡云]] - https://www.lcayun.com/index.html
+- ★★★☆☆ [[香草云 - 提供CN2高速香港云服务器_香港高防服务器]] - https://www.xiangcaoyun.com/
+- ★★★☆☆ [[易探云-香港服务器_香港-美国云服务器_高防服务器_海外服务器]] - https://www.yitanyun.com/
+- ★★★☆☆ [[香港云服务器-U7云]] - https://u7idc.com/cart?action=configureproduct&pid=42
+- ★★★☆☆ [[全球主机交流论坛 - Powered by Discuz!]] - https://hostloc.com/?d=1
+- ★★★☆☆ [[香港空间_香港PHP空间_独立IP空间_PHP虚拟主机_无忧主机]] - https://www.51php.com/
+- ★★★☆☆ [[阿里云海外]] - https://www.alibabacloud.com/zh/campaign/cloud-server?_p_lc=1&utm_content=se_1021200895&gclid=CjwKCAjw24vBBhABEiwANFG7y56Z-ue7gRb9boYhxLp8pS0138I1m-TeSgvMec1VJViNXQjlJUNeaRoCHZAQAvD_BwE
+- ★★★☆☆ [[腾讯云国际版香港]] - https://www.tencentcloud.com/act/pro/FreeTier?lang=en&fromSource=intl.9476175.9476175.9476175&utm_medium=cpc&utm_id=intl.9476175.9476175.9476175&gad_source=1&gad_campaignid=21950740027&gbraid=0AAAAA-g-oeIXvmqPjUIcQAdaMcOZBJHEZ&gclid=CjwKCAjw24vBBhABEiwANFG7y1ILsBtKgwmB5xZYiTGUOaL7YiZg5PDdLg-GHd7QgP87228LUkoQDhoCArQQAvD_BwE
+- ★★★☆☆ [[購物車 - RackNerd LLC]] - https://my.racknerd.com/cart.php?a=view
+- ★★★☆☆ [[香港服务Hong Kong Megalayer Technology Co., Ltd]] - https://account.megalayer.net/clientarea.php?action=products
+- ★★★☆☆ [[我的产品与服务 - 野草云]] - https://my.yecaoyun.com/clientarea.php?action=services
+- ★★★☆☆ [[我的客户中心 - Hong Kong Megalayer Technology Co., Ltd]] - https://account.megalayer.net/clientarea.php?action=productdetails#tabChangepw
+- ★★★☆☆ [[OneinStack - 一键PHP-JAVA安装工具]] - https://oneinstack.com/
+- ★★★☆☆ [[域名管理-西部数码管理中心]] - https://www.west.cn/manager/domain/
+- ★★★☆☆ [[HestiaCP 面板【服务器面板】自带邮件服务！宝塔面板替代品—— 保姆级教程 海外开源面板 颜值不错 - 爱玩实验室]] - https://iwanlab.com/hestiacp/
+- ★★★☆☆ [[pbootcms模板-易优模板-云优城市分站源码-网站模板下载-麦站]] - https://www.xiuzhanwang.com/
+- ★★★☆☆ [[劳务香港宝塔Linux面板8889]] - http://206.233.135.172:8889/0d1451e7
+- ★★★☆☆ [[互站网 - 国内知名的网站交易、源码交易、域名交易服务中心]] - https://www.huzhan.com/
+- ★★★☆☆ [[1c1g香港megalayer宝塔CentOS 7.8]] - http://206.233.135.172:8889/0d1451e7
+- ★★★☆☆ [[2h4g野草云宝塔]] - https://38.207.176.120:25434/7ded2ebd
+- ★★★☆☆ [[阿里云香港马路云服务器管理控制台]] - https://ecs.console.aliyun.com/home#/
+- ★★★☆☆ [[云服务器管理控制台]] - https://ecs.console.aliyun.com/server/region/cn-hongkong
+- ★★★☆☆ [[宝塔南绿香港阿里]] - https://47.239.2.129:10429/be005a28
+- ★★★☆☆ [[用户中心 - 野草云]] - https://my.yecaoyun.com/clientarea.php
+- ★★★☆☆ [[青狐资源网，源码网，站长亲测源码，软件，项目资源！如果您有优质资源也来这里发布吧!]] - https://wcqh.cn/
+- ★★★☆☆ [[多商户小程序开源商城源码 打造微信商城新零售网店 - 小蚂蚁资源网]] - https://www.xmy7.com/app/applet/56600.html
+- ★★★☆☆ [[完美运营版商城 虚拟商品全功能商城 全能商城小程序 智慧商城系统 全品类百货商城 - 小蚂蚁资源网]] - https://www.xmy7.com/code/php/61911.html
+- ★★★☆☆ [[youqimade.com，中国：制造商，供应商，出口商，工厂 --- youqimade.com, China- manufacturers, supp...]] - https://www.youqimade.cn/
+- ★★★☆☆ [[广东创琦网络科技有限公司]] - https://www.chuangqik.com/
+- ★★★☆☆ [[竹子建站-自助建站-网站建设的首选！-竹子建站]] - http://www.zhuzi.me/
+- ★★★☆☆ [[关于浪鱼_广州浪鱼网络公司]] - http://www.netfish8.com/about.html
+- ★★★☆☆ [[解决nginx在windows环境下location中root路径空格问题_windows nginx root 空格-CSDN博客]] - https://blog.csdn.net/u012204058/article/details/78118580
+- ★★★☆☆ [[wix建站 fb广告首饰珠宝 3个月-Z &amp; C]] - https://www.accessorieszc.com/about-5
+- ★★★☆☆ [[squarespace建站 fb广告 1年 The Bare]] - https://thebarejewelry.com/
+- ★★★☆☆ [[shopify建站 17年卖货 金链和手镯 男款 手工作Liry&#39;s Jewelry --- Gold Chains &amp; Bracelet...]] - https://lirysjewelry.com/
+- ★★★☆☆ [[科学数学首饰 中学群体受众 2年shopify AdaMarie 珠宝 --- AdaMarie Jewelry]] - https://www.adamariejewelry.com/
+- ★★★☆☆ [[海丰县梅陇镇合盈饰品厂 - 戒指、手链]] - https://heyingjewelry.en.alibaba.com/productlist.html?spm=a2700.shop_index.88.19
+- ★★★☆☆ [[东海明天珠宝有限公司 - 水晶球、水晶柱 --- Donghai Mingtian Jewelry Co., Ltd. - Crystal Ball, C...]] - https://dhmtcrystal.en.alibaba.com/index.html?spm=a2700.shop_index.88.10.5f237933qhH351
+- ★★★☆☆ [[便利店 阿里零售通官网-如意]] - https://lst.1688.com/brand/ruyi.html?spm=a28pc.9905696.k2lvswam.6.3e5c43acQKRJzA
+- ★★★☆☆ [[KTV收银 星网视易数字娱乐官方网站]] - https://yule.evideostb.com/_website/index.html
+- ★★★☆☆ [[夜店亚拉拉特官方网站-首页]] - http://www.yalalat.com.cn/index.html#page1
+- ★★★☆☆ [[防爆炮供应商,固定式消防炮价格,图像型火灾探测器厂家_广东中消安全设备有限公司]] - http://www.zx-fire.com/index.html
+- ★★★☆☆ [[门禁系统成都熙南一卡通-首页成都熙南一卡通-成都门禁系统_ 成都大华门禁系统_成都大华翼闸摆闸_成都大华门禁机 -成都车牌识别]] - http://www.xnykt.com/index.php
+- ★★★☆☆ [[宁德市劳务派遣有限公司（宁德总公司） - 宁德市劳务派遣有限公司]] - http://www.pq0593.com/index.php?m=content&c=index&a=lists&catid=20
+- ★★★☆☆ [[联系方式-昆山慧宇劳务派遣有限公司]] - http://www.ks-hyhr.com/about_contact/lxfs024.html
+- ★★★☆☆ [[localhostPbootCMS管理中心-V3.2.5-20230421]] - http://localhost/admin.php?p=/Index/ucenter
+- ★★★☆☆ [[ncmsglw.comPbootCMS管理中心-V3.2.5-20230421]] - https://www.ncmsglw.com/admin.php?p=/Index/home
+- ★★★☆☆ [[南充木生根劳务有限公司]] - https://www.ncmsglw.com/
+- ★★★☆☆ [[星际网络工作室 - 提供专业网络营销&amp;建站服务-星际网络工作室-提供专业网络营销&amp;建站服务]] - https://xjwl123.com/
+- ★★★☆☆ [[中转ChatGPT GPT4.0 API KEY By OPENAI HK]] - https://openai-hk.com/open/index
+- ★★★☆☆ [[一个自建平台即可搞定：ChatGPT、Claude、Google Gemini、Mistral、LLaMA2等主流AI大模型的无缝切换使用！ – 零度解说]] - https://www.freedidi.com/11876.html
+- ★★★☆☆ [[Shopify万能钥匙 - YouTube]] - https://www.youtube.com/@Shopify2006/videos
+- ★★★☆☆ [[Shopify 博客与教程文稿 专注于分享店铺运营和主题优化相关内容]] - https://shopify2006.com/
+- ★★★☆☆ [[PB模板网 - 专注PbootCMS模板_企业网站模板下载]] - https://www.pbhtml.com/
+- ★★★☆☆ [[PBOOTCMS建站新手入门系列视频课程6-将相同代码区域改为公共调用_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV1bM4y1A7aA/?p=1&spm_id_from=pageDriver&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★★☆☆ [[零基础学习帝国cms建站仿站教程 (第一讲)_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV135411h7Zp/?spm_id_from=333.999.0.0&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★★☆☆ [[2024帝国cms仿站实战系列教程讲解分享]] - https://www.bilibili.com/video/BV1KN4y1e7Ls/?p=29&spm_id_from=pageDriver&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★★☆☆ [[LILISHOP-开源商城引领前沿]] - https://pickmall.cn/index.html
+- ★★★☆☆ [[好象科技官网-likeshop官网-商城源码-多商户源码-pc商城源码-回收租赁-外卖点餐]] - https://www.likeshop.cn/
+- ★★★☆☆ [[(自适应手机端)pbootcms绿色园林建筑艺术网站源码 花卉园艺网站模板 - 小蚂蚁资源网]] - https://www.xmy7.com/moban/pbootcms/10487.html
+- ★★★☆☆ [[PbootCMS管理中心-V3.1.3-20220103]] - https://nanluyuanlin.cn/admin.php
+- ★★★☆☆ [[开店星商城php项目宝塔搭建实战uniapp多端开源小程序_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV19G411u7Ks/?spm_id_from=333.999.0.0&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★★☆☆ [[南绿园林会员站前端]] - https://club.nanluyuanlin.cn/
+- ★★★☆☆ [[云服务器管理控制台_1]] - https://ecs.console.aliyun.com/server/region/cn-chengdu
+- ★★★☆☆ [[飞天站群cms系统 - 简单高效站群cms管理软件系统]] - http://www.ftcms.cn/
+- ★★★☆☆ [[MacCMS Pro-首页]] - https://www.maccms.pro/
+- ★★★☆☆ [[织梦 (DedeCMS) 官方网站 - 内容管理系统 - 上海卓卓网络科技有限公司]] - https://www.dedecms.com/
+- ★★★☆☆ [[shopify店铺销量Xpareto 监视顶级 Shopify 商店 --- Xpareto Spy on Top Shopify Stores]] - https://xpareto.com/
+- ★★★☆☆ [[从零开始搭建一个功能强大的论坛社区！Discourse – 零度解说]] - https://www.freedidi.com/11744.html
+- ★★★☆☆ [[屿岸源码网-网站源码,源码下载,cms模板插件,游戏服务端,商业源码平台]] - http://z.yankf.com/
+- ★★★☆☆ [[z.yankf.com 源码]] - https://z.yankf.com/
+- ★★★☆☆ [[查尔斯源码]] - https://jianzhan.charlesyin1204.com/
+- ★★★☆☆ [[星际网络建站营销导航 - 网络建站与营销工具导航]] - https://nav.xjwl123.com/
+- ★★★☆☆ [[查尔斯资源库]] - https://ziyuan.charlesyin1204.com/
+- ★★★☆☆ [[VIP资源 归档 - AI资源导航站-AI资源导航站]] - https://www.aitube.vip/vipziyuan
+- ★★★☆☆ [[副业吧 - 每日更新副业实操变现教程]] - https://fuye.charlesyin1204.com/
+- ★★★☆☆ [[AI工具大全&amp;导航 - AI 工具大全,AI 工具导航,ChatGPT 插件, ChatGPT 工具]] - https://nav.aitube.vip/
+- ★★★☆☆ [[建站酷梦啦的个人空间-酷梦啦个人主页-哔哩哔哩视频]] - https://space.bilibili.com/1685171028
+- ★★★☆☆ [[轻量级PHP框架-专注WEB应用开发18年 · ThinkPHP]] - https://www.thinkphp.cn/
+- ★★★☆☆ [[2c4g宝塔开心版 BTkaixin.com]] - https://38.207.176.120:41936/
+- ★★★☆☆ [[opencart教程,opencart建站教程,opencart安装教程,OpenCart二次开发]] - https://www.opencart.cn/learning
+- ★★★☆☆ [[OpenCart-中文论坛-OpenCart中文官方网站 - OpenCart模板-OpenCart二次开发-OpenCart插件-OpenCart微信-...]] - https://bbs.opencart.cn/
+- ★★★☆☆ [[Hostinger主机安装OpenCart教程 - Hostinger评测网]] - https://hostinger.idcspy.com/3423.html
+- ★★★☆☆ [[关于opencart导航栏设置教程!_柚都魔方]] - https://www.youduclass.com/%e5%85%b3%e4%ba%8eopencart%e5%af%bc%e8%88%aa%e6%a0%8f%e8%ae%be%e7%bd%ae%e6%95%99%e7%a8%8b/
+- ★★★☆☆ [[OpenCart 購物網站架設、功能客製、網站異常檢修、網站長期維護]] - https://www.osec.tw/
+- ★★★☆☆ [[OpenCart 教學]] - https://www.cg.com.tw/OpenCart/
+- ★★★☆☆ [[opencart3.0之安装教学 - OpenCart - 中文官方网站 - 免费开源商城系统 - OpenCart模板-OpenCart二次开发-Ope...]] - https://www.cnopencart.com/opencart3-0%e4%b9%8b%e5%ae%89%e8%a3%85%e6%95%99%e5%ad%a6-2/
+- ★★★☆☆ [[3.opencart journal 主题安装教程、opencart 修改主题_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV1e24y1e7AG/?spm_id_from=333.1387.homepage.video_card.click&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★★☆☆ [[opencart教程_柚都魔方]] - https://www.youduclass.com/waimao/opencartjiaocheng/
+- ★★★☆☆ [[outdoorvolts · 设置 · Shoppaas]] - https://outdoorvolts.shoppaas.com/adminx.php/general/domaingo?ref=addtabs
+- ★★★☆☆ [[IDCTalk云说 - 国内云主机云服务器租用推荐 云计算评测优惠资讯]] - https://www.idctalk.com/
+- ★★★☆☆ [[Shopify万能钥匙的个人空间-Shopify万能钥匙个人主页-哔哩哔哩视频]] - https://space.bilibili.com/493453281?spm_id_from=333.788.upinfo.detail.click
+- ★★★☆☆ [[My Store · 主页 · Shopify]] - https://admin.shopify.com/store/c174e8
+- ★★★☆☆ [[SVIP 文稿 - Shopify Blog]] - https://shopify2006.com/tag/svip-wen-gao/
+- ★★★☆☆ [[Free Online Courses - Business e Learning and Training - Shopify Learn]] - https://www.shopify.com/learn
+- ★★★☆☆ [[Shopify大学-官方教学资料，助力中国品牌出海]] - https://university.shopify.cn/index
+- ★★★☆☆ [[Shopify Inc - Canada World - Shopify Inc Ten on Myip.ms --- Shopify Inc - 加拿大...]] - https://myip.ms/browse/sites/1/own/376714/sort/6#sites_tbl_top
+- ★★★☆☆ [[admin.shopify.com-store-c174e8-settings-payments]] - https://admin.shopify.com/store/c174e8/settings/payments
+- ★★★☆☆ [[Voice - 通话]] - https://voice.google.com/u/0/calls
+- ★★★☆☆ [[youqimade ~ 主页 ~ Shopify]] - https://youqimade.myshopify.com/admin
+- ★★★☆☆ [[Ecommerce Website Templates - Free and Premium Themes for Your Online Store.]] - https://themes.shopify.com/
+- ★★★☆☆ [[Shopify 应用商店：电子商务应用市场]] - https://apps.shopify.com/?locale=zh-CN
+- ★★★☆☆ [[12个小诀窍教你如何找到赚钱的首款产品]] - https://university.shopify.cn/detail/i_5f928a1be4b028be590ba3a0/1?from=p_5f8811cbe4b0e95a89c44750&type=6&parent_pro_id=
+- ★★★☆☆ [[Shopify 修改 优化 开发 建站 - YouTube]] - https://www.youtube.com/c/Shopify2006/videos
+- ★★★☆☆ [[Shopify 博客与教程文稿]] - https://www.shopify2006.com/
+- ★★★☆☆ [[Shopify Help Center]] - https://help.shopify.com/en
+- ★★★☆☆ [[SPFDTC - 由从业者共同建设的 Shopify 问答社区]] - https://spfdtc.com/forum.php?mod=guide
+- ★★★☆☆ [[公关资源网-一站式公关资源采购平台]] - http://www.pr666.cn/home.html
+- ★★★☆☆ [[跨屏平台_响应式网站建设_响应式网页设计_跨屏建站网_跨屏网_零代码saas建站平台]] - http://www.kuaping.com/
+- ★★★☆☆ [[站掌门站群-免费站群系统_批量建站_自动采集程序CMS]] - http://www.botadmin.cn/
+- ★★★☆☆ [[狂人站群管理系统 - 狂人采集器-站群服务论坛 - Powered by Discuz!]] - http://bbs.kuangren.net/forum-488-1.html
+- ★★★☆☆ [[推荐五款市面上常用的免费CMS建站系统 - 知乎]] - https://zhuanlan.zhihu.com/p/28086445
+- ★★★☆☆ [[Control Panel_1]] - https://nerdvm.racknerd.com/control.php?_v=s2r223v23303n24484546454
+- ★★★☆☆ [[QQ邮箱]] - https://mail.qq.com/cgi-bin/frame_html?sid=BwDeF6ZkYx-OR1MJ&r=7e42c79cae2e13a20469a4a002a54e8c
+- ★★★☆☆ [[查ip源The trusted source for IP address data, leading IP data provider - IPinfo...]] - https://ipinfo.io/
+- ★★★☆☆ [[X站长- &quot;创建SeyouCMS站群第二个月，做个小小的总结。刚刚查看邮箱收到Google发来的12月搜索效果报告，所有的站点对比1&quot;]] - https://crossbell.io/notes/75127-43
+- ★★★☆☆ [[应援宝24小时自助投流 涨粉点赞下单系统]] - https://woaifen.top/indexPc.html#/login
+- ★★★☆☆ [[应援宝24小时自助投流 涨粉点赞下单系统_1]] - https://kol666.com/indexPc.html#/login
+- ★★★☆☆ [[High Efficiency 132cell 560 700 Watt 600W 700W Mono Solar Power Panel Manufac...]] - https://matesolar.en.made-in-china.com/product/sFzAUprOnwYL/China-High-Efficiency-132cell-560-700-Watt-600W-700W-Mono-Solar-Power-Panel-Manufacture.html
+- ★★★☆☆ [[Made-in-China.com]] - https://membercenter.made-in-china.com/message/index.html#inbox/dHnRyPeOLYqb..from=list
+- ★★★☆☆ [[Made-in-China.com_1]] - https://membercenter.made-in-china.com/message/index.html#inbox/uHmRgXIERpoG..from=list&filterType=3
+- ★★★☆☆ [[Why Trade Globally with IBKR- - Interactive Brokers LLC (盈透证券有限公司)]] - https://www.interactivebrokers.com/cn/whyib/overview.php
+- ★★★☆☆ [[拼多多]] - https://yangkeduo.com/index.html?refer_page_name=index&refer_page_id=10002_1639055600766_6ifm9tzp6m&refer_page_sn=10002
+- ★★★☆☆ [[熊猫和小鼹鼠 第01话_高清1080P在线观看平台_腾讯视频]] - https://v.qq.com/x/cover/lesch825u8n3f7q/k0019c975fx.html
+- ★★★☆☆ [[将 PDF 转换为 Word：免费的在线转换器 - Adobe Acrobat --- Convert PDF to Word- A free onlin...]] - https://www.adobe.com/acrobat/online/pdf-to-word.html
+- ★★★☆☆ [[2023最新 10天学会 微信小程序+前后端开发，从搭建到项目上线 【整整200集】学完兼职做项目_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV1sK411y7bg/?spm_id_from=333.788.recommend_more_video.4&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★★☆☆ [[前端老徐投稿视频-前端老徐视频分享-哔哩哔哩视频]] - https://space.bilibili.com/1203943185/video
+- ★★★☆☆ [[───────────]] - https://separator.mayastudios.com/index.php?t=horz
+- ★★★☆☆ [[───────────_1]] - https://separator.mayastudios.com/index.php?t=horz
+- ★★★☆☆ [[───────────_2]] - https://separator.mayastudios.com/index.php?t=horz
+- ★★★☆☆ [[百度指数]] - https://index.baidu.com/v2/index.html#/
+- ★★★☆☆ [[百度营销-首页]] - https://tuiguang.baidu.com/oneWeb.html?userid=41703904
+- ★★★☆☆ [[免费网站流量检查器：估计自然访问者和 PPC 访问者 --- Free Website Traffic Checker- Estimate Organic...]] - https://seranking.com/website-traffic-checker.html
+- ★★★☆☆ [[tdl：基于telegram的快速上传和下载器 – 苍穹の下]] - https://www.blueskyxn.com/202209/6633.html
+- ★★★☆☆ [[电报群里的视频不能下？破解电报群禁止下载视频-How to break through the limit to download videos from...]] - https://yiyuntt.blogspot.com/2023/06/how-to-break-through-limit-to-download.html
+- ★★★☆☆ [[奥斯卡资源帮助中心]] - https://aosikazy.com/static/help/index.html
+- ★★★☆☆ [[国外线路 - 站长资源站Pro-站长资源-建站教程]] - https://www.zzzypro.com/archives/sitetag/%E5%9B%BD%E5%A4%96%E7%BA%BF%E8%B7%AF
+- ★★★☆☆ [[瞎折腾吧-Tossing around is a joy of life.]] - https://xiazheteng.fun/post/17.html
+- ★★★☆☆ [[轻松搭建一个开源的、属于自己的视频网站-搭建苹果cms-maccms10内容管理平台，轻松获取免费最新的各种视频资源，原来视频网站搭建如此简单，绝对值得了..._1]] - https://naiyous.com/5617.html
+- ★★★☆☆ [[推荐影视采集源大全（适用于苹果CMS等系统） - 小哥哥资源]] - https://www.xggzy.com/237.html
+- ★★★☆☆ [[影视资源采集插件_苹果CMS采集采集_飞飞cms采集插件_海洋cms采集插件 - 影视站长圈]] - https://www.yszzq.com/ziyuan/webplugin/
+- ★★★☆☆ [[【汇编】热性别和高潮性高潮。 - Pornhub.com]] - https://cn.pornhub.com/view_video.php?viewkey=644d550acd2fa
+- ★★★☆☆ [[其它-全部No.1-PLAYNO.1玩樂達人]] - http://www.playno1.com/portal.php?mod=list&catid=68
+- ★★★☆☆ [[小日本青少年像女牛仔一样骑 - Pornhub.com]] - https://cn.pornhub.com/view_video.php?viewkey=644e9616eb2cf
+- ★★★☆☆ [[Chinese homemade video]] - https://91porn.com/index.php
+- ★★★☆☆ [[草榴社區 - t66y.com]] - https://www.t66y.com/index.php
+- ★★★☆☆ [[毒奶导航 - 毒奶博主的万能网址导航神器！]] - https://limbopro.com/daohang/index.html#gsc.tab=0
+- ★★★☆☆ [[我的帐号 - JAVLibrary]] - https://www.javlibrary.com/cn/myaccount.php
+- ★★★☆☆ [[───────────_3]] - https://separator.mayastudios.com/index.php?t=horz
+- ★★★☆☆ [[电商知识资讯 - 环球易销网]] - https://www.chinabrands.cn/dropshipping/tag-7.html
+- ★★★☆☆ [[FREE Business Name Generator- Company Name Ideas (2023) - Shopify]] - https://www.shopify.com/tools/business-name-generator?index
+- ★★★☆☆ [[编程随想的博客]] - https://program-think.blogspot.com/?m=1
+- ★★★☆☆ [[淘宝教育，陪你开启电商成长之旅]] - https://daxue.taobao.com/home.jhtml
+- ★★★☆☆ [[南绿园林后台V3.1.3-20220103]] - https://nanluyuanlin.cn/admin.php?p=/Message/index
+- ★★★☆☆ [[影优尽优邀请码和教程 - 未分类 - Frepai]] - https://www.frepai.com/post/11.html
+- ★★★☆☆ [[2023版按键精灵手机版零基础脚本教学-橙苏博客]] - https://starcheng.xyz/store/goods/785.html
+- ★★★☆☆ [[枫创资源站 - 好用的源码站]] - https://fengchuangziyuan.com/
+- ★★★☆☆ [[RiPro主题-RiTheme主题]] - https://ritheme.com/theme/ripro.html
+- ★★★☆☆ [[企业猫源码网-专注于分享精品源码的源码网]] - https://www.qymao.cn/
+- ★★★☆☆ [[6e技术网-专注于定制开发-高质量源码下载的网站]] - https://w6e.cn/
+- ★★★☆☆ [[宝塔Linux面板]] - http://206.233.135.172:8889/files
+- ★★★☆☆ [[大鹏源码网-大鹏资源网-网站源码-站长资源网专注福利技术教程活动软件-全网最大资源分享网]] - https://www.wobbt.com/
+- ★★★☆☆ [[加入小高教学网活动资讯资源群-小高网]] - https://www.xgw4.com/10304.html
+- ★★★☆☆ [[91chengzhang.cn - localhost - 91chengzhang_cn - phpMyAdmin 4.8.5]] - https://91chengzhang.cn/phpMyAdmin4.8.5/db_sql.php?db=91chengzhang_cn
+- ★★★☆☆ [[介绍 · Go语言中文文档-xorm]] - http://xorm.topgoer.com/
+- ★★★☆☆ [[vue3]] - https://blog.csdn.net/Jernnifer_mao/article/details/131287746%20%20%E8%A1%A5
+- ★★★☆☆ [[简介 - Vue.js]] - https://cn.vuejs.org/guide/introduction.html
+- ★★★☆☆ [[电商建站教程 梧桐小讲堂 - YouTube]] - https://www.youtube.com/c/%E6%A2%A7%E6%A1%90%E5%B0%8F%E8%AE%B2%E5%A0%82
+- ★★★☆☆ [[───────────_4]] - https://separator.mayastudios.com/index.php?t=horz
+- ★★★☆☆ [[【全348集】清华大佬终于把Python整理成动画片了，通俗易懂，2024最新版！全程干货无废话，学完即可就业！这还学不会，我退出IT圈！_哔哩哔哩_bi...]] - https://www.bilibili.com/video/BV1X4421U71k/?spm_id_from=333.1007.tianma.34-3-133.click&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★★☆☆ [[前端后端 大数据区块链完整学习 尚硅谷IT培训学校 - YouTube]] - https://www.youtube.com/@atguigu/playlists
+- ★★★☆☆ [[慕课网 php mysql javascript go+python uni-app周小伦 - YouTube]] - https://www.youtube.com/channel/UCqoxfy6XdMj6o_KoubaSm3Q/playlists
+- ★★★☆☆ [[前后端 php LiveCoding Live Coding - YouTube]] - https://www.youtube.com/c/LiveCodingTw/playlists
+- ★★★☆☆ [[Canvas 编程 python 程序员 Jomy King - YouTube]] - https://www.youtube.com/c/JomyKing
+- ★★★☆☆ [[───────────_5]] - https://separator.mayastudios.com/index.php?t=horz
+- ★★★☆☆ [[YouTube推荐频道订阅-月光博客]] - https://www.williamlong.info/archives/5627.html
+- ★★★☆☆ [[───────────_6]] - https://separator.mayastudios.com/index.php?t=horz
+- ★★★☆☆ [[───────────_7]] - https://separator.mayastudios.com/index.php?t=horz
+- ★★★☆☆ [[python先驱聊书科幻 大媽的多重宇宙 - YouTube]] - https://www.youtube.com/@Chaos42DAMA
+- ★★★☆☆ [[Python小马技术 - YouTube]] - https://www.youtube.com/@deeplearncloud/playlists
+- ★★★☆☆ [[JavaScript学习呀三木 - YouTube]] - https://www.youtube.com/@createmore/playlists
+- ★★★☆☆ [[⚠️花3W买的Python全套教程，付费课程！请低调使用，千万别再盲目自学！包含所有干货内容，入股不亏！_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV1xN4y1Y7s3/?spm_id_from=333.1007.tianma.4-2-13.click&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★★☆☆ [[大海资源网-免费源码下载,学习永不止步！]] - https://www.dhzy.fun/
+- ★★★☆☆ [[linux golang 编程FangChannel - YouTube]] - https://www.youtube.com/@fangimagine/playlists
+- ★★★☆☆ [[python、obsidian等效率工具余汉波 - YouTube]] - https://www.youtube.com/@yuhanbo
+- ★★★☆☆ [[───────────_8]] - https://separator.mayastudios.com/index.php?t=horz
+- ★★★☆☆ [[纯前端vue3电商商城模版+跟随项目的高定制UI框架+可配路径tabBar - DCloud 插件市场]] - https://ext.liuyingyong.cn/plugin?id=11040#rating
+- ★★★☆☆ [[003-vue3环境搭建-支锅烧饭_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV1Ss4y1T7mZ/?p=3&spm_id_from=pageDriver&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★★☆☆ [[刘金玉编程 - YouTube]] - https://www.youtube.com/@ljybc
+- ★★★☆☆ [[DCloud - HBuilder、HBuilderX、uni-app、uniapp、5+、5plus、mui、wap2app、流应用、HTML5、小程序...]] - https://dcloud.io/
+- ★★★☆☆ [[(89 封私信 - 80 条消息) 前端开发需要掌握哪些语言，大致什么程度？这些语言是做什么的？ - 知乎]] - https://www.zhihu.com/question/363169805
+- ★★★☆☆ [[千锋教育前端uniapp入门到实战项目教程(微信小程序+H5+安卓APP+IOS APP)_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV1oy4y1j75s/?vd_source=94023689a6dde790f7313d8efeb13184
+- ★★★☆☆ [[千锋web前端开发项目1000_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV17z4y1D7Yj/?p=3&spm_id_from=pageDriver&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★★☆☆ [[054-如何添加CSS之内部样式_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV1oU4y1278g/?p=55&spm_id_from=pageDriver&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★★☆☆ [[学完就业！2023超全web前端教程全集（含技术路线） - 哔哩哔哩]] - https://www.bilibili.com/read/cv19503201/
+- ★★★☆☆ [[黑马程序员PHP零基础入门到精通教程（P1基础6天）-酷梦啦-PHP-哔哩哔哩视频]] - https://www.bilibili.com/list/ml2486132528?oid=12863134&bvid=BV18x411H7qD
+- ★★★☆☆ [[───────────_9]] - https://separator.mayastudios.com/index.php?t=horz
+- ★★★☆☆ [[在线学习美式英语]] - https://learnamericanenglishonline.com/index.html
+- ★★★☆☆ [[英语课有趣的积分方式 - 百度文库]] - https://wenku.baidu.com/view/650d7e350912a21614792971.html
+- ★★★☆☆ [[英语课有趣的积分方式-- 百度文库]] - https://wenku.baidu.com/view/650d7e350912a21614792971.html
+- ★★★☆☆ [[───────────_10]] - https://separator.mayastudios.com/index.php?t=horz
+- ★★★☆☆ [[Dictionary by Merriam-Webster- America&#39;s most-trusted online dictionary]] - https://www.merriam-webster.com/
+- ★★★☆☆ [[Telegram 公眾索引系統]] - https://tgtw.cc/index.php
+- ★★★☆☆ [[慢城八岛电梯洋房一梯两户，中间楼层，精装大三房两卫_南充泰合慢城八岛二手房3室2厅121平米【南充贝壳找房】]] - https://nanchong.ke.com/ershoufang/106114483104.html?fb_expo_id=711171274214289412
+- ★★★☆☆ [[【全368集】强推！2024最细自学Python全套教程，编程技术猛涨！！别再走弯路了，逼自己一个月学完，从0基础小白到大神只要这套就够了！_哔哩哔哩_b...]] - https://www.bilibili.com/video/BV1fJ4m1P7VF/?spm_id_from=333.1007.tianma.4-1-11.click
+- ★★★☆☆ [[应用宝市场]] - https://webcdn.m.qq.com/webapp_myapp/index.html#/
+- ★★★☆☆ [[迅雷会员账号共享2019年07月07日更新 迅雷会员账号分享贴吧 迅雷会员试用一天 - VIP部落]] - http://www.vipbuluo.com/18233.html
+- ★★★☆☆ [[FastCopy 4.10 汉化版！免费、高速的大量文件复制工具 [Windows] – 零度解说]] - https://www.freedidi.com/4078.html
+- ★★★☆☆ [[程序开发资源库]] - https://zyk.mingrisoft.com/Develop/index/cid/49.html
+- ★★★☆☆ [[聚查 - 站长工具]] - https://www.dir123.com/html/3151.html
+- ★★★☆☆ [[Vector Icons and Stickers - PNG, SVG, EPS, PSD and CSS]] - https://www.flaticon.com/?k=1700647536271&sign-up=google
+- ★★★☆☆ [[m3u8 downloader]] - https://blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html
+- ★★★☆☆ [[ER0学院 - 一个可以学习编程的平台! 苹果CMS模板社区，苹果CMS站长资源分享平台！]] - https://www.er0xy.com/
+- ★★★☆☆ [[遇见API]] - https://www.yujn.cn/
+- ★★★☆☆ [[Windows 11 LTSC 2024 长期服务版官方镜像下载！选IoT 物联版 还是企业版？-零度博客]] - https://www.freedidi.com/18143.html
+- ★★★☆☆ [[微PE工具箱 - 下载]] - https://www.wepe.com.cn/download.html
+- ★★★☆☆ [[Download . Ventoy]] - https://www.ventoy.net/cn/download.html
+- ★★★☆☆ [[Downie 4 Mac中文破解版下载 - 最强网页视频嗅探神器 - ZAPRO · 杂铺 - b站视频下载, Downie 4, Downie 4 fo...]] - https://tmioe.com/3223.html
+- ★★★☆☆ [[API密钥 - GroqCloud]] - https://console.groq.com/keys
+- ★★★☆☆ [[个人求职中心 - 卓博人才网]] - https://www.jobcn.com/person/index.xhtml
+- ★★★☆☆ [[全球汽车信息平台]] - https://www.marklines.com/portal_top_cn.html
+- ★★★☆☆ [[Opencart主题模板 - OpenCart - 中文官方网站 - 免费开源商城系统 - OpenCart模板-OpenCart二次开发-OpenCar...]] - https://www.cnopencart.com/opencart-theme/
+- ★★★☆☆ [[车链网-登录]] - http://www.kaiche88.com/index.php/wap/Member/login
+- ★★★☆☆ [[流金歲月 - Powered by phpwind]] - https://www.g-years.com/2006/
+- ★★★☆☆ [[中医体质测试-活法儿huofar.com]] - http://www.huofar.com/ll_tizhi.php
+- ★★★☆☆ [[小米电视精简换桌面，仅支持win系统_小米电视_ZNDS - 手机版]] - https://www.znds.com/tv-1170521-1-1.html
+- ★★★☆☆ [[最低成本折腾rd45换rd4面板成功 附送rd45匹配图文教程_标致408论坛_手机汽车之家]] - https://club.m.autohome.com.cn/bbs/threadowner/98292c6a31a1072a/22299801-1.html
+- ★★★☆☆ [[聚BT - 聚合最优质的BT、磁力资源 - BT搜索 磁力搜索 云盘搜索 影视APP 在线影视 磁力影视 种子搜索]] - https://jubt.cf/cn/index.html
+- ★★☆☆☆ [[fecify AI智能建站_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV1frERzmE6w/?spm_id_from=333.337.search-card.all.click&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★☆☆☆ [[技術討論區 - 草榴社區 - t66y.com]] - https://www.t66y.com/thread0806.php?fid=7&search=today
+- ★★☆☆☆ [[fastadmin系列教程-小白学习之路 学前准备 安装过程 数据库分析 关联查询搜索 数据校验 视图渲染 api登录注册 token验证 table表格...]] - https://www.bilibili.com/video/BV1Ji4y1V7ZV/?spm_id_from=333.337.search-card.all.click&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★☆☆☆ [[WDCP pbootcms 建站-哔哩哔哩_Bilibili]] - https://search.bilibili.com/all?vt=31674055&keyword=WDCP%20pbootcms%20%E5%BB%BA%E7%AB%99&from_source=webtop_search&spm_id_from=333.1007&search_source=5
+- ★★☆☆☆ [[2023年最详细 零基础 pbootcms快速仿站教程 企业网站实战开发教程 网站建设 （电脑端+移动端+上线部署）每日更新_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV19h411777A/?spm_id_from=333.337.search-card.all.click&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★☆☆☆ [[crmeb微信商城小程序搭建教程，源码已分享在视频中，可以售卖实体货物，也可以售卖虚拟资源，优惠券，拼团，秒杀等功能强大，大家可以看视频亲自体验哦~_哔哩...]] - https://www.bilibili.com/video/BV19F411y7FH/?spm_id_from=333.337.search-card.all.click&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★☆☆☆ [[opencart-哔哩哔哩_Bilibili]] - https://search.bilibili.com/all?keyword=opencart&from_source=webtop_search&spm_id_from=333.1007&search_source=5
+- ★★☆☆☆ [[domain name registration query- domain price query- domain name query --- 域名注...]] - https://www.gname.com/search?cc_fang_key=3c8ae3016b8b32873080c082dfac2d54&ym=ncmsglw.com.cn&hz=
+- ★★☆☆☆ [[艾瑞数据 - 数据改变认知 提升企业效能]] - https://data.iresearch.com.cn/Home.shtml
+- ★★☆☆☆ [[苹果CMS10搭建-采集-加模板-播放器详细全套教程（OE源码网）_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV1ZuXYY8E1y/?spm_id_from=333.337.search-card.all.click&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★☆☆☆ [[element plus - YouTube]] - https://www.youtube.com/results?search_query=element+plus+
+- ★★☆☆☆ [[vue - YouTube]] - https://www.youtube.com/results?search_query=vue
+- ★★☆☆☆ [[2023 全网最强java算法 大师专项专讲 java专业算法【连续剧之专业算法篇】_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV1A8411A7Fb/?spm_id_from=333.337.search-card.all.click&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★☆☆☆ [[Rust编程语言入门教程（Rust语言-Rust权威指南配套）【已完结】_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV1hp4y1k7SV/?spm_id_from=333.337.search-card.all.click&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★☆☆☆ [[花了2万多买的Python教程全套，现在分享给大家，入门到精通(Python全栈开发教程)_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV1wD4y1o7AS/?spm_id_from=333.337.search-card.all.click&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★☆☆☆ [[html css javascript-哔哩哔哩_Bilibili]] - https://search.bilibili.com/all?keyword=html+css+javascript&from_source=webtop_search&spm_id_from=333.1007&search_source=5
+- ★★☆☆☆ [[黑马程序员完整JavaWeb快速入门教程【收藏比赞多系列】_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV1mE411h7Co/?spm_id_from=333.337.search-card.all.click&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★☆☆☆ [[search.bilibili.com-all-vt=16541680&amp;keyword=html+css+javascript&amp;from_...]] - https://search.bilibili.com/all?vt=16541680&keyword=html+css+javascript&from_source=webtop_search&spm_id_from=333.1007&search_source=5&order=stow
+- ★★☆☆☆ [[【2023最详细VScode使用教程】已完结 零基础快速上手VS code（前端开发-.NET6-.NET Core-编程-插件-教程）S0044_哔哩哔...]] - https://www.bilibili.com/video/BV1G24y177Um/?spm_id_from=333.337.search-card.all.click&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★☆☆☆ [[PHP web开发教程4天深入浅出Laravel 框架，快速网站开发热门技能_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV1V4411h7JE/?spm_id_from=333.337.search-card.all.click&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★☆☆☆ [[【优极限】2021最新完整版Bootstrap教程（最给力的前端框架）bootstrap框架讲解-快速上手,最适合后端开发人员的bootstrap保姆级使...]] - https://www.bilibili.com/video/BV1TU4y1p7zU/?spm_id_from=333.337.search-card.all.click&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★☆☆☆ [[【10图】真实VR看房！急售！高坪区核心地段，品质小区，电梯精装三房，慢城八岛-南充58同城]] - https://nanchong.58.com/ershoufang/54257177904150x.shtml?auction=201&hpType=60&entry=102&position=6&kwtype=comm_one&now_time=1684293934&typecode=201&spread=commsearch_p&from=from_esf_List_search&index=6
+- ★☆☆☆☆ [[海风小店微信商城小程序附后端一款免费开源的小程序源码 - 小蚂蚁资源网]] - https://www.xmy7.com/app/applet/67576.html
+- ★☆☆☆☆ [[SparkShop小程序商城系统 支持多端，并带有分销功能，可用于商业用途 - 小蚂蚁资源网]] - https://www.xmy7.com/app/applet/54643.html
+- ★☆☆☆☆ [[Discuz!商业模板-价值458元N5城市门户系列-V4-商业版1.1-GBK - 小蚂蚁资源网]] - https://www.xmy7.com/moban/discuz/12986.html
+- ★☆☆☆☆ [[2024版】一天学会微信小程序+前后端开发，从搭建到项目上线全流程_学会轻松搭建自己的小程序_前端项目_小程序开发_web项目_前端项目_购物小程序_在线...]] - https://www.bilibili.com/video/BV1fS421X7Nv/?spm_id_from=333.788.recommend_more_video.5&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★☆☆☆☆ [[Discuz模板 艺佰地方门户GBK4.0 整站带演示数据+独立模板 - 小马博客]] - https://www.xiaomaw.cn/2164.html

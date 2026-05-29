@@ -1,0 +1,155 @@
+---
+category: MOC
+---
+# CrossBorder 资源
+
+跨境电商运营
+
+共 **144** 条
+
+---
+
+- ★★★★★ [[DLZ123独立站导航 shopify导航 - 跨境电商独立站品牌出海 - 独立站品牌出海门户 – DLZ123独立站导航]] - https://wxapi.icanb2c.com/
+- ★★★★☆ [[100块实现从建站到选品铺货！跨境电商新手如何低成本快速实现从0→1 - 免费铺货 - 低成本建站 - 免费流量 - 成本只要$3美金-月！ - 红孩儿R...]] - https://www.youtube.com/watch?v=uZD7kCka_iA
+- ★★★★☆ [[Meta Ads Expert Reacts To Bad &amp; Great Ad Creative - YouTube]] - https://www.youtube.com/watch?v=487xP7cEP6I
+- ★★★★☆ [[冒死上传！2024最新成人用品独立站建站及运营教程！手把手从0教学！ - YouTube]] - https://www.youtube.com/watch?v=PPEmQtFuPdE&ab_channel=%E4%BC%98%E4%B9%90%E5%87%BA%E6%B5%B7%E8%B7%A8%E5%A2%83%E7%94%B5%E5%95%86
+- ★★★★☆ [[冒死上传！2024最新成人用品独立站建站及运营教程！手把手从0教学！（2-成人类目选品思路和选品技巧） - YouTube]] - https://www.youtube.com/watch?v=ISKsgycmSVY&ab_channel=%E4%BC%98%E4%B9%90%E5%87%BA%E6%B5%B7%E8%B7%A8%E5%A2%83%E7%94%B5%E5%95%86
+- ★★★★☆ [[跨境电商 入门与平台选择]] - https://www.youtube.com/watch?v=dNMKyw21HEQ&ab_channel=KN%E8%B7%A8%E5%A2%83%E7%9F%A5%E8%AF%86
+- ★★★★☆ [[独立站站群的玩法 - 外贸独立站站群教程 - YouTube]] - https://www.youtube.com/watch?v=Shhf-WjLDP8
+- ★★★★☆ [[12分钟教你用超级简单的科学上网搭建教程SSR.有手就能弄!少点套路,多点实用!#科学上网 #外贸专用网络 #跨境节点 #翻墙 - YouTube]] - https://www.youtube.com/watch?v=OdxEK7I6x58
+- ★★★★☆ [[🥳住宅IP，怎么买最划算？性价比最优方案，不到1美金每月｜📲批量搭建20个高质量住宅IP环境｜高质量原生住宅IP购买与筛选｜⭕️跨境电商-海外社媒运营-W...]] - https://www.youtube.com/watch?v=uxQ6a_0uWHw
+- ★★★★☆ [[在各大平台出售虚拟类商品赚钱，月赚1500美元 ｜如何免费，低价获得Canva Pro会员，出售Canva Pro会员赚钱的方法和流程 ｜通过淘宝，Ets...]] - https://www.youtube.com/watch?v=jH0khY9unBc&pp=ygUM6Jma5ouf5Lqn5ZOB
+- ★★★★☆ [[AI赚钱，跨境电商蓝海产品Etsy虚拟暴利产品项目：AI ChatGPT+midjourney+canva+Printify水晶寓意卡按需印刷教程，网上卖...]] - https://www.youtube.com/watch?v=zeFpEwtEnJs&ab_channel=%E5%92%8C%E6%9C%89%E9%A3%8E%E5%AD%A6%E4%B9%A0AI%E8%81%94%E7%9B%9F%E8%90%A5%E9%94%80%E8%B5%9A%E9%92%B1
+- ★★★☆☆ [[海外独立站暴利变现真相：97%卖家不敢公开的运营法则]] - https://mp.weixin.qq.com/s/gmF4kin_gzk3kJVDOPsiMw
+- ★★★☆☆ [[ebosspro 系统启动包]] - https://chatgpt.com/c/6a054142-1c8c-83ea-b545-dfbabeaf350d
+- ★★★☆☆ [[雨果跨境-跨境电商品牌出海产业互联网平台]] - https://www.cifnews.com/
+- ★★★☆☆ [[百度爱采购 - 国内优质的批发采购平台、货源批发网、进货渠道]] - https://b2b.baidu.com/
+- ★★★☆☆ [[EverBee - Find Best Selling Products on Etsy - Chrome 应用商店]] - https://chromewebstore.google.com/detail/everbee-find-best-selling/oeicpkgdngoghobnbjngekclpcmpgpij?hl=zh-CN&utm_source=ext_sidebar
+- ★★★☆☆ [[赛盈分销 - 跨境电商海外仓外贸货源一件代发分销平台]] - https://www.saleyee.com/
+- ★★★☆☆ [[亿帆出海，一站式出海营销服务平台]] - https://bf.show/index.php
+- ★★★☆☆ [[苹果id购买-国外ID购买-电报Telegram 账号购买-账号星球]] - https://accboy7techlife.acceboy.com/zh-cn-cny
+- ★★★☆☆ [[2025 亿帆出海平台 开户指南]] - https://bluefocus.feishu.cn/docx/ZLeQdNpWEoV7aSx3TKVcZnPfn5y
+- ★★★☆☆ [[专业的各类社交媒体账号交易平台 - TGX Account]] - https://www.tgxaccount.com/?from=1817
+- ★★★☆☆ [[‌​⁤‌​⁢‍⁣﻿⁡‍﻿‌​‌‌‬﻿‌‬​⁤⁡‬‍⁤⁢‌‍​​⁡​‌‬​⁡⁤⁣‌﻿﻿⁣⁡﻿⁣﻿⁡⁣﻿网站合集 - 飞书云文档]] - https://ai.feishu.cn/base/VXdHb2Jd8aP6zasOjS6cc4Nfnei?table=tblF2fkYk3bF6oH8&view=vewitFLQL7
+- ★★★☆☆ [[‍‌​⁡⁤⁢⁤​‬⁡‬⁣‬﻿‍‬⁡​‌​‬‌⁢‌​‌‍⁡‍⁡⁡⁤‌‬​⁣‬‍‌​﻿‍​⁢‍​​​‬⁡工具表 - 飞书云文档]] - https://ai.feishu.cn/base/EpHDbWJyaavrJNsUOkecIchlnbd?table=tblx0KSHGl1A6xlT&view=vewikjbzSM
+- ★★★☆☆ [[融润出海 Melt-Flourish - YouTube]] - https://www.youtube.com/@Melt-Flourish/videos
+- ★★★☆☆ [[Onboarding]] - https://www.facebook.com/chinabusinesses/onboarding/511273569054473/?token=1987845754632764
+- ★★★☆☆ [[‌﻿⁤​⁡⁢⁢⁣⁢⁤‬⁢‍⁢⁣⁤⁡⁡⁣⁣‌‬⁣⁢⁤﻿⁤‌‍​﻿⁣‌⁢‌​‍‌⁣⁣‌﻿‌‌‬⁡⁢‬⁣⁤Facebook(Meta)开户流程 - 飞书云文档]] - https://bluefocus.feishu.cn/docx/DRHQdrrvWohESnxFioucyBdNnDg
+- ★★★☆☆ [[亿帆出海，一站式出海营销服务平台_1]] - https://bf.show/customer_ac_open_apply.php
+- ★★★☆☆ [[Product Detail]] - https://a2018011321153331928.wsxcme.com/weshop/goods/_Znuqfh4QpdWLNW9lwKGz1P2cbod5CrwI/_dvUqfR2NRNPMQ9b32OvrSFC_md4JZIkM0qKDmpg
+- ★★★☆☆ [[超A奢侈品【10年老店】]] - https://a2018011321153331928.wsxcme.com/weshop/store/_Znuqfh4QpdWLNW9lwKGz1P2cbod5CrwI
+- ★★★☆☆ [[pareezy.com]] - https://www.pareezy.com/
+- ★★★☆☆ [[小帆船跨境 - YouTube]] - https://www.youtube.com/@%E5%B0%8F%E5%B8%86%E8%88%B9%E8%B7%A8%E5%A2%83
+- ★★★☆☆ [[外贸导航网 - 外贸B2B网址 - 跨境电商网址 - 外贸从这里开始 - 外贸日报导航网站]] - https://www.waimaoribao.com/daohang
+- ★★★☆☆ [[福利局！Adspy工具「无限免费用」独门秘籍手把手教学 - DLZ123独立站导航 - 跨境电商独立站品牌出海]] - https://www.dlz123.cn/zs/Facebook/3359.html
+- ★★★☆☆ [[ADSPY Facebook广告监控工具价格、费用、推荐、哪家好-雨果跨境]] - https://m.cifnews.com/product/286
+- ★★★☆☆ [[洛伦独立站出海实战 - YouTube]] - https://www.youtube.com/@lorenzoads/videos
+- ★★★☆☆ [[Fecify 自建跨境saas商城系统]] - https://www.fecify.com/
+- ★★★☆☆ [[跨境电商班长 NY高创 - YouTube]] - https://www.youtube.com/@NY-ym1yc/featured
+- ★★★☆☆ [[独立站SHOPIFY DROPSHIP]] - https://space.bilibili.com/526718722/video?tid=0&pn=6&keyword=&order=pubdate
+- ★★★☆☆ [[Hoan外贸建站 - YouTube]] - https://www.youtube.com/@hoanwp/videos
+- ★★★☆☆ [[梅塔沃克 - 专注跨境]] - https://iweec.com/124.html
+- ★★★☆☆ [[创琦网络科技-定制网站建设开发_内外贸推广开户代投_网络营销培训]] - https://www.wly1.com/
+- ★★★☆☆ [[Alex 张的外贸推广服务 – Alex 张的外贸日常，阿历克斯张的外贸日常]] - https://xlpressure.com/
+- ★★★☆☆ [[跨境 热款 梅陇海瑞宝首饰厂_阿里巴巴旺铺]] - https://hrbjewelry.1688.com/
+- ★★★☆☆ [[外贸建站 柚都学院 - 资源分享,视频教程,技术交流,外贸主题,外贸教程,外贸模板插件.]] - https://www.ydziyuan.com/
+- ★★★☆☆ [[b2b2c多用户商城系统 - 新零售电商系统开发 - 大商创【官网】]] - https://www.ecmoban.com/
+- ★★★☆☆ [[ShopWind - 全新Yii2.0框架_开源电商系统、B2B2C多用户商城系统解决方案]] - https://www.shopwind.net/
+- ★★★☆☆ [[外贸网站模板_独立站模板_多语言网站模板_外贸商城模板-ZanCms]] - https://www.zancms.com/moban/
+- ★★★☆☆ [[zancms可视化网站装修功能使用教程-Zancms外贸独立站系统-Zancms外贸独立站系统-哔哩哔哩视频]] - https://www.bilibili.com/list/3546766093846859?sort_field=pubtime&spm_id_from=333.1387.0.0&oid=114339696611870&bvid=BV1dVoWY6Eio
+- ★★★☆☆ [[彻底摆脱Shopify！跨境电商个人创业第一期 – 码神的出海朋友圈]] - https://www.mashen-occlub-course.com/completely-get-rid-of-shopify-cross-border-e-commerce-personal/
+- ★★★☆☆ [[OpenCart v3.6 专业版（中文版+国际版）发布啦！（商业版）OpenCart 热点新闻、官方动态-OpenCart-中文论坛-opencart,...]] - https://bbs.opencart.cn/thread-15389-1-1.html
+- ★★★☆☆ [[2.opencart开源商城教程、布署搭建自己的跨境电商独立站-简明教程B站-简明教程B站-哔哩哔哩视频]] - https://www.bilibili.com/list/1705164552?tid=0&sort_field=pubtime&spm_id_from=333.999.0.0&oid=777461790&bvid=BV1n14y137Eu
+- ★★★☆☆ [[OpenCart中文官网-OpenCart独立站－开源电商系统]] - https://www.opencart.cn/
+- ★★★☆☆ [[手把手教你DIY个高逼格Opencart外贸独立站-雨果网]] - https://www.cifnews.com/article/71315
+- ★★★☆☆ [[柚都魔方_专注于跨境电商,外贸实战经验与前沿趋势,为从业者提供案例解析,学习,工具模板,行业.从入门到精通,实现跨境业务高效落地!]] - https://www.youduclass.com/
+- ★★★☆☆ [[2.opencart开源商城教程、布署搭建自己的跨境电商独立站_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV1n14y137Eu?spm_id_from=333.788.player.player_end_recommend_autoplay&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★★☆☆ [[20分钟教会你用500块搭建属于自己的全球分发快速访问的独立站!_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV11f7gzeE5T?spm_id_from=333.788.videopod.sections&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★★☆☆ [[TK跨境 – 红孩儿Redman]] - https://redman.blog/index.php/tk01/
+- ★★★☆☆ [[跨境指南 小家文化 tk签约达人]] - https://cpsea.com/
+- ★★★☆☆ [[(89 封私信 - 80 条消息)跨境促销品智能服务平台 外贸边界 - 知乎]] - https://www.zhihu.com/people/wai-mao-bian-jie
+- ★★★☆☆ [[促销礼品外贸 - 知乎]] - https://www.zhihu.com/column/c_1384066066306519040
+- ★★★☆☆ [[外贸边界 - 跨境促销品-B2B智能服务平台]] - https://www.coriii.com/
+- ★★★☆☆ [[ASI - 外贸边界]] - https://www.coriii.com/archives/category/b2b/asi
+- ★★★☆☆ [[美国促销礼品协会ASI和SAGE新手入门TOP 10手册和侵权指南 - 外贸服务广告 - 其他行业 - 福步外贸论坛(FOB Business Forum...]] - https://bbs.fobshanghai.com/thread-8458555-1-1.html
+- ★★★☆☆ [[非主流外贸方子(試試來這裡找外贸的答案)]] - https://ginifab.com/question/
+- ★★★☆☆ [[跨境电商平台入驻，美国礼品协会ASI和SAGE会员申请攻略_香港公司]] - https://www.rf.tm/cbec/miji/752911/
+- ★★★☆☆ [[Sage与ASI平台的美国代理与合作 - 外贸服务广告 - 其他行业 - 福步外贸论坛(FOB Business Forum) -中国第一外贸论坛]] - https://bbs.fobshanghai.com/thread-7943533-1-1.html
+- ★★★☆☆ [[详解版：139美元注册美国公司的方法 - DLZ123独立站导航 - 跨境电商独立站品牌出海]] - https://www.dlz123.cn/zs/shizhan/6985.html
+- ★★★☆☆ [[外贸云课堂，企业学习跨境贸易、网络营销的专业平台]] - https://peixun.alibaba.com/course/list____1_1_3.htm?spm=a271d.9289878.0.0.43525b07owG3F6
+- ★★★☆☆ [[外贸云课堂，企业学习跨境贸易、网络营销的专业平台_1]] - https://peixun.alibaba.com/
+- ★★★☆☆ [[回放：《参谋来了》第6期：《数据参谋全新升级，带你抓住外贸新机会！》 · 语雀]] - https://www.yuque.com/yintian-szzfr/wwm3nr/swgaqa#GTrpj
+- ★★★☆☆ [[外贸云课堂，企业学习跨境贸易、网络营销的专业平台_2]] - https://peixun.alibaba.com/series/detail_CSGC9B03.htm?spm=a272e.14114798.kjkrziva.1.37475761WJ2qfp
+- ★★★☆☆ [[首页 - 一站式外贸服务工具——外贸大师]] - https://www.51waimao.com/
+- ★★★☆☆ [[运营技巧 归档 - 跨境E站]] - https://www.yunglobe.com/alibaba/optimization-skills
+- ★★★☆☆ [[阿里巴巴国际站中文官网-专业的数字化跨境电子商务平台-海外B2B外贸出口贸易平台]] - https://supplier.alibaba.com/
+- ★★★☆☆ [[Landing - 一站式外贸服务工具——外贸大师]] - https://www.51waimao.com/landing.html
+- ★★★☆☆ [[赛盈分销 - 跨境电商海外仓外贸货源一件代发分销平台_1]] - https://www.saleyee.cn/
+- ★★★☆☆ [[8个跨境电商一件代发（Drop Shipping）分销平台 - 知乎]] - https://zhuanlan.zhihu.com/p/66341408
+- ★★★☆☆ [[做跨境电商你得知道的九大分销平台 - 知乎]] - https://zhuanlan.zhihu.com/p/410402321
+- ★★★☆☆ [[跨境巴士电商服务平台]] - http://www.kuajing84.com/index/index/index.html
+- ★★★☆☆ [[Sophia跨境浏览器]] - https://kuaxiaoer.com/install
+- ★★★☆☆ [[晨飞 跨境电商独立站与跨境创业教程原创博客]] - https://www.chenfeiblog.com/
+- ★★★☆☆ [[店小秘--免费的跨境电商ERP]] - https://www.dianxiaomi.com/index.htm
+- ★★★☆☆ [[Seller Education Hub 虾皮学习中心]] - https://shopee.cn/edu/home
+- ★★★☆☆ [[比特指纹浏览器-反指纹浏览器-防关联指纹浏览器-跨境电商浏览器-超级浏览器]] - https://www.bitbrowser.cn/
+- ★★★☆☆ [[福步外贸论坛(FOB Business Forum) -中国第一外贸论坛]] - https://bbs.fobshanghai.com/
+- ★★★☆☆ [[Etsy 日本 -ハンドメイド、ビンテージ、オーダーメイドのユニークなギフトを見つけましょう --- Etsy Japan - 寻找手工制作、复古和定制的...]] - https://www.etsy.com/
+- ★★★☆☆ [[地球村跨境电商之旅投稿视频-地球村跨境电商之旅视频分享-哔哩哔哩视频]] - https://space.bilibili.com/246070496/video
+- ★★★☆☆ [[废热跨境日记投稿视频-废热跨境日记视频分享-哔哩哔哩视频]] - https://space.bilibili.com/11465780/video
+- ★★★☆☆ [[跨境班长投稿视频-跨境班长视频分享-哔哩哔哩视频]] - https://space.bilibili.com/85742625/video
+- ★★★☆☆ [[跨境电商卖家网址导航 - 跨境电商中小卖家常用网址大全（123.Adoncn.com）]] - https://123.adoncn.com/
+- ★★★☆☆ [[跨境工作台主页]] - https://global.1688.com/#/home
+- ★★★☆☆ [[跨境@米show-跨境电商新商业观察者]] - https://www.amishow.com/
+- ★★★☆☆ [[跨境电商网址导航大全-外贸进出口辅助工具]] - https://www.dongkuajing.com/tool
+- ★★★☆☆ [[成都市跨境电子商务协会]] - http://www.cdcea.org/index.shtml
+- ★★★☆☆ [[爱阿里 ai-ali.com 外贸极速导航-爱阿里是一个专门为阿里巴巴国际站外贸员准备的万能导航网址]] - http://ai-ali.com/
+- ★★★☆☆ [[独立站导航 - 跨境电商卖家独立站网址导航]] - https://daohang.snswhy.com/
+- ★★★☆☆ [[蘑菇跨境 - 全球跨境电商导航工具资讯平台]] - https://www.amzmm.com/
+- ★★★☆☆ [[独立站一站式导航-雨果跨境]] - https://m.cifnews.com/dlz365
+- ★★★☆☆ [[海外独立站在线素材设计导航 - 17DTC,DTC品牌出海必备导航网站]] - https://17dtc.com/favorites/online-image
+- ★★★☆☆ [[audtools独立站跨境电商工具导航 -shopify独立站工具导航-跨境出海工具导航-shopify工具导航]] - https://dh.audtools.com/
+- ★★★☆☆ [[DLZ123独立站导航 shopify导航 - 跨境电商独立站品牌出海 - 独立站品牌出海门户 – DLZ123独立站导航_1]] - https://www.dlz123.cn/
+- ★★★☆☆ [[跨境电商独立站工具导航-独立站运营工具大全-AMZ123跨境导航]] - https://www.amz123.com/dl
+- ★★★☆☆ [[外贸独立站导航 - 提供常用网站集合，实用工具，插件和独立站推广运营技巧]] - https://www.waimaotools.com/
+- ★★★☆☆ [[雨果跨境-跨境电商品牌出海产业互联网平台_1]] - https://m.cifnews.com/
+- ★★★☆☆ [[跨境知道官网_360万新外贸人资源平台_跨境电商服务平台_跨境电商培训_跨境电商运营]] - https://m.ikjzd.com/
+- ★★★☆☆ [[福步外贸论坛(FOB Business Forum) -中国第一外贸论坛_1]] - https://bbs.fobshanghai.com/index.php
+- ★★★☆☆ [[虎客 – 一站式跨境营销中心]] - https://www.hoocs.com/
+- ★★★☆☆ [[跨境市场经济数据 BusiBoom电商•营销•科技•商业 - YouTube]] - https://www.youtube.com/@busiboom
+- ★★★☆☆ [[跨境电商 独立站 lvsao - YouTube]] - https://www.youtube.com/@lvsao/videos
+- ★★★☆☆ [[跨境电商 Yi Kim - YouTube]] - https://www.youtube.com/@yikim9415/videos
+- ★★★☆☆ [[跨境B哥 - YouTube]] - https://www.youtube.com/@kjbgyyds/videos
+- ★★★☆☆ [[外贸团长 - YouTube]] - https://www.youtube.com/@tradetuan/videos
+- ★★★☆☆ [[灯塔跨境-跨境卖家网站导航]] - https://123.dtkj.net/
+- ★★★☆☆ [[跨境出海Forest李 - YouTube]] - https://www.youtube.com/@forest1702/videos
+- ★★★☆☆ [[账号购买Aged Facebook Accounts For Sale – Buy Top Rated Old Facebook Aged Account...]] - https://fbaccs.com/
+- ★★★☆☆ [[进口代理_食品批发跨境o2o平台_进口食品-福图喜纳FOOD2CHINA]] - http://www.food2china.com/?hmsr=F2CeDM-newbuyer&hmpl=&hmcu=&hmkw=&hmci=
+- ★★★☆☆ [[TradeIndia - 印度出口商，制造商，供应商目录，B2B企业名录]] - https://www.tradeindia.com/
+- ★★★☆☆ [[Lazada.co.th - ช้อปปิ้งออนไลน์ รับเครดิตเงินคืน 10% ส่งฟรีทุกวัน]] - https://www.lazada.co.th/
+- ★★★☆☆ [[Business To Business (b2b) Marketplace - Manufacturers Directory For Internat...]] - https://www.tradekey.com/
+- ★★★☆☆ [[EC21, Global B2B Marketplace - Connecting Global Buyers with Manufacturers, S...]] - https://www.ec21.com/
+- ★★★☆☆ [[Manufacturers &amp; Suppliers Directory - Global Sources]] - https://www.globalsources.com/?keywords=b2b&matchtype=b&device=c&WT.mc_id=1001049&WT.srch=1&gclid=EAIaIQobChMI-eCUttSI4QIV06qWCh2yFwiqEAAYASAAEgKErfD_BwE
+- ★★★☆☆ [[Most Wanted - Etsy]] - https://www.etsy.com/market/most_wanted
+- ★★★☆☆ [[Best Selling Items - Etsy]] - https://www.etsy.com/market/best_selling_items
+- ★★★☆☆ [[Most Popular Item - Etsy]] - https://www.etsy.com/market/most_popular_item
+- ★★★☆☆ [[Electronics, Cars, Fashion, Collectibles &amp; More - eBay]] - https://www.ebay.com/
+- ★★★☆☆ [[优哥跨境 - YouTube]] - https://www.youtube.com/@ugo_earn/videos
+- ★★★☆☆ [[Etsy - Shop for handmade, vintage, custom, and unique gifts for everyone]] - https://www.etsy.com/?utm_source=google&utm_medium=cpc&utm_term=etsy_e&utm_campaign=Search_US_Brand_GGL_ENG_General-Brand_Core_All_Exact&utm_ag=A1&utm_custom1=_k_Cj0KCQiAhbi8BhDIARIsAJLOlufKPzFfmuKAAiGWMXI-0DmxaqToshWMvjQu9sUGApvnnM8PDuIMEsYaAq8VEALw_wcB_k_&utm_content=go_227553629_16342445429_536666953103_kwd-1818581752_c_&utm_custom2=227553629&gad_source=1&gclid=Cj0KCQiAhbi8BhDIARIsAJLOlufKPzFfmuKAAiGWMXI-0DmxaqToshWMvjQu9sUGApvnnM8PDuIMEsYaAq8VEALw_wcB
+- ★★★☆☆ [[AI有风 - 国外网上赚钱常用工具网站大全、网赚网址导航 - 国外AI网上赚钱网址导航，做YouTube视频、网站、联盟营销、跨境电商网格赚钱常用的国外工...]] - https://aiyoufeng.com/
+- ★★★☆☆ [[和有风一起学习无货源跨境电商 - YouTube]] - https://www.youtube.com/@kuajingdianshang/videos
+- ★★★☆☆ [[容恒物流有限公司的个人空间-容恒物流有限公司个人主页-哔哩哔哩视频]] - https://space.bilibili.com/1487640375?spm_id_from=333.788.0.0
+- ★★★☆☆ [[外贸资料表格类 宝达工作室-淘宝网]] - https://shop121362540.taobao.com/?spm=a1z10.3-c.0.0.3fe1578e8ISTxt
+- ★★★☆☆ [[福禄聚采商城-数字权益商品批量采购充值-福禄聚采企业购平台]] - https://b2b.fulu.com/
+- ★★★☆☆ [[首页-诺诺的外贸笔记-淘宝网]] - https://shop550510250.taobao.com/?spm=pc_detail.27183998/evo365560b447259.202202.3.66e07dd6hX2fKu#/
+- ★★★☆☆ [[首页-鸿锋跨境工作室-淘宝网]] - https://shop546103358.taobao.com/?spm=pc_detail.27183998/evo365560b447259.202202.3.58ec7dd6je8jEy#/
+- ★★★☆☆ [[Gofair外贸实战教程的个人空间_哔哩哔哩_bilibili]] - https://space.bilibili.com/1515021316
+- ★★★☆☆ [[跨境建站 营销 哟派出海 - YouTube]] - https://www.youtube.com/@yooopaaa/videos
+- ★★★☆☆ [[跨境 vps linux 甲骨文 梅塔沃克 - YouTube]] - https://www.youtube.com/c/%E6%A2%85%E5%A1%94%E6%B2%83%E5%85%8B
+- ★★★☆☆ [[GPT跨境电商 Jason Kou - YouTube]] - https://www.youtube.com/@jason_kou/videos
+- ★★★☆☆ [[外贸界的黄大仙 鲲圭云计算视频专辑-鲲圭云计算视频合集-哔哩哔哩视频]] - https://space.bilibili.com/453006087/channel/series
+- ★★★☆☆ [[外贸网站是否专业 一招教你学会辨别_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV14V4y1X7zC/?spm_id_from=333.788&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★★☆☆ [[登录 — 跨境Cloud]] - https://ikuajing.xyz/auth/login
+- ★★☆☆☆ [[参谋来了外贸出口报关-阿里巴巴国际站-参谋来了外贸出口报关相关资讯]] - https://supplier.alibaba.com/content/search.htm?spm=a27am.12866437.0.0.12675dcepLLtEC&title=%E5%8F%82%E8%B0%8B%E6%9D%A5%E4%BA%86&type=live&currentPage=6&joinSource=alibaba
+- ★★☆☆☆ [[店内搜索页-跨境电商工具团购-淘宝网]] - https://shop112946078.taobao.com/search.htm?spm=a1z10.1-c-s.w4004-17461919768.1.328d5ab3BZETMa&search=y&orderType=coefp_desc
+- ★★☆☆☆ [[Youtube 缩略图 - Etsy Hong Kong --- Youtube thumbnail - Etsy Hong Kong]] - https://www.etsy.com/hk-en/search?q=youtube+thumbnail&ref=auto-1&as_prefix=youtube+t

@@ -1,0 +1,357 @@
+# 高价值资源
+
+> 评分 >= ★★★★☆，共 348 条
+
+## ★★★★★ 核心资源
+
+- [[GPTNB ONEAPI]] - https://oneapi.gptnb.ai/
+- [[DeepSeek 开放平台]] - https://platform.deepseek.com/usage
+- [[Workbench - Claude Platform]] - https://platform.claude.com/workbench/5ebd0fc2-7924-466c-8abe-84530ce7cf95
+- [[乌客]] - https://docs.qq.com/doc/DS25QZ3dGV3JGQ0lB
+- [[磊科N60 Pro刷机教程]] - https://docs.qq.com/doc/DS2dER2ZnRVpRY1dQ?nlc=1
+- [[API keys - OpenAI API]] - https://platform.openai.com/api-keys
+- [[]] - https://platform.deepseek.com/api_keys
+- [[DLZ123独立站导航 shopify导航 - 跨境电商独立站品牌出海 - 独立站品牌出海门户 – DLZ123独立站导航]] - https://wxapi.icanb2c.com/
+- [[天行数据TianAPI - 开发者API数据平台]] - https://www.tianapi.com/
+- [[SerpApi：Google 搜索 API --- SerpApi- Google Search API]] - https://serpapi.com/
+- [[天聚数行控制台首页]] - https://www.tianapi.com/console/
+- [[钱多多 API]] - https://api.aigcbest.top/
+- [[腾讯文档-官方网站-支持多人在线编辑Word、Excel和PPT文档]] - https://docs.qq.com/
+- [[影视仓接口地址管理系统 - 最新 TVBOX 配置地址 - 影视仓接口实时更新]] - https://api.starlink.uno/index.php
+- [[云视频-阿里云开发者社区]] - https://developer.aliyun.com/live?spm=a2c6h.12883283.index.43.5f1f43071sq0ZB&taskPkg=spring2022_all&pkgSid=278130
+- [[各类网盘资源分享历史大合集]] - https://docs.qq.com/doc/DRlhtc3ZqZlVJS2hh
+- [[My Templates]] - https://docs.craft.do/s/My-Space--c6fe5c7f-054d-715d-09b1-1ea61045dc60/templates
+- [[私藏影S库]] - https://docs.qq.com/aio/DTmtxa0tvRUpPdFBx?p=qHuiTdqTntX0acRN6ojVCt
+
+## ★★★★☆ 重要资源
+
+- [[用水星银行实体卡在国内ATM机取现！Mercury Bank #533 - YouTube]] - https://www.youtube.com/watch?v=UdOmqGRb4C4
+- [[如何用合法合規的方式DIY獲得美國的銀行帳戶：外國人申請美國銀行帳戶的方法 - YouTube]] - https://www.youtube.com/watch?v=5O86HMYKEpQ
+- [[【全网首发】搭建任意地区TikTok专线节点，免拔卡观看TikTok，双isp节点搭建，节点中转提速，寻找纯净IP，解决ip与DNS位置不一致问题whoe...]] - https://www.youtube.com/watch?v=du1G5dG1qPQ
+- [[如何低成本 长期拥有一张国外手机卡 - 英国giffgaff实体卡 - 保号30年 - 注册无障碍 - YouTube]] - https://www.youtube.com/watch?v=IlJwif0gXEU
+- [[OpenClash 内核更新（0719） + 隐藏参数 + 祖传YAML分流优化 + 自训练 lightBGM 模型 = Samrt 智能策略稳如狗！完美...]] - https://www.youtube.com/watch?v=C1uGeY3RRuI
+- [[【软路由 NO.2】自己动手搭建跨境电商工作室软路由，一设备一住宅IP。 - YouTube]] - https://www.youtube.com/watch?v=UgWXuksQZNE
+- [[【跨境电商】一个wifi对应一个住宅ip，通过链式代理提速，最多支持创建32个wifi，tiktok多账号运营隔离防关联，每台设备分配不同节点IP，代理伪...]] - https://www.youtube.com/watch?v=Iw-ID4eLXXI&t=388s
+- [[跨境电商使用软路由的技巧：指纹浏览器使用软路由，网口走代理 - YouTube]] - https://www.youtube.com/watch?v=73EeYjBTOb8
+- [[【软路由6 终章】整篇分享 我做 跨境电商网络搭建 的一切经验 - YouTube]] - https://www.youtube.com/watch?v=l-2Glt7Gb1Y
+- [[10分钟搞定！Smartstrm+Cloudsaver+Emby最强联动：免下载秒播20T网盘资源，手机电视全打通！ - YouTube]] - https://www.youtube.com/watch?v=c4Kh8ylzLTg
+- [[【Adsense副业教程】我的第一个AdSense网站搭建过程（零基础到上线全过程详解） - YouTube]] - https://www.youtube.com/watch?v=zSuEPMbgaNU
+- [[OpanClaw 部署在甲骨文云ARM 4H24G 才是龙虾最终归宿 将免费养龙虾进行到底！ - YouTube]] - https://www.youtube.com/watch?v=bAVr_FH34qE
+- [[用 OpenClaw 自动化采集阿里巴巴产品，AI 赋能 WordPress 全自动上货，完美实现“去 AI 化”深度洗稿。 - YouTube]] - https://www.youtube.com/watch?v=6tNaARsq7kA
+- [[lioensky-VCPToolBox- VCP 部署在 AI 模型 API 与前端应用之间，通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Ag...]] - https://github.com/lioensky/VCPToolBox
+- [[阿里系电商Agent：accio，免费ChatGPT opus - YouTube]] - https://www.youtube.com/watch?v=Tk4oMJWRrPc
+- [[100块实现从建站到选品铺货！跨境电商新手如何低成本快速实现从0→1 - 免费铺货 - 低成本建站 - 免费流量 - 成本只要$3美金-月！ - 红孩儿R...]] - https://www.youtube.com/watch?v=uZD7kCka_iA
+- [[一口气介绍15种MCP工具，CherryStudio配置MCP - YouTube]] - https://www.youtube.com/watch?v=iqnE6jt2lPU
+- [[【干货】最详细OpenAI Whisper 本地部署安装与使用超强教程，视频、音频自动转录字幕，开源免费神器，新手小白必看 - YouTube]] - https://www.youtube.com/watch?v=U884kjTyxUk
+- [[速度秒杀 Whisper！阿里最强开源语音转文字模型 SenseVoice 本地部署，一键生成精准字幕！ - YouTube]] - https://www.youtube.com/watch?v=oKTzRNzL9VQ
+- [[最完整的N8N自動化9小時全套教學！（從新手到高手） - YouTube]] - https://www.youtube.com/watch?v=JnepOnstpAQ
+- [[发布 CC Switch v3.14.1 · farion1231-cc-switch]] - https://github.com/farion1231/cc-switch/releases/tag/v3.14.1
+- [[不用魔法！国内免费用上 Claude Code 完整教程 - 接入 DeepSeek V4 - YouTube]] - https://www.youtube.com/watch?v=3JnD31KZGz8
+- [[Codex 逆袭开始！国内畅玩 OpenAI Codex，对接自建 API 中转站完整教程 - YouTube]] - https://www.youtube.com/watch?v=t83I-yEgTU8&t=13s
+- [[卸载openclaw，手把手飞牛NAS安装Hermes ，并对接微信，比openclaw小龙虾好用太多了！ - YouTube]] - https://www.youtube.com/watch?v=hB6MbkzpgdA
+- [[feicaiclub-video-spec-builder- video-spec-builder —— 把我想做个视频逼成一份精确到秒的分镜脚本 vid...]] - https://github.com/feicaiclub/video-spec-builder
+- [[Hyperframes教程：用这套方法，让 Codex 剪视频效果以及效率翻倍 - YouTube]] - https://www.youtube.com/watch?v=yfiV1ExXaq0
+- [[Peppa Pig Learns How to Play Cricket with Kylie Kangaroo - YouTube]] - https://www.youtube.com/watch?v=JBAdgO4j8FU&list=PLFEgnf4tmQe_YHkXH2p7X-dqnBzR0FIJn
+- [[0代码3步搭建2026最强AI营销团队！我花了一年才发现这个Claude Agent框架… - YouTube]] - https://www.youtube.com/watch?v=Pu8Yfxvd2p4
+- [[Claude Cowork 完整教程（2026）：打造你的AI员工 - YouTube]] - https://www.youtube.com/watch?v=eYfa83UEXJg
+- [[【超實用】一次搞懂Claude AI全生態！2026全新初學者完整教程，從基本用法到全新自動化系統！零基礎初學者必看，15個Claude超棒的使用方法！C...]] - https://www.youtube.com/watch?v=zm3K831v470
+- [[如何用 AI Agent 组建自动化工作流，1人顶100人！ - YouTube]] - https://www.youtube.com/watch?v=Zh_PEVs08Zc
+- [[人工智能比我强-用ChatGPT撰写亚马逊Listing（AI不掉队）★海麦亚马逊FBA★ - YouTube]] - https://www.youtube.com/watch?v=rUu803yv7sA
+- [[要不要用AI来代替人投亚马逊广告？（德国Adspert Amazon PPC）★海麦亚马逊FBA★ - YouTube]] - https://www.youtube.com/watch?v=V837wIFNfJA
+- [[【第六期】2021年沃尔玛还是亚马逊，哪个更赚钱 - 沃尔玛电商 - 亚马逊开店 - 2021年创业 - YouTube]] - https://www.youtube.com/watch?v=va8wJP5UoIY
+- [[2025年做亚马逊FBA到底要花多少钱？最详细的低成本启动指南 - YouTube]] - https://www.youtube.com/watch?v=n2gv52xacQg
+- [[自建比机场还便宜！最新保姆级搭建节点教程，一键搭建Hysteria2协议，10元-年VPS晚高峰8K，建站+科学两不误 - YouTube]] - https://www.youtube.com/watch?v=H8wWAgCS7Ls
+- [[chopperbot直播切片Geniusay-ChopperBot- 虎牙，斗鱼，抖音，BiliBili，TikTok，Twitch🔥热门🔥智能直播视频剪...]] - https://github.com/Geniusay/ChopperBot
+- [[Release R3PLAYX v2.7.5 · Sherlockouo-music]] - https://github.com/Sherlockouo/music/releases/tag/2.7.5
+- [[日本賣最好的露營車就是它！廚房冰箱微波爐瓦斯爐都有！小車身卻能睡6人 - YouTube]] - https://www.youtube.com/watch?v=yY5b1fl-rug
+- [[lzhoang2801 (Hoang Hong Quan) · GitHub]] - https://github.com/lzhoang2801
+- [[Windows环境下dmg原版黑苹果系统OpenCore Clover引导最新Hackintosh从入门到上手新手小白零基础macOS Sequoia 1...]] - https://www.youtube.com/watch?v=pr2aiH7wTTU
+- [[GitHub - acidanthera-OpenCorePkg- OpenCore bootloader]] - https://github.com/acidanthera/OpenCorePkg
+- [[Windows环境下dmg原版黑苹果系统OpenCore Clover引导最新Hackintosh从入门到上手新手小白零基础macOS Sequoia 1...]] - https://www.youtube.com/watch?v=pr2aiH7wTTU&t=849s
+- [[最简单黑苹果教程，只需2步就能吃上黑苹果，5分钟安装，MACOS尝鲜体验Hackintosh simple tutorial - YouTube]] - https://www.youtube.com/watch?v=urrR17gIpWU
+- [[【教程】搞定Mac各种装不了、打不开、已损坏、移到废纸篓等问题 - YouTube]] - https://www.youtube.com/watch?v=hcvDh0viLhM
+- [[2025年Windows几乎完美的黑苹果安装指南 - 一键检测工具+详细安装教程，小白也能成功！- 一台电脑双系统自由！ - YouTube]] - https://www.youtube.com/watch?v=BdUrxOMt1ZQ
+- [[软路由怪落泪，但硬路由怪笑嘻了，磊科N60PRO刷机指南 - YouTube]] - https://www.youtube.com/watch?v=03V8uRE9HQ4
+- [[2GB 内存路由器能干啥？磊科 N60 Pro 刷 OpenWrt 全教程（含扩容） - YouTube]] - https://www.youtube.com/watch?v=0fp6HGTrkkI
+- [[&quot;喧宾夺主&quot;docker版1panel 如何管理宿主机iStoreOS的文件 - YouTube]] - https://www.youtube.com/watch?v=5s6bSP4n5hI
+- [[GitHub - wukongdaily-OrangePiShell- 在Linux上快速部署一些好用的docker项目。起初只是为了香橙派制作。推荐使用...]] - https://github.com/wukongdaily/OrangePiShell
+- [[GitHub - QYG2297248353-iycms- 高性能高并发永久免费影视CMS]] - https://github.com/QYG2297248353/iycms
+- [[bitxeno-awesome-appletv- 收集好用的 AppleTV 应用]] - https://github.com/bitxeno/awesome-appletv
+- [[免费看片神器哪家强？LibreTV对比MoonTV - 功能、界面、交互、客户端、视频源对比 - 完全免费、轻松部署使用 - YouTube]] - https://www.youtube.com/watch?v=WhIhPmUBTSc&t=1s
+- [[飞牛小主机+Apple TV观影项目合集！新手可以了解下，立马提升观影体验 - YouTube]] - https://www.youtube.com/watch?v=T1S-CQfUaQ4
+- [[在飞牛云或者VPS用Docker搭建一个基于spotdl和yt dl的音乐下载器 playlistdl - YouTube]] - https://www.youtube.com/watch?v=jiP3tDOlEUw
+- [[Nastools一键部署 V3：搭建一个属于自己的、全自动化的家庭影音中心。 - YouTube]] - https://www.youtube.com/watch?v=ALXLq_Ejss8
+- [[全网影视自动收割机！-arr全家桶流水线 - 请求→抓取→下载→播放 - Jellyseerr→ Prowlarr→ Radarr-Sonarr→ qBi...]] - https://www.youtube.com/watch?v=7QQMgQ7BNR4&t=341s
+- [[]] - https://github.com/copilot
+- [[]] - https://github.com/trending?since=weekly
+- [[7个最强免费模糊照片AI把你模糊的圖片秒變清晰，無損放大！ - YouTube]] - https://www.youtube.com/watch?v=r4kzz06Pb48&ab_channel=%E5%8A%A0%E5%AF%86%E5%8D%83%E5%AF%BB
+- [[分辨率增强Release 2.15 New Year Update · upscayl-upscayl · GitHub]] - https://github.com/upscayl/upscayl/releases/tag/v2.15.0
+- [[超分辨率图片无损放大软件，图片批量无损放大神器，小巧且完全免费使用，支持win和mac系统 - YouTube]] - https://www.youtube.com/watch?v=9U3hGbk-QTU
+- [[超有趣的英文播客推荐，从入门到高阶 - YouTube]] - https://www.youtube.com/watch?v=j7y3zNFCPeE&t=181s
+- [[为什么你应该去听Podcast播客--我最爱的播客推荐(财经, 知识和故事类Podcasts) - YouTube]] - https://www.youtube.com/watch?v=ZuItzDktDiI
+- [[订阅人数最多的rss源，中文优质rss源]] - https://github.com/weekend-project-space/top-rss-list?tab=readme-ov-file
+- [[weekend-project-space-top-rss-list- 订阅人数最多的rss源，中文优质rss源]] - https://github.com/weekend-project-space/top-rss-list
+- [[Meta Ads Expert Reacts To Bad &amp; Great Ad Creative - YouTube]] - https://www.youtube.com/watch?v=487xP7cEP6I
+- [[6个简单到不行的工具 轻松提升Facebook贴文的触及率 &amp; 关注率- FB 广告新手、社群运营小编入门必备 - YouTube]] - https://www.youtube.com/watch?v=F7O3hYgJPno&ab_channel=Husky%E5%B8%82%E5%9C%BA%E5%97%85%E5%97%85
+- [[Facebook广告投放：90%的人都有的误区！｜转化效果变差的原因就在这里！ - YouTube]] - https://www.youtube.com/watch?v=pU-KNXWtlWI&ab_channel=%E5%B0%8F%E7%99%BD%E6%96%B0%E5%90%9BZoe
+- [[99%的人都投FaceBook广告都被封号，罪魁祸首被找到 ｜ FaceBook Ads教学 - part1 ｜ FaceBook广告 FaceBook广...]] - https://www.youtube.com/watch?v=Ttupe7ZhUjY&ab_channel=%E5%92%94%E5%92%94%E7%9A%84%E8%80%81%E5%90%B4
+- [[【2023新手广告投放必修课】新手也能玩转Facebook广告投放！新手广告投放速成课 - YouTube]] - https://www.youtube.com/watch?v=cdNCH5qvec8
+- [[【2023新手广告投放必修课】新手也能玩转Facebook广告投放！新手广告投放速成课 - YouTube]] - https://www.youtube.com/watch?v=cdNCH5qvec8&ab_channel=%E8%B7%A8%E5%A2%83B%E5%93%A5
+- [[FB廣告投放實戰基礎課程：實操篇｜一步一步帶你操作廣告流程 - YouTube]] - https://www.youtube.com/watch?v=03QlOlbp9fg&ab_channel=RBAY
+- [[Facebook广告手把手教学！2024年完整版培训！#电商e哥 - YouTube]] - https://www.youtube.com/watch?v=EgxETSPyXPA&ab_channel=%E7%94%B5%E5%95%86E%E5%93%A5
+- [[书接上回，Facebook广告投放的一些策略，如果你能摸清楚Facebook广告的推流机制，那么无论何种方式，最终都能得到想要的结果！ - YouTube]] - https://www.youtube.com/watch?v=jGPrNqyooFY&ab_channel=%E6%B5%A9%E6%B5%B7%E7%BD%91%E7%BB%9C_%E5%B0%8F%E6%B5%A9
+- [[这是第一次广告投放回报做到11倍！Facebook广告高广告投资回报2023年终极策略密码分享... - YouTube]] - https://www.youtube.com/watch?v=BonSaf4QHMg&ab_channel=DAOJIE
+- [[2024年初学者Facebook广告教程（逐步完整指南） - YouTube]] - https://www.youtube.com/watch?v=Lba6yvqFFv0&ab_channel=IvanMana%7C%E4%B8%AD%E5%9B%BD%E4%BA%BA
+- [[YURI 广告投放教程：简介篇 ｜ Yuri 系统介绍视频 ｜ Facebook 自动化广告系统 - YouTube]] - https://www.youtube.com/watch?v=_oweZmoxBxY
+- [[轻松玩转Facebook广告的秘密，在于这两个神器-Yuri&amp;SaleSmartly - YouTube]] - https://www.youtube.com/watch?v=z3S_0kO1AbU&pp=ygULU2FsZVNtYXJ0bHk%3D
+- [[【Facebook 教学】ADSPY最强选品工具大揭秘！快速找到热门产品！ - YouTube]] - https://www.youtube.com/watch?v=RUgHqajmM3g
+- [[cyun-note-2025年十大最佳Similarweb替代品.md at main · plankb871-cyun · GitHub]] - https://github.com/plankb871/cyun/blob/main/note/2025%E5%B9%B4%E5%8D%81%E5%A4%A7%E6%9C%80%E4%BD%B3Similarweb%E6%9B%BF%E4%BB%A3%E5%93%81.md
+- [[How to Set Up Cloaking in 10 Minutes Without Bans — Complete Guide from Cloak...]] - https://www.youtube.com/watch?v=cYyA8MzsdCc
+- [[路由器＆NAS玩家必备：Spaceship平台注册十年xyz顶级域名，不到50元！接入Cloudflare - YouTube]] - https://www.youtube.com/watch?v=6sStejv7H3Q
+- [[【大海淘客】1、淘宝建立之初为何拒绝百度，百万淘宝客的诞生！ - YouTube]] - https://www.youtube.com/watch?v=vgMBvx4mEIY&list=PL2mAUmcI4dk6iJuAF2pzqEBAg9WMNZkYk&index=1&ab_channel=%E5%A4%A7%E6%B5%B7%E8%B5%84%E6%BA%90
+- [[零基础WordPress建站 第九节：如何为独立站商城批量添加产品, Dropshipping网站产品导入操作 - YouTube]] - https://www.youtube.com/watch?v=ZbtAv4Mjy6k&t=9s
+- [[零基础html5+div+css+js网页开发教程第001期 - YouTube]] - https://www.youtube.com/watch?v=P-WF9RNdUow&list=PLHtXVCtcbbo3sis9FtsW9M5oSdffDOzkv
+- [[外贸建站干货｜全网最详细版外贸建站教程｜从后台服务器到网站的展示教程｜Kadence模板网站编辑教程｜wordpress外贸网站制作教程｜堡塔外贸网站制作...]] - https://www.youtube.com/watch?v=lR8AkLqRRys
+- [[冒死上传！2024最新成人用品独立站建站及运营教程！手把手从0教学！ - YouTube]] - https://www.youtube.com/watch?v=PPEmQtFuPdE&ab_channel=%E4%BC%98%E4%B9%90%E5%87%BA%E6%B5%B7%E8%B7%A8%E5%A2%83%E7%94%B5%E5%95%86
+- [[冒死上传！2024最新成人用品独立站建站及运营教程！手把手从0教学！（2-成人类目选品思路和选品技巧） - YouTube]] - https://www.youtube.com/watch?v=ISKsgycmSVY&ab_channel=%E4%BC%98%E4%B9%90%E5%87%BA%E6%B5%B7%E8%B7%A8%E5%A2%83%E7%94%B5%E5%95%86
+- [[Dify发布AI Agent：无需ChatGPT Plus会员，可基于任意大模型构建GPTs，并接入微信、网页、APP等应用 - YouTube]] - https://www.youtube.com/watch?v=l41J692grXE&ab_channel=AI%E5%AD%A6%E9%95%BF%E5%B0%8F%E6%9E%97
+- [[搭建私人ChatGPT服务器，轻松赚钱,GIA专线vps服务器如何搭建ChatGPT网站 #chatgpt - YouTube]] - https://www.youtube.com/watch?v=adA-OMUvT2c&ab_channel=Allen%E7%9A%84%E5%88%86%E4%BA%AB
+- [[硬核更新！ChatGPT镜像站喂饭级搭建流程，国内使用Chatgpt4的最新功能，月入过万不是梦！PandoraNext王炸来袭 - YouTube]] - https://www.youtube.com/watch?v=8iGhAQVq9wk&ab_channel=%E7%A8%8B%E5%BA%8F%E5%91%98%E8%80%81%E5%BC%A0
+- [[能写，能看，能听，能读。 免费的gemini版套壳之王来了 - YouTube]] - https://www.youtube.com/watch?v=w7JWfXlxDps&ab_channel=zhouhui
+- [[TalkWithGemini,一键免费部署您的私有Gemini应用程序,支持Gemini 1.5 Pro、Gemini 1.5 Flash、Gemini ...]] - https://github.com/Amery2010/TalkWithGemini
+- [[LobeHub 智能AI聚合神器！ 内置 ChatGPT、 Gemini Pro、Claude3、Mistral、LLaMA2 等大模型——可画图、可联网...]] - https://www.youtube.com/watch?v=6MDLVd583oI&ab_channel=%E9%9B%B6%E5%BA%A6%E8%A7%A3%E8%AF%B4
+- [[lobe-chat,🤯 Lobe Chat - 一个开源的、现代设计的 LLMs-AI 聊天框架,下载lobe-chat的源码_GitHub_帮酷支持多A...]] - https://github.com/lobehub/lobe-chat
+- [[跨境电商 入门与平台选择]] - https://www.youtube.com/watch?v=dNMKyw21HEQ&ab_channel=KN%E8%B7%A8%E5%A2%83%E7%9F%A5%E8%AF%86
+- [[我最近做的导航网站以及导航网站源码推荐 - YouTube]] - https://www.youtube.com/watch?v=-MybV3iOKC8&ab_channel=Duang%E7%9A%84VPS%E6%9C%BA%E5%9C%BA%E5%88%86%E4%BA%AB
+- [[php宝塔搭建实战ShopWind开源电商系统php开源源码 - YouTube]] - https://www.youtube.com/watch?v=MfF7ZcvtYPc&ab_channel=web%E6%B5%8B%E8%AF%84
+- [[独立站站群的玩法 - 外贸独立站站群教程 - YouTube]] - https://www.youtube.com/watch?v=Shhf-WjLDP8
+- [[梅先森 wordpress cpanel 建站 一鍵快速抓取Google表單欄位(自訂Google表單) - YouTube]] - https://www.youtube.com/watch?v=cA0Ht9BFKAc&list=PLQA-CAGI5kcwultAH8tcudyAC7Er9r9Ra
+- [[OpenCart安装 跨境电商自建站 OpenCart零基础安装教程 电子商务 自建站 网站 商城搭建 安装插件 Paypal - YouTube]] - https://www.youtube.com/watch?v=HUqySdoGM_E&ab_channel=%E9%9A%94%E5%A3%81%E7%A7%81%E5%A1%BEPrivateSchoolNextDoor
+- [[opencart 基礎網站操作-分類跟選單設定 - YouTube]] - https://www.youtube.com/watch?v=4vZlgP3Ldk4&list=PLHR9eesMWssYfMMoeKNUwVLTq8i7XHAMM&ab_channel=GoGoWeb%E5%93%81%E7%89%8C%E9%9B%BB%E5%95%86
+- [[Opencart│基礎網站操作-分類跟選單設定 - YouTube]] - https://www.youtube.com/watch?v=4vZlgP3Ldk4&list=PLHR9eesMWssYfMMoeKNUwVLTq8i7XHAMM
+- [[无需Paypal和Stripe即可收款，0费用，免费建站，新手小白过把瘾，无货源一件代发 - YouTube]] - https://www.youtube.com/watch?v=nGe1Gr9GGIU
+- [[12分钟教你用超级简单的科学上网搭建教程SSR.有手就能弄!少点套路,多点实用!#科学上网 #外贸专用网络 #跨境节点 #翻墙 - YouTube]] - https://www.youtube.com/watch?v=OdxEK7I6x58
+- [[【Shopify建站】一口气看完！Shopify建站教程完整版！ - YouTube]] - https://www.youtube.com/watch?v=6GS--bQDaMM
+- [[免费企业邮箱Zoho域名邮箱申请和设置流程 - YouTube]] - https://www.youtube.com/watch?v=Ln0cyet6mlA
+- [[Anyma &amp; Sevdaliza Samsara Unreleased 1080p - YouTube]] - https://www.youtube.com/watch?v=xgu4-fpXIo8
+- [[Melodic Techno &amp; Progressive House Mix 2023 Argy Omnia Monolink Rebūke Da...]] - https://www.youtube.com/watch?v=XJktaXYRWBg
+- [[泰语 电音บ่ต้องการเศษใจ ( เหลือแต่หอยกับรอยยิ้ม) - แบม ไพลิน [MUSIC VIDEO] - YouTube]] - https://www.youtube.com/watch?v=kMlMmuS6CYI&list=PLOZmUVFBnNuP0nhRcIWjzrXyK1IEnRCCm&ab_channel=%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5%E0%B8%9B%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%8A
+- [[[ 洋楽playlist ] 自己肯定感が上がるおしゃれな洋楽ガールズポッププレイリスト｜作業用BGM｜Positive Feelings and Ene...]] - https://www.youtube.com/watch?v=dx-ljdGYNY4&ab_channel=it.beautifulsound
+- [[BASS BOOSTED MUSIC MIX 2023 🔈 BEST CAR MUSIC 2023 🔈 BEST EDM, BOUNCE, ELECTRO...]] - https://www.youtube.com/watch?v=tyLVVUbO0wc&ab_channel=DreamClub
+- [[Arash &amp; Helena - TOP RELAX MIX MUSIC - YouTube]] - https://www.youtube.com/watch?v=RtPIWIjMjc0&ab_channel=DUBAIMusic
+- [[2024 年高分辨率音乐播放列表 - 最伟大的发烧友收藏 - 发烧友经典 - YouTube]] - https://www.youtube.com/watch?v=VtetEcR1QtU&ab_channel=GuitarMusic
+- [[世界上最美丽的旋律🎸 2024 年最佳器乐 - YouTube]] - https://www.youtube.com/watch?v=W47AdcRIqtI&ab_channel=MelodiousStrings
+- [[C-Pop Megamix 2 (粤。华 - 舞曲串烧) 那些陪着我们岁月成长的歌 - YouTube]] - https://www.youtube.com/watch?v=28imE20ZN7c&ab_channel=djmacdoctor
+- [[Viral TikTok Car Music Mix - 2024`s Best TikTok - Bass - Car - Workout Hits 🔥...]] - https://www.youtube.com/watch?v=fDlilK7wkgE&ab_channel=VIDEOHUB
+- [[Tomorrowland 2024 - Best Songs, Remixes &amp; Mashups - Warm Up Mix 2024 - Yo...]] - https://www.youtube.com/watch?v=DwjPsJphXjA&ab_channel=TOBI
+- [[好听「粤语翻唱」【抖音热歌】Tiktok -晚风心里吹 留什么给你 你的眼神 笑看风云 沉默是金 - YouTube]] - https://www.youtube.com/watch?v=KDmtwRlYe5I&ab_channel=YLMusic%26digital
+- [[Andrea ft. Mario Joy - Miss California (Mustafa &amp; Emre Remix) New video -...]] - https://www.youtube.com/watch?v=uwFXsBRfKNs&list=PLACCiBx89cfKsR8tSURUQqHJ4VuUl4Mk5&ab_channel=JHapsRecords
+- [[🔴睡眠用bgm・疲労回復 睡眠用超熟睡音楽 α波→θ波→δ波へと 寝る前に聴くと疲れが取れる音楽｜自律神経 疲労回復 熟睡 癒し ストレス緩和｜Deep ...]] - https://www.youtube.com/watch?v=_qvbdSCjjxk&ab_channel=GodspeedSleep-Relaxing-Healingmusic
+- [[美丽的轻松音乐 - 停止思考，压力缓解音乐，睡眠音乐，平静的音乐 - YouTube]] - https://www.youtube.com/watch?v=YRFFqz4k0bQ&ab_channel=EnjoyLife
+- [[音乐可以治愈心脏和血管，平静的音乐恢复神经系统，放松 - YouTube]] - https://www.youtube.com/watch?v=Yr1xeWuOQAc&ab_channel=EnjoyLife
+- [[Music Mix 2024 🎧 EDM Remixes of Popular Songs 🎧 EDM Gaming Music Mix ​ - YouTube]] - https://www.youtube.com/watch?v=xN5GQPCfCNo&ab_channel=InfinityEDM
+- [[放松心情的最佳歌曲 - 最好的灵魂R＆B混合 - YouTube]] - https://www.youtube.com/watch?v=UHxQZl5MrPM&ab_channel=1Billionview
+- [[🎵Best of Boris Brejcha DJ MIX 2020🎵 - YouTube]] - https://www.youtube.com/watch?v=9aPDyq7vu50&ab_channel=RUMI
+- [[BORIS BREJCHA&#39;s BEST TRACKS - MINIMAL HOUSE DANCE MIX (Mixed by Niksun Mi...]] - https://www.youtube.com/watch?v=l8Fz3GOV44c&ab_channel=NiksunMilushev
+- [[Boris Brejcha Parallel Universum MegaMix by RUMI - YouTube]] - https://www.youtube.com/watch?v=giIheL4Juss&list=PLM64UuzYOJG7Lm7tlC4bI8GT05djq--Tz&ab_channel=RUMI
+- [[【中毒致幻越南鼓韩国弹跳】2024 越南漂移 Vina Shift易上头💥 马来西亚巴黎人KTV开启竞速模式 赛洛西宾致幻剂 Mixed By Vanis...]] - https://www.youtube.com/watch?v=cFfu7-47Dk0&ab_channel=%E9%9B%B6%E5%BA%A6%E8%A7%A3%E8%AF%B4
+- [[【Get Low】重低音強化 蹦到你還要重播 - YouTube]] - https://www.youtube.com/watch?v=IhPENK_k89w&ab_channel=%E9%87%A3%E9%AD%9A%E7%BF%81
+- [[🤖 BORIS BREJCHA🤖 PYTHON-SHADOW5X-HIGH TECH MINIMAL👽PIKALLO DJ SET 👽 🚍🚒 EURO T...]] - https://www.youtube.com/watch?v=U7nhGv_zyN0&ab_channel=%F0%9F%91%BDPIKALLODJ%F0%9F%91%BD
+- [[9 DJ vV Electro Man Yao 2023 全粤语---劲歌金曲x情意结x魔鬼邂逅x晚风心里吹x习惯失眠--- - YouTube]] - https://www.youtube.com/watch?v=Enq99J9um9c
+- [[Divine Music - Ethnic &amp; Deep House Mix 2023 [Vol.6] - YouTube]] - https://www.youtube.com/watch?v=AxFNcEp5ahY
+- [[「2023」【抖音热门合辑】「金润吉」 独特的嗓音「百聽不膩」 最远的你是我最近的爱 迟来的爱 - YouTube]] - https://www.youtube.com/watch?v=5qUspLj_wCM&list=PLOWlIC4wTNrrrJ8FfK18ZiBV2uTVdkWkD&index=8
+- [[JoeanAmier-TikTokDownloader- TikTok 发布-喜欢-合辑-直播-视频-图集-音乐；抖音发布-喜欢-收藏-收藏夹-视频-图集...]] - https://github.com/JoeanAmier/TikTokDownloader
+- [[TikTokDownloader-docs-Cookie获取教程.md at master · JoeanAmier-TikTokDownloader]] - https://github.com/JoeanAmier/TikTokDownloader/blob/master/docs/Cookie%E8%8E%B7%E5%8F%96%E6%95%99%E7%A8%8B.md
+- [[JoeanAmier-TikTokDownloader- TikTok 发布-喜欢-合辑-直播-视频-图集-音乐；抖音发布-喜欢-收藏-收藏夹-视频-图集...]] - https://github.com/JoeanAmier/TikTokDownloader?tab=readme-ov-file
+- [[youtube下载KurtBestor (Kurt Bestor)]] - https://github.com/KurtBestor
+- [[ltaoo-wx_channels_download- 微信视频号下载器]] - https://github.com/ltaoo/wx_channels_download
+- [[JoeanAmier-TikTokDownloader- 开源、免费的 TikTok 下载器 - HelloGitHub]] - https://hellogithub.com/repository/4806104782bf4cf08fc44387dc78a281
+- [[【全网首发】1句话生成电影？谷歌Veo3+Flow，保姆级使用教程！这是最强ai视频工具 - YouTube]] - https://www.youtube.com/watch?v=f4nXbSOZFXM
+- [[户外走播怎么弄？随时随地户外外网直播，插卡或者连接手机网络就可以用，便携式软路由 - YouTube]] - https://www.youtube.com/watch?v=gO2TUidT02o&list=PLVP8MsUg_u86aphZKHhoi2W146tWvHUJ7
+- [[Hyperv，飞牛，绿联虚拟机统一直接使用ISO镜像~安装iStoreOS（OpenWrt），省时省力~ - YouTube]] - https://www.youtube.com/watch?v=_9D26riQ3V0
+- [[Release ImmortalWrt-Installer-x86_64-ISO · wukongdaily-armbian-installer · Gi...]] - https://github.com/wukongdaily/armbian-installer/releases/tag/ImmortalWrt-Installer-x86_64-ISO
+- [[【全网最全】OpenClash零基础入门教程 - openclash优缺点、网络设置、安装、内核更新与上传、基础设置，新手使用指南，openwrt软路由O...]] - https://www.youtube.com/watch?v=7wiu1YA8Pbc
+- [[发行版 R2024-02-19 05-38-10 for Rockchip · haiibo-OpenWrt · GitHub]] - https://github.com/haiibo/OpenWrt/releases/tag/Rockchip
+- [[Releases · wukongdaily-armbian-installer]] - https://github.com/wukongdaily/armbian-installer/releases
+- [[Cudy-TR3000刷入OpenWrt系统并设置多WIFI信号教程，Cudy-AX3000软路由刷机教程 - YouTube]] - https://www.youtube.com/watch?v=zyt-GvKHUCw&t=12s
+- [[60S自制OpenWrt，构建属于咱自己的OpenWrt 系统，自行DIY 可玩性极强，安全稳定，好用又好玩，根据自己需求最适配的构建自己的Openwrt...]] - https://www.youtube.com/watch?v=ZLr0kq-gnqk
+- [[“20元的玩客云，60S打造史上最强软路由；选择推荐+接线演示+刷机OpenWrt系统+科学上网PassWall 插件设置+本地网络设置 实现真全局科学上...]] - https://www.youtube.com/watch?v=HcMsxwDvJKc
+- [[收费好几千的电脑模拟器改真机教程，搬砖撸毛网赚项目的福音，雷电模拟器同步操作-XPOSED框架-改真手机-一键新机-不同窗口使用不同的独立IP教程，雷电模...]] - https://www.youtube.com/watch?v=YDwNVOf4uJc
+- [[爱快 + OpenClash + IPv6 旁路由完美配置 ，无DNS污染，无DNS泄漏，公网远程访问，完美网络16 - YouTube]] - https://www.youtube.com/watch?v=4W13smZaOzw
+- [[【软路由 NO.3】给自己的软路由网络加速 - YouTube]] - https://www.youtube.com/watch?v=l0yX1twOgNE
+- [[TK专用多WiFi软路由红米AX6000链式版详细使用教程 #tiktok路由器 #tiktok跨境电商 #iktok网络 - YouTube]] - https://www.youtube.com/watch?v=jYxdQLJcXAA&t=12s
+- [[TK专用多WiFi软路由红米AX6000链式版详细使用教程 #tiktok路由器 #tiktok跨境电商 #iktok网络 - YouTube]] - https://www.youtube.com/watch?v=jYxdQLJcXAA
+- [[Tiktok广告实操讲解 ②，短视频投放计划思路调整与优化修改，如何参考竞争对手的思路 (转享) - YouTube]] - https://www.youtube.com/watch?v=JqV55avTp2A
+- [[【paypal】注册香港地区的paypal，paypal注册，paypal注册教程，注册100%成功，可以给中国大陆的paypal转账 - YouTube]] - https://www.youtube.com/watch?v=zDyqX43V_VA
+- [[如何使用住宅ip批量注册outlook邮箱和tiktok账号（手动） - YouTube]] - https://www.youtube.com/watch?v=tZL_MPE2r4c
+- [[如何完美注册海外抖音Tiktok（实操全流程！） - YouTube]] - https://www.youtube.com/watch?v=03nhuUgEJaQ
+- [[【案例分析】在美国做Tiktok跨境电商一天的体验是什么样？零库存零人工零广告月入1000美刀！ - YouTube]] - https://www.youtube.com/watch?v=EMXaiBibgfY&list=PL1p15280Fpr6SjWQ84UT6Xk50RhRubTW9&index=9
+- [[TikTok Shop美国本土店完整入驻教程｜手把手教学｜美国公司如何注册？SSN-ITIN码如何获取？如何避坑？ - YouTube]] - https://www.youtube.com/watch?v=kCykVrYKpMg
+- [[如何自己搭建TikTok原生IP节点，保姆级教程让你掌握TikTok流量密码 - YouTube]] - https://www.youtube.com/watch?v=VCUzl9HeNjQ
+- [[ATT美国真实住宅IP｜Windows通过V2rayN链式代理｜Mac与iOS链式代理｜安卓V2rayNG链式代理｜服务器自建节点中转住宅IP｜适合直播与...]] - https://www.youtube.com/watch?v=P63i1SgLMU8
+- [[3.如何用Tiktok矩阵自动化软件用手机api注册tiktok账号 - YouTube]] - https://www.youtube.com/watch?v=5B-BOWHVfps
+- [[如何用推特账号来注册高权重Tk号 - YouTube]] - https://www.youtube.com/watch?v=2gq-MSy4QEM
+- [[【7】Docker一键安装云SRS无人直播系统，24小时虚拟直播推流YouTube、TikTok等。 - YouTube]] - https://www.youtube.com/watch?v=ylNPPSMWQ_w
+- [[最强AI工作流平台：免费部署、连接1000+外部应用，让AI真正替代重复工作 - N8N入门！ - YouTube]] - https://www.youtube.com/watch?v=JNRCuF2ihz4
+- [[轻松玩转Facebook广告的秘密，在于这两个神器-Yuri&amp;SaleSmartly - YouTube]] - https://www.youtube.com/watch?v=z3S_0kO1AbU
+- [[🥳住宅IP，怎么买最划算？性价比最优方案，不到1美金每月｜📲批量搭建20个高质量住宅IP环境｜高质量原生住宅IP购买与筛选｜⭕️跨境电商-海外社媒运营-W...]] - https://www.youtube.com/watch?v=uxQ6a_0uWHw
+- [[【2025】Telegram注册方法最新版！Telegram（电报）收不到短信验证码怎么办？Telegram怎样设置中文？注册Telegram后必做的设置...]] - https://www.youtube.com/watch?v=rniYvDQ6wJU
+- [[【跨境电商】一个wifi对应一个住宅ip，通过链式代理提速，最多支持创建32个wifi，tiktok多账号运营隔离防关联，每台设备分配不同节点IP，代理伪...]] - https://m.youtube.com/watch?v=Iw-ID4eLXXI&t=3s&pp=0gcJCYQJAYcqIYzv
+- [[纯净外网环境网络设置，软路由多wifi设置，链式代理，openclash链式代理，防dns泄露，防webrtc泄露，加快网络访问速度 - YouTube]] - https://m.youtube.com/watch?v=rePhp9Fwyuk
+- [[全网最新最全！超简单的链式代理配置方法，TikTok环境搭建教程，TikTok运营节点搭建，tiktok网络环境布置 打造全局伪装的外网环境，解决tk流量...]] - https://www.youtube.com/watch?v=d04IXsgBpd8
+- [[【从零开始】最详细的新手入门软路由指南，家庭全设备科学上网看这篇就够了！什么是软路由？为什么要软路由？小白怎么上手软路由？软路由和硬路由的区别？软路由科普...]] - https://www.youtube.com/watch?v=JfSJmPFiL_s
+- [[卸载剪映后，我用这款AI剪辑软件，从爆肝“周更”卷到“日更”！剪映替代-文字转语音-文字转语音-语音转文 字- AI剪辑软件 -Filmora教学 - Y...]] - https://www.youtube.com/watch?v=ox9adlGMdv4
+- [[软路由怎么选？无脑选R5s,性价比高，安装方便。R5s openwrt安装，软路由插件安装 - YouTube]] - https://www.youtube.com/watch?v=cZgsjZX0-6E
+- [[【跨境电商】一个wifi对应一个住宅ip，通过链式代理提速，最多支持创建32个wifi，tiktok多账号运营隔离防关联，每台设备分配不同节点IP，代理伪...]] - https://www.youtube.com/watch?v=Iw-ID4eLXXI&t=112s
+- [[tiktok要不要 坚持18分钟的视频告诉你真相、TIKTOK你应该怎么布局、TIKTOK到底挣钱不、 - YouTube]] - https://www.youtube.com/watch?v=wJDrzL5WK9I
+- [[【全网唯一】低成本Tiktok网络矩阵，软路由创建多个wifi对应不同住宅ip，支持创建1000个wifi，tiktok多账号运营隔离防关联，每台设备分配...]] - https://www.youtube.com/watch?v=wm5T8lhJKks
+- [[通过软路由打造tiktok网络运营环境，一个网络实现多手机多ip，软路由使用链式代理，clash链式代理，passwall链式代理 - YouTube]] - https://www.youtube.com/watch?v=OrjZqYzZluY
+- [[软路由多wifi设置，一个网络多个ip,openclash链式代理，防止dns泄露，webrtc泄露，纯净网络设置 - YouTube]] - https://www.youtube.com/watch?v=MIn75UF1v0U
+- [[{2025} 红米ax6000刷openwrt教程，安全刷机无风险，轻松上手 - YouTube]] - https://www.youtube.com/watch?v=N9SJVKc1Bks
+- [[纯净外网环境网络设置，软路由多wifi设置，链式代理，openclash链式代理，防dns泄露，防webrtc泄露，加快网络访问速度 - YouTube]] - https://www.youtube.com/watch?app=desktop&v=rePhp9Fwyuk
+- [[国内安卓手机使用官方TikTok APP，绕过手机号码属地检测 - 免拔卡 - 纯手机操作设置完整版 疑难问题解答- Nrfr + Shizuku - -...]] - https://www.youtube.com/watch?v=rz8Vzmj3EoU
+- [[可全球收款！wordpress跨境电商独立站绑定stripe跨境支付收款教程！国内如何注册香港Stripe个人账户开户收款（2025年最新教程）独立站接入...]] - https://www.youtube.com/watch?v=3lXG8NMp3MA
+- [[【2025 超詳細手把手 Stripe 申請教學】如何透過開立美國公司的方式開立 Stripe 帳戶？ 經營網路事業收取各國幣種必備第三方金流 - You...]] - https://www.youtube.com/watch?v=IP2ePa_2vBo
+- [[美国stripe全球收款教程，巧用可实现资金出入境，Google Pay收款，美国银行办理 - YouTube]] - https://www.youtube.com/watch?v=0gPAcenzOqQ
+- [[ESP Web- Getting Started - YouTube]] - https://www.youtube.com/watch?v=j3dKggM06K4&t=697s&ab_channel=ASIKnowledgeBase
+- [[TikTok网络 的顶配选择，AaIT提供真正美国静态住宅IP，真实美国线下宽带，拥有一台美国远程电脑，Amazon、PayPal、ChatGPT网络都不...]] - https://www.youtube.com/watch?v=kls2v-oW2ac
+- [[20美元搞定1583公证，完成美国私人地址AnytimeMailbox开通，Fiverr新用户配合Rebatesme返利网站 - YouTube]] - https://www.youtube.com/watch?v=kXkoN_BcJtg
+- [[为什么在美国开公司，你需要6个银行账户？ - YouTube]] - https://www.youtube.com/watch?v=sQVAns9nh4c
+- [[超便宜美国手机卡Ultra Mobile(3美金-月)：购买、激活使用及注意事项（设置WIFI Calling蜂窝网络等等） Ultra Mobile P...]] - https://www.youtube.com/watch?v=V1Aoh05qHsA
+- [[【2023最新】手机卡篇1：仅3美元！Ultra Mobile美国实体手机卡，完美注册海淘网站-PayPal-Google Voice-美国银行 接收所有...]] - https://www.youtube.com/watch?v=vNUFRtKnY-k
+- [[美国实体电话卡激活教程：urtal mobile paygo可长期使用，3美金月租-可注册chatgpt ,googlevoice，好用的境外电话卡 - ...]] - https://www.youtube.com/watch?v=SOVVp_8M-Xo&ab_channel=%E5%B0%8F%E5%BF%97%E5%88%86%E4%BA%AB
+- [[Wise注册激活教程：用Quppy入金激活Wise全流程 - YouTube]] - https://www.youtube.com/watch?v=Ds5PWgPFX_E&t=841s&ab_channel=%E6%B4%8B%E6%8B%89%E5%9B%BE
+- [[使用8个月 我的ultra mobile paygo 3 手机卡的经验和技巧 - YouTube]] - https://www.youtube.com/watch?v=h3HAlq_Kmzc
+- [[Google Voice 最强保号教程！完全自动化，支持iOS、安卓和网页端，防号码被收回！附最新注册流程 2024 - 零度解说 - YouTube]] - https://www.youtube.com/watch?v=rfi0oZMu1pE
+- [[GitHub - lechie-bizcms- a java based biz-website cms backend]] - https://github.com/lechie/bizcms
+- [[alibaba-developer (Alibaba Developer) · GitHub]] - https://github.com/alibaba-developer
+- [[抖音上如何卖虚拟产品赚钱 直播实操分享 - YouTube]] - https://www.youtube.com/watch?v=BsgQ7338bbg
+- [[在各大平台出售虚拟类商品赚钱，月赚1500美元 ｜如何免费，低价获得Canva Pro会员，出售Canva Pro会员赚钱的方法和流程 ｜通过淘宝，Ets...]] - https://www.youtube.com/watch?v=jH0khY9unBc&pp=ygUM6Jma5ouf5Lqn5ZOB
+- [[Tvbox的终极缝合怪，Alist-TVBox，小雅、Alist、B站一网打尽 - YouTube]] - https://www.youtube.com/watch?v=dCliJ7fIibs
+- [[如何全平台观看小雅Emby版（全家桶），电视、电脑、手机平板一网打尽~ - YouTube]] - https://www.youtube.com/watch?v=238wbWbkF0Q
+- [[GitHub - xiaoyaDev-xiaoya-alist- 小雅Alist的相关周边]] - https://github.com/xiaoyaDev/xiaoya-alist
+- [[AlistGo-alist- 🗂️A file list-WebDAV program that supports multiple storages, ...]] - https://github.com/AlistGo/alist
+- [[发布 v0.16.1 · iyear-tdl · GitHub --- Release v0.16.1 · iyear-tdl · GitHub]] - https://github.com/iyear/tdl/releases/tag/v0.16.1
+- [[如何下载电报里禁止的视频？批量下载电报群里的视频和图片-How to download videos prohibited from downloadin...]] - https://www.youtube.com/watch?v=ltBa_sV3IVU&ab_channel=%E6%98%93%E4%BA%91%E5%A4%A9%E5%A0%82
+- [[Release 20250513-1430 · o0HalfLife0o-TVBoxOSC]] - https://github.com/o0HalfLife0o/TVBoxOSC/releases/tag/20250513-1430
+- [[Releases · nova-video-player-aos-AVP]] - https://github.com/nova-video-player/aos-AVP/releases
+- [[小白也能學會，不需要代碼，在家庭寬帶openwrt軟路由上，免费搭建私人專屬影視網站，安卓APP和ios app，可投屏播放。白嫖全網影視資源，告別會員V...]] - https://www.youtube.com/watch?v=ZbQSBk8I5aI
+- [[家庭影音媒体库管理与自动化下载，免费且好用的Jellyseerr - YouTube]] - https://www.youtube.com/watch?v=7756epB38Js
+- [[轻松搭建一个开源的、属于自己的视频网站-搭建苹果cms-maccms10内容管理平台，轻松获取免费最新的各种视频资源，原来视频网站搭建如此简单，绝对值得了...]] - https://www.youtube.com/watch?v=pM2_NDONgbo
+- [[📺TVBox 摆脱依赖：自制接口源部署在飞牛 NAS，告别广告与限制，体验真正流畅的影音世界！ - YouTube]] - https://www.youtube.com/watch?v=s6ti7SbjpYE
+- [[📺MoonTV 电视观看终极方案！OrionTV 配置教程，手机也能看！ - YouTube]] - https://www.youtube.com/watch?v=ACL2r0VeR9g
+- [[最新tvbox接口配置地址,影视仓配置地址,tvbox本地包制作与配置方法 - YouTube]] - https://www.youtube.com/watch?v=dcwTr-w21hc
+- [[11 Threads Roma FULL SHOW - New York Fashion Week 2023 - YouTube]] - https://www.youtube.com/watch?v=jyHygY8IQyk&ab_channel=MiamiTrendMedia
+- [[4K60] 2024 New Release - LISE CHARMEL Part-1 slow motion- Salon International...]] - https://www.youtube.com/watch?v=iejAJL_6LCY&ab_channel=SlowMotionFashion
+- [[二月新人女優將登場！床上戰鬥力如同「超級賽亞人」！神仙顏值成矚目！｜女神搜查線 - YouTube]] - https://www.youtube.com/watch?v=N0HWxh40RuQ&ab_channel=%E5%A5%B3%E7%A5%9E%E6%90%9C%E6%9F%A5%E7%B7%9A
+- [[还找不到片？10个顶极Telegram福利频道推荐！- 海量成人内容推荐 - 老司机精选 - 无限芝士 - YouTube]] - https://www.youtube.com/watch?v=DLPLVw9n6tc
+- [[摆脱色情 Escape the Grip of Porn Addiction- 10 Powerful Recovery Tips - YouTube]] - https://www.youtube.com/watch?v=2i9SOiBdpWY
+- [[当你戒掉色情片时会发生什么？ What Happens When You Quit Porn- - YouTube]] - https://www.youtube.com/watch?v=d1v170oM67U
+- [[倪海廈：真正「戒淫」的人，臉上都有這「3種富貴相」！為什麼這件事不能做？真相只有一個：你在透支你的「祿命」！ - YouTube]] - https://www.youtube.com/watch?v=ZpKBv0WkeIw
+- [[家庭影音库搭建02：TMDB搜不到的“特殊电影”怎么刮？Metatube：这题我会！ - YouTube]] - https://www.youtube.com/watch?v=JAsM3PZXfnw
+- [[教你在飞牛上部署 JavSP，给小姐姐一个全职管家！ - YouTube]] - https://www.youtube.com/watch?v=U0OEjHkYJsw
+- [[看剧不花钱了，5分钟+0成本 KVideo 私人影视平台，超简单，无广告。但千万别看Premium区，太迷幻了！ - YouTube]] - https://www.youtube.com/watch?v=WcrvrPp2fzc
+- [[搭建免费成人影院 全平台支持 - emby+metatube成人电影海报墙 - alist+Pikpak私人云AV影视库 - 老司机福利 - R18 - ...]] - https://www.youtube.com/watch?v=6sCOzALZ918&t=22s
+- [[PayPal提现美元到国内银行卡最新方法，无需派安盈&amp;万里汇或其它第三方账户【2023年】 - YouTube]] - https://www.youtube.com/watch?v=D8Plfo6xAbg&ab_channel=JohnWang
+- [[制作出售视频课程，轻松获利5万美元以上 - Udemy和Teachable在线教育平台的对比，哪个平台更适合出售自己的视频教程 - 如何出售自己擅长的技能...]] - https://www.youtube.com/watch?v=laaVkTZQIXk
+- [[【油管工具】 MrBeast 推出强大的频道-视频数据分析工具，完胜 SocialBlade, 老胡详细演示讲解。 - YouTube]] - https://www.youtube.com/watch?v=Z4P9DMmD8I0&ab_channel=%E8%80%81%E8%83%A1%E6%B2%B9%E7%AE%A1%E7%A0%94%E7%A9%B6%E9%99%A22024
+- [[搭建抖音快手自动涨粉黑科技月入10w+，抖音刷粉平台搭建，日涨粉10w+ - YouTube]] - https://www.youtube.com/watch?v=Yj5TXQQE8ho&ab_channel=%E7%BD%91%E8%B5%9A%E5%B0%8F%E7%8E%8B%E5%93%A5
+- [[学会这个小技巧，订单直接翻3倍！ - YouTube]] - https://www.youtube.com/watch?v=-gohA9-0WCs&list=PLdztFfYec4KaPN3xElTTwF4hPrpn1nnXb&index=3&ab_channel=%E7%9B%88%E7%9B%88%E6%95%B0%E5%AD%A6
+- [[Sell 10 Easy Digital Products Using AI in 2024 ($64,444-Month ) - YouTube]] - https://www.youtube.com/watch?v=jUzV_O--5EQ&ab_channel=SimplyDigital
+- [[AI赚钱，跨境电商蓝海产品Etsy虚拟暴利产品项目：AI ChatGPT+midjourney+canva+Printify水晶寓意卡按需印刷教程，网上卖...]] - https://www.youtube.com/watch?v=zeFpEwtEnJs&ab_channel=%E5%92%8C%E6%9C%89%E9%A3%8E%E5%AD%A6%E4%B9%A0AI%E8%81%94%E7%9B%9F%E8%90%A5%E9%94%80%E8%B5%9A%E9%92%B1
+- [[零基础搭建虚拟资源下载网站，全自动赚钱站（Ripro火车头自动采集）（上） - YouTube]] - https://www.youtube.com/watch?v=GzwdTjeLCMo&ab_channel=%E8%80%83%E6%8B%89kk
+- [[月入3万+）火车头采集器教程，重点学习，学会后可采集文章、电影、小说、漫画。0基础1小时搭建小说漫画网站，带分销打赏功能，自动采集，免费送给大家，解放双手...]] - https://www.youtube.com/watch?v=UTPsB4wCnto&list=PLWP2ou4X1zgVtrQ22rH1gWja5_yJjXiDu&ab_channel=%E8%90%9D%E5%8D%9C%E5%A4%B4%E7%BD%91%E7%BB%9C%E5%88%9B%E4%B8%9A
+- [[闲鱼卖打印机项目，蕞新玩法，像素极玩法教程，零门槛零成本，小白月入3W+ - YouTube]] - https://www.youtube.com/watch?v=_DkVWC56Y7g&ab_channel=%E5%85%AC%E4%BC%97%E5%8F%B7%E4%B8%A8%E6%98%8C%E5%8D%93%E5%8A%A9%E6%89%8B
+- [[Pinterest赚钱新手教程（超详细） - YouTube]] - https://www.youtube.com/watch?v=nIkFO7yyWfE&ab_channel=%E7%9F%A5%E9%9D%92Alice
+- [[Pinterest 赚钱：如何搬运视频在Pinterest赚钱（睡觉赚钱） - YouTube]] - https://www.youtube.com/watch?v=3_xFqWmwLM8&ab_channel=TimmyMakeMoney
+- [[Shopify 引流- Facebook 低成本引流的五种方法 - YouTube]] - https://www.youtube.com/watch?v=LcuzIDlnDf4&ab_channel=%E7%9F%A5%E9%9D%92Alice
+- [[站长福利：谷歌联盟月入1万美元Pinterest引流系列教程第6讲 规避图片侵权 - YouTube]] - https://www.youtube.com/watch?v=WsGeXVQB0EM&ab_channel=%E7%84%A1%E5%90%8D%E5%88%86%E4%BA%AB
+- [[Pinterest联盟营销全攻略：从0到1的实操教程，教你使用AI在Pinterest赚美金 - 晚上下班适合干的副业 - Amazon亚马逊联盟行销教学...]] - https://www.youtube.com/watch?v=DukappoNKsg
+- [[快手直播场控助手，让自己的直播间更加完美【场控助手+使用教程】 - YouTube]] - https://www.youtube.com/watch?v=oTz9VCKeyjw&ab_channel=%E8%80%81%E5%90%B4%E9%A1%B9%E7%9B%AE%E7%BD%91
+- [[千锋Go语言教程：11 xorm框架知识介绍 - YouTube]] - https://www.youtube.com/watch?v=2h_ZLvCkRso
+- [[WebShell管理工具之中国菜刀 - YouTube]] - https://www.youtube.com/watch?v=yNbFEGJfJSw
+- [[黑帽SEO、菜刀、寄生虫｜SEO教程｜搜索引擎优化。 - YouTube]] - https://www.youtube.com/watch?v=Uw8v4psO_9A&list=PLC2BsgmIs4kkQz9_-MfWwqcKfW_qGIgPu&index=12
+- [[黑帽SEO优化教程-百度泛站（不用备案域名做法） - YouTube]] - https://www.youtube.com/watch?v=7ii4aXZ4txY
+- [[【黑帽seo教学】小旋风蜘蛛池泛站群万站群模板制作 - YouTube]] - https://www.youtube.com/watch?v=BRQlVdNxzl4
+- [[第一课 - 什么是webshell管理工具 - YouTube]] - https://www.youtube.com/watch?v=6tyq2Ki5y-g&pp=ygUId2Vic2hlbGw%3D
+- [[千锋PHP教程：1 环境搭建 - YouTube]] - https://www.youtube.com/watch?v=InlYdpx3bjk&list=PLwDQt7s1o9J5GTaWfqHG_Ob89bxFeKyn3
+- [[四、【进阶篇】1.2. 蜘蛛池搭建及实操使用秘籍（下） - YouTube]] - https://www.youtube.com/watch?v=_pHIT-jjT48
+- [[千锋PHP教程：3 变量 - YouTube]] - https://www.youtube.com/watch?v=LbPb3_3kuew&list=PLwDQt7s1o9J5GTaWfqHG_Ob89bxFeKyn3&index=3
+- [[一、【建站入门篇】1.域名-空间-服务器-程序-数据库介绍 - YouTube]] - https://www.youtube.com/watch?v=Pgg1xDahcRM&list=PLHWrF5nMCo9nFXdAilCoHLVqB0nhtx8n8
+- [[企业商城系统搭建教程 #网络赚钱 #网络赚钱方法 #网络赚钱项目 - YouTube]] - https://www.youtube.com/watch?v=K0T7W_rdxi0
+- [[用人话讲SEO最终篇总结！跨境电商独立站新人SEO看这一篇就够了？ - YouTube]] - https://m.youtube.com/watch?v=-3AO_ODD-1I&si=gW5qZuTVoz-l5z-w&google_abuse=GOOGLE_ABUSE_EXEMPTION%3DID%3D7ca5594b77e0c847%3ATM%3D1698776185%3AC%3Dr%3AIP%3D38.207.136.16-%3AS%3DvNxkQHUpFZwbpb89mqmBUoA%3B+path%3D%2F%3B+domain%3Dgoogle.com%3B+expires%3DTue%2C+31-Oct-2023+21%3A16%3A25+GMT
+- [[如何购买老域名 - 外贸站搭建 - 网站搭建 - 谷歌 SEO 优化 - 域名权重 - YouTube]] - https://www.youtube.com/watch?v=zpmMmNScIEQ&t=38s
+- [[SEO培训班-第四课：大型网站的代码细节优化（完全符合搜索引擎优化） - YouTube]] - https://www.youtube.com/watch?v=ryUQNBtmjsw&list=PLuDVOKZ-MW9AaJa-G_q00eZKk-CCMzR1K&index=4&ab_channel=%E8%80%81%E5%90%B4%E6%95%99%E7%A8%8B
+- [[【Google SEO教程】4个思路提升网站在Google上的排名！什么是black hat黑帽SEO？什么是white hat白帽SEO？ - YouTube]] - https://www.youtube.com/watch?v=6m2u9SAn5Xg&list=PLUbu48N-06aqu70avxSgo63XrIHJgjnt8&ab_channel=%E5%93%9F%E6%B4%BE%E5%87%BA%E6%B5%B7
+- [[SEO 炼金课程，90分钟７大攻略免费公开！ ｜Business Wednesday - YouTube]] - https://m.youtube.com/watch?v=MpZebAg2rSs&si=C8qq4n4hmDI-uFXW
+- [[2024新手SEO入门教程！网站SEO优化工具Semrush怎么用-怎么样-好不好用-独立站自建站SEO关键词工具最详细的Semrush系统教学 - Yo...]] - https://www.youtube.com/watch?v=2AMZBYOJcyw&ab_channel=%E4%B8%8E%E6%9C%89%E9%A3%8E%E4%B8%80%E8%B5%B7%E5%AD%A6%E4%B9%A0AI%E7%BD%91%E7%BB%9C%E8%90%A5%E9%94%80%E5%B7%A5%E5%85%B7
+- [[做Google SEO外链如何为你的网站选择最佳页 - YouTube]] - https://www.youtube.com/watch?v=v87vajNp2yc
+- [[哪些操作可以促进Google快速收录你的网站内容？着重推荐一款核武器：Google indexing API - YouTube]] - https://www.youtube.com/watch?v=8_vaakiowxY
+- [[2025新手SEO入门教程！网站SEO优化工具Semrush怎么用-怎么样-好不好用-独立站自建站SEO关键词工具最详细的Semrush系统教学 - Yo...]] - https://www.youtube.com/watch?v=2AMZBYOJcyw&t=5s
+- [[林继Notion 新手教学01 基本界面 - YouTube]] - https://www.youtube.com/watch?v=OReiwNdxCXo&list=PLXIE_myo1vplwVHv-gqGyu_o1n2OapMq6&index=2&ab_channel=%E6%9E%97%E7%BB%A7-LINJI
+- [[notion教程𝟏｜零基础新手快速入门使用 - YouTube]] - https://www.youtube.com/watch?v=77o7K0N4L5M&list=PLxH9DlJtPy3EeTekMk7gfZjEto4MyWKUJ&ab_channel=%E4%BE%9D%E6%A0%BC%E7%93%A6
+- [[Wordpress官方源文件]] - https://www.youtube.com/watch?v=FdtfJ0G8wNY&list=PLbisGel9qBF5By55hTM7y8i1pxr52c1bw
+- [[前后端 大数据 教程 尚硅谷_H5&amp;C3基础_3_HTML简介 - YouTube]] - https://www.youtube.com/watch?v=egmyh81Y1YQ&list=PLmOn9nNkQxJFs5KfK5ihVgb8nNccfkgxn&index=3
+- [[域名注册 - Namesilo域名购买、Freenom免费域名申请及Cloudflare域名解析-免费CDN纯小白教程 - YouTube]] - https://www.youtube.com/watch?v=xUJGJNeRUoY
+- [[AI绘画——给我5分钟，传你十年绘画功力！ - YouTube]] - https://www.youtube.com/watch?v=n6STKdsXYwI
+- [[【全网最全】国内使用TikTok的所有方法，独家分享TikTok的检测原理，跨境电商，运营TikTok必看，绕过TikTok检测机制检测SIM卡归属地，拔...]] - https://www.youtube.com/watch?v=p0v08l2B5Q0
+- [[笹川平和財団主催 講演会「日中有識者対話-北朝鮮の核危機と北東アジア情勢の行方」全編通し（会場音声） - YouTube]] - https://www.youtube.com/watch?v=efNwRVB0-IM&list=PLrALaO6ZZUGQQ1Isxjmhe1J82kzPMnxX4
+- [[成长 搜索技术，普通人变强的唯一外挂。全套详细宝藏教程~ - YouTube]] - https://www.youtube.com/watch?v=tiN6T1LewmQ
+- [[躺赚 项目—自己开网店通过虚拟 产品赚钱全流程（手把手保姆级实操教程） - YouTube]] - https://www.youtube.com/watch?v=avWv1uvEn7w&ab_channel=%E6%88%91%E6%98%AF%E7%8E%8B%E6%98%8C%E8%BF%9C
+- [[Reprogram your brain (it only takes 7 days) -Dr. Joe Dispenza [-5 Million vie...]] - https://www.youtube.com/watch?v=w5l9xoIMy-Q
+- [[GitHub - jiji262-douyin-downloader- 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！]] - https://github.com/jiji262/douyin-downloader
+- [[学习路径&amp;建议MyNotes-20230425T165757--how-i-learn-english__english_learning.org...]] - https://github.com/dekuofa1995/MyNotes/blob/main/20230425T165757--how-i-learn-english__english_learning.org
+- [[多益聽力必考！TOEIC 常考1000句 (第1集) - NO.001 - 050 - 商用英文 podcast - #雪薇英文 #好家在我在家 - Yo...]] - https://www.youtube.com/watch?v=gjCYb3MbPc4&list=PLcPfCJuIgV5ro2QFtZnvWDWoe_7f_mB9q
+- [[英文單字這樣背 So Easy Lesson1 - 格林法則 - 單字無痛倍增 - Ethanglish不藏私大公開 - YouTube]] - https://www.youtube.com/watch?v=nOUd46Bd-Y8&list=PLdD-JrJVhcPcNkYWYmsjXSUUsUr-yTDS6
+- [[500词根、词源快速记英语单词38000词 2 - YouTube]] - https://www.youtube.com/watch?v=t7VLv1R87S8&list=PLkluppRF_XpEc_UgDa7r4sWEGUdT8xW_i&index=2
+- [[【Anki+欧路词典】这是我见过最高效的背单词工具组合 - YouTube]] - https://www.youtube.com/watch?v=LG_S6uTAKPo
+- [[GitHub - itgoyo-TelegramGroup- Telegram群合集，如果有更多好玩的telegram群，欢迎在 issue 提出或者pu...]] - https://github.com/itgoyo/TelegramGroup
+- [[有趣的开源社区 - HelloGitHub]] - https://hellogithub.com/
+- [[windows版电报批量下载工具tdl，使用教程 - YouTube]] - https://www.youtube.com/watch?v=YgYj7ePQEUQ&ab_channel=%E5%A7%BF%E5%8A%BF%E5%B0%8F%E7%8E%8B%E5%AD%90
+- [[Release v0.17.0 · iyear-tdl · GitHub]] - https://github.com/iyear/tdl/releases/tag/v0.17.0
+- [[The world’s leading software development platform · GitHub]] - https://github.com/
+- [[谷歌搜索大法老司机福利版2022-Google搜索老司机版本-宅男神器-谷歌Google搜索精华版 - YouTube]] - https://www.youtube.com/watch?v=3cko7atrxeE
+- [[Search · iptv · GitHub]] - https://github.com/search?q=iptv&type=
+- [[影梭，定位修改Release v1.12.1 · ZCShou-GoGoGo · GitHub]] - https://github.com/ZCShou/GoGoGo/releases/tag/v1.12.1
+- [[【3款自用完全免费PDF工具效率神器】最好用的PDF工具-PDF编辑-PDF合并-PDF分割-PDF压缩-PDF排序-PDF转图片-PDF提取-PDF水印...]] - https://www.youtube.com/watch?v=uJvxGZph-Rw&t=192s
+- [[Windows 11 (LTSC) 长期服务版正式发布！ 超牛超流畅，干净清爽，一键免费激活！ - 零度解说 - YouTube]] - https://www.youtube.com/watch?v=ES0GqAJXYQE
+- [[GitHub - iyear-tdl- 📥 A Telegram toolkit written in Golang]] - https://github.com/iyear/tdl
+- [[AZeC4-TelegramGroup- 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaod...]] - https://github.com/AZeC4/TelegramGroup?tab=readme-ov-file
+- [[电报下载神器TDL！没有什么是我不能下的，没有什么是我不能搬运的，有他你也可以成为10w+的频道主 - YouTube]] - https://www.youtube.com/watch?v=h_r1_I6Busk
+- [[40000部的影音库到手，在玩客云上部署小雅emby合集-alist-emby-xiaoya-小雅-onecloud-玩客云 - YouTube]] - https://www.youtube.com/watch?v=A8yQ9VgAGBc
+- [[最便宜的软路由 - N1盒子安装iStoreOS软路由系统，手动安装科学上网等相关插件以及注意事项，小白一站式教程 - YouTube]] - https://www.youtube.com/watch?v=NXG8zASpPUs
+- [[Archmage83-classical_website- 精品网站收集]] - https://github.com/Archmage83/classical_website
+- [[浏览器书签变成目录网站Pintree-io-pintree- Pintree- Easily turn your browser bookmarks in...]] - https://github.com/Pintree-io/pintree
+- [[2500元预算，如果打造家庭卡拉OK系统？ 为什么不能用HIFI音箱K歌 - YouTube]] - https://www.youtube.com/watch?v=TXQeM3kuFBE
+- [[GitHub - Forget-C-Jellyfish- 一站式 AI 生成短剧（竖屏短剧 - 微短剧）的生产工具 , 从剧本输入 → 智能分镜 → 角色...]] - https://github.com/Forget-C/Jellyfish
+- [[翻墙后不会用GitHub，你真的亏大了 - YouTube]] - https://www.youtube.com/watch?v=0b-7Nx_rxJo
+- [[NotebookLM 神级插件｜Kortex 一键同步 + YouTube 批量采集 + 思维导图导出 + 完美去水印，效率原地起飞 10 倍！ - Yo...]] - https://www.youtube.com/watch?v=nc28TZgOMes
+- [[GitHub - jbiaojerry-ebook-treasure-chest- 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜...]] - https://github.com/jbiaojerry/ebook-treasure-chest
+- [[GitHub - garinasset-leak-check- 个人信息 “泄漏” 检测接口 · GitHub]] - https://github.com/garinasset/leak-check
+- [[GitHub - byoungd-English-level-up-tips- An advanced guide to learn English wh...]] - https://github.com/byoungd/English-level-up-tips
+- [[GitHub - tangshimin-MuJing- 一款通过电影、美剧或文档中的真实语境学习英语单词的应用，让您在原汁原味的情境中记忆词汇，提升学习效...]] - https://github.com/tangshimin/MuJing
+- [[GitHub - baturyilmaz-wordpecker-app：一款个性化的语言学习工具，结合了 Duolingo 式的课程和您自己精心整理的词汇...]] - https://github.com/baturyilmaz/wordpecker-app
+- [[GitHub - mswnlz-edu-knowlege- 教育各种资料，从幼儿园到小学、中学，头学而思，万维、猿辅导等多个机构，持续增加中 · GitHub]] - https://github.com/mswnlz/edu-knowlege
+- [[发布 Clash Verge v1.3.8 · zzzgydi-clash-verge · GitHub]] - https://github.com/zzzgydi/clash-verge/releases/tag/v1.3.8
+- [[发布·shadowsocks - shadowsocks-windows·GitHub]] - https://github.com/shadowsocks/shadowsocks-windows/releases
+- [[GitHub - EtherDream-jsproxy- 一个基于浏览器端 JS 实现的在线代理]] - https://github.com/EtherDream/jsproxy
+- [[火狐翻墙浏览器 · Alvin9999-new-pac Wiki · GitHub]] - https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8
+- [[GitHub - getaurora-download- 极光官方版本下载页 翻墙 代理 科学上网 外网 加速器 梯子 路由]] - https://github.com/getaurora/download
+- [[特殊时期稳定不被墙的无限流量思科VPN（Cisco AnyConnect）香港线路，网页视频秒开，威伯斯云VPN，支持全平台，IOS国区APPSTORE可...]] - https://www.youtube.com/watch?v=_cbP9hTOK98
+- [[2025-6-18-2-2025-6-18.md at main · MeeGooBoo-2025 · GitHub]] - https://github.com/MeeGooBoo/2025/blob/main/6/18/2/2025-6-18.md
+- [[【2025最新】3X-ui 面板搭建教程！VPS自建独享IP节点｜vless+reality+vision加密协议｜搭建Xray面板｜自建科学上网VPS节...]] - https://www.youtube.com/watch?v=Fkj0o_2Bs7s
+- [[Cloudflare免费代理节点最新教程 - 无需ProxyIP，解决ChatGPT、X等网站无法访问的问题 - 完全免费、简单方便、极低门槛 - - Y...]] - https://www.youtube.com/watch?v=HcD4xYKXuRY
+- [[翻越第2道墙：无需翻墙访问外网，轻松注册外网平台，出国旅游不断网，人人都需要国外eSIM卡，完美网络39 - YouTube]] - https://www.youtube.com/watch?v=4PmQaJ4iI3c
+- [[2026最全保姆级Reality 协议搭建教学！便宜亚洲优化线路VPS晚高峰8K秒开，低延迟、免域名、防封锁，独享IP解锁全绿 - YouTube]] - https://www.youtube.com/watch?v=eAf4_FL-ntg&t=37s
+- [[【限时公开】别再买机房伪装IP了！保姆级教程：手把手教你搭建真正的美国家庭宽带住宅IP - YouTube]] - https://www.youtube.com/watch?v=yGgq0sB9HeA
+- [[We got a WESTFALIA Campervan! VAN LIFE - YouTube]] - https://www.youtube.com/watch?v=_t4C2dWBq98
+- [[My 1st Day In Karachi, Pakistan 🇵🇰 (I&#39;m Overwhelmed!) - YouTube]] - https://www.youtube.com/watch?v=mDYSRqWIy2o
+- [[无成本！全面监控你的手机！！！【黑科技】 - YouTube]] - https://www.youtube.com/watch?v=qMqwlUJ8N30
+- [[GitHub - jackhawks-rectg- 从全网搜集超 100,000 个 Telegram 群组、频道和机器人，并筛选出优质且持续更新的资源，...]] - https://github.com/jackhawks/rectg?tab=readme-ov-file
+- [[How to Get Rich - YouTube]] - https://www.youtube.com/watch?v=1-TZqOsVCNM
+- [[【跨境电商】一个wifi对应一个住宅ip，通过链式代理提速，最多支持创建32个wifi，tiktok多账号运营隔离防关联，每台设备分配不同节点IP，代理伪...]] - https://www.youtube.com/watch?app=desktop&v=Iw-ID4eLXXI&t=3s
+- [[openwrt-luci- LuCI - OpenWrt Configuration Interface]] - https://github.com/openwrt/luci
+- [[Release iStoreOS 24.10.X · bcseputetto-Are-u-ok · GitHub]] - https://github.com/bcseputetto/Are-u-ok/releases/tag/iStoreOS_24.10
+- [[DNS神器AdGuard Home最简单设置，网页秒开！秒解析、去广告、防污染的adguardhome安装设置教程！实现家里所有设备过滤广告，实现国内外流...]] - https://www.youtube.com/watch?v=qKy2t4id24U
+- [[【全网最细】软路由openwrt唯一界面singbox插件homeproxy使用详细教程。 - YouTube]] - https://www.youtube.com/watch?v=nNRpbn9M2Lc
+- [[noimank-tvbox- 自用tvbox源分享，影视仓多仓源分享，tvbox相关资源记录，iptv直播]] - https://github.com/noimank/tvbox?tab=readme-ov-file

@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "9c3bb46201a8c322",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a65feb51e982774",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3b94239d45605f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "raw/2026-05-29T220555+0800--用Codex+Obsidian，搭建能自主进化的第二大脑！手把手教程.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-29T220555+0800--用Codex+Obsidian，搭建能自主进化的第二大脑！手把手教程"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bb7035979d88651f",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbdaa0437da3bc13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "438292ee53fb8496",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "cb922fcc558f36cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "b9b27b311c1c7c1a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1667e18c4c3a1a0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ccd17a015c1b228",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fba53b7d476b252",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "raw/2026-05-29T220555+0800--用Codex+Obsidian，搭建能自主进化的第二大脑！手把手教程.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2026-05-29T220555+0800--用Codex+Obsidian，搭建能自主进化的第二大脑！手把手教程 的反向链接列表"
+            }
+          },
+          {
+            "id": "a216faaf523e0425",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "b8dfd0a0e2196de4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "814b93f94d50f659",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "3e6915bc7849eab8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "realclaudian:Open Claudian": false
+    }
+  },
+  "active": "f3b94239d45605f4",
+  "lastOpenFiles": [
+    "llm-wiki/raw/bookmarks/99_Archive/鹿班 - 让设计更美好.md",
+    "llm-wiki/raw/bookmarks/99_Archive/鸿馨专注注册申请美国ASI和SAGE促销礼品平台入驻-义乌市鸿馨企业管理咨询有限公司.md",
+    "llm-wiki/raw/bookmarks/99_Archive/鲸准-金融信息服务商,资管系统,新经济,产业数据,投融资对接平台.md",
+    "llm-wiki/raw/bookmarks/99_Archive/鲁搬资源网 - 自媒体引流获客好助手 - 国内外有名的资源网.md",
+    "llm-wiki/raw/bookmarks/99_Archive/高品质开源商城系统-CRMEB官网.md",
+    "llm-wiki/raw/bookmarks/99_Archive/香蕉资源网.md",
+    "llm-wiki/raw/bookmarks/99_Archive/首页_36氪.md",
+    "llm-wiki/raw/bookmarks/99_Archive/首页.md",
+    "llm-wiki/raw/bookmarks/99_Archive/首页-聚优品100-淘宝网.md",
+    "llm-wiki/raw/bookmarks/99_Archive/首页-夏夏Queen珠宝-淘宝网.md",
+    "llm-wiki/raw/bookmarks/99_Archive/首页-南红工厂批发-淘宝网.md",
+    "llm-wiki/raw/bookmarks/99_Archive/首页-出海王 24小时营业-淘宝网.md",
+    "llm-wiki/raw/bookmarks/99_Archive/首页-出海流量-淘宝网.md",
+    "llm-wiki/raw/bookmarks/99_Archive/首页-冠生首饰配件批发-淘宝网.md",
+    "llm-wiki/raw/bookmarks/99_Archive/首页-云航学院-淘宝网_1.md",
+    "llm-wiki/raw/bookmarks/99_Archive/首页-云航学院-淘宝网.md",
+    "llm-wiki/raw/bookmarks/99_Archive/首页-onchic旗舰店-天猫Tmall.com.md",
+    "llm-wiki/raw/bookmarks/99_Archive/首页-d[s471579356]-淘宝网.md",
+    "llm-wiki/raw/bookmarks/99_Archive/首页 — 极影加速.md",
+    "llm-wiki/raw/bookmarks/99_Archive/首页 - 高德控制台.md",
+    "llm-wiki/raw/bookmarks/99_Archive/首页 - 纽约推广中心有限公司 --- Home - New York Promotion Center Inc.md",
+    "llm-wiki/raw/bookmarks/99_Archive/首页 - VigrxOil --- Home - VigrxOil.md",
+    "llm-wiki/raw/bookmarks/99_Archive/首页 - Canva可画.md",
+    "llm-wiki/raw/bookmarks/99_Archive/飞享一刻 – 真正的梦想是现实的彼岸.md",
+    "llm-wiki/raw/bookmarks/99_Archive/风水术 完全风水自助手册 开运招财现用现查 - A姐分享.md",
+    "llm-wiki/raw/bookmarks/99_Archive/领英- 登录或注册.md",
+    "llm-wiki/raw/bookmarks/99_Archive",
+    "llm-wiki/raw/bookmarks/90_Reports",
+    "llm-wiki/raw/bookmarks/22_Tools",
+    "llm-wiki/raw/bookmarks/21_VideoLearning",
+    "llm-wiki/raw/bookmarks/20_Programming",
+    "llm-wiki/raw/bookmarks/19_GitHub",
+    "llm-wiki/raw/bookmarks/18_Docker",
+    "llm-wiki/raw/bookmarks/17_NAS",
+    "llm-wiki/raw/bookmarks/16_OpenWRT",
+    "llm-wiki/raw/bookmarks/15_Network"
+  ]
+}

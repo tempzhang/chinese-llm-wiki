@@ -1,0 +1,516 @@
+---
+category: MOC
+---
+# VideoLearning 资源
+
+视频教程
+
+共 **505** 条
+
+---
+
+- ★★★★★ [[云视频-阿里云开发者社区]] - https://developer.aliyun.com/live?spm=a2c6h.12883283.index.43.5f1f43071sq0ZB&taskPkg=spring2022_all&pkgSid=278130
+- ★★★★☆ [[如何用合法合規的方式DIY獲得美國的銀行帳戶：外國人申請美國銀行帳戶的方法 - YouTube]] - https://www.youtube.com/watch?v=5O86HMYKEpQ
+- ★★★★☆ [[【Adsense副业教程】我的第一个AdSense网站搭建过程（零基础到上线全过程详解） - YouTube]] - https://www.youtube.com/watch?v=zSuEPMbgaNU
+- ★★★★☆ [[OpanClaw 部署在甲骨文云ARM 4H24G 才是龙虾最终归宿 将免费养龙虾进行到底！ - YouTube]] - https://www.youtube.com/watch?v=bAVr_FH34qE
+- ★★★★☆ [[【干货】最详细OpenAI Whisper 本地部署安装与使用超强教程，视频、音频自动转录字幕，开源免费神器，新手小白必看 - YouTube]] - https://www.youtube.com/watch?v=U884kjTyxUk
+- ★★★★☆ [[速度秒杀 Whisper！阿里最强开源语音转文字模型 SenseVoice 本地部署，一键生成精准字幕！ - YouTube]] - https://www.youtube.com/watch?v=oKTzRNzL9VQ
+- ★★★★☆ [[Hyperframes教程：用这套方法，让 Codex 剪视频效果以及效率翻倍 - YouTube]] - https://www.youtube.com/watch?v=yfiV1ExXaq0
+- ★★★★☆ [[Peppa Pig Learns How to Play Cricket with Kylie Kangaroo - YouTube]] - https://www.youtube.com/watch?v=JBAdgO4j8FU&list=PLFEgnf4tmQe_YHkXH2p7X-dqnBzR0FIJn
+- ★★★★☆ [[【超實用】一次搞懂Claude AI全生態！2026全新初學者完整教程，從基本用法到全新自動化系統！零基礎初學者必看，15個Claude超棒的使用方法！C...]] - https://www.youtube.com/watch?v=zm3K831v470
+- ★★★★☆ [[日本賣最好的露營車就是它！廚房冰箱微波爐瓦斯爐都有！小車身卻能睡6人 - YouTube]] - https://www.youtube.com/watch?v=yY5b1fl-rug
+- ★★★★☆ [[7个最强免费模糊照片AI把你模糊的圖片秒變清晰，無損放大！ - YouTube]] - https://www.youtube.com/watch?v=r4kzz06Pb48&ab_channel=%E5%8A%A0%E5%AF%86%E5%8D%83%E5%AF%BB
+- ★★★★☆ [[超分辨率图片无损放大软件，图片批量无损放大神器，小巧且完全免费使用，支持win和mac系统 - YouTube]] - https://www.youtube.com/watch?v=9U3hGbk-QTU
+- ★★★★☆ [[超有趣的英文播客推荐，从入门到高阶 - YouTube]] - https://www.youtube.com/watch?v=j7y3zNFCPeE&t=181s
+- ★★★★☆ [[为什么你应该去听Podcast播客--我最爱的播客推荐(财经, 知识和故事类Podcasts) - YouTube]] - https://www.youtube.com/watch?v=ZuItzDktDiI
+- ★★★★☆ [[6个简单到不行的工具 轻松提升Facebook贴文的触及率 &amp; 关注率- FB 广告新手、社群运营小编入门必备 - YouTube]] - https://www.youtube.com/watch?v=F7O3hYgJPno&ab_channel=Husky%E5%B8%82%E5%9C%BA%E5%97%85%E5%97%85
+- ★★★★☆ [[FB廣告投放實戰基礎課程：實操篇｜一步一步帶你操作廣告流程 - YouTube]] - https://www.youtube.com/watch?v=03QlOlbp9fg&ab_channel=RBAY
+- ★★★★☆ [[Facebook广告手把手教学！2024年完整版培训！#电商e哥 - YouTube]] - https://www.youtube.com/watch?v=EgxETSPyXPA&ab_channel=%E7%94%B5%E5%95%86E%E5%93%A5
+- ★★★★☆ [[2024年初学者Facebook广告教程（逐步完整指南） - YouTube]] - https://www.youtube.com/watch?v=Lba6yvqFFv0&ab_channel=IvanMana%7C%E4%B8%AD%E5%9B%BD%E4%BA%BA
+- ★★★★☆ [[轻松玩转Facebook广告的秘密，在于这两个神器-Yuri&amp;SaleSmartly - YouTube]] - https://www.youtube.com/watch?v=z3S_0kO1AbU&pp=ygULU2FsZVNtYXJ0bHk%3D
+- ★★★★☆ [[【Facebook 教学】ADSPY最强选品工具大揭秘！快速找到热门产品！ - YouTube]] - https://www.youtube.com/watch?v=RUgHqajmM3g
+- ★★★★☆ [[硬核更新！ChatGPT镜像站喂饭级搭建流程，国内使用Chatgpt4的最新功能，月入过万不是梦！PandoraNext王炸来袭 - YouTube]] - https://www.youtube.com/watch?v=8iGhAQVq9wk&ab_channel=%E7%A8%8B%E5%BA%8F%E5%91%98%E8%80%81%E5%BC%A0
+- ★★★★☆ [[能写，能看，能听，能读。 免费的gemini版套壳之王来了 - YouTube]] - https://www.youtube.com/watch?v=w7JWfXlxDps&ab_channel=zhouhui
+- ★★★★☆ [[LobeHub 智能AI聚合神器！ 内置 ChatGPT、 Gemini Pro、Claude3、Mistral、LLaMA2 等大模型——可画图、可联网...]] - https://www.youtube.com/watch?v=6MDLVd583oI&ab_channel=%E9%9B%B6%E5%BA%A6%E8%A7%A3%E8%AF%B4
+- ★★★★☆ [[Anyma &amp; Sevdaliza Samsara Unreleased 1080p - YouTube]] - https://www.youtube.com/watch?v=xgu4-fpXIo8
+- ★★★★☆ [[Melodic Techno &amp; Progressive House Mix 2023 Argy Omnia Monolink Rebūke Da...]] - https://www.youtube.com/watch?v=XJktaXYRWBg
+- ★★★★☆ [[泰语 电音บ่ต้องการเศษใจ ( เหลือแต่หอยกับรอยยิ้ม) - แบม ไพลิน [MUSIC VIDEO] - YouTube]] - https://www.youtube.com/watch?v=kMlMmuS6CYI&list=PLOZmUVFBnNuP0nhRcIWjzrXyK1IEnRCCm&ab_channel=%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5%E0%B8%9B%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%8A
+- ★★★★☆ [[[ 洋楽playlist ] 自己肯定感が上がるおしゃれな洋楽ガールズポッププレイリスト｜作業用BGM｜Positive Feelings and Ene...]] - https://www.youtube.com/watch?v=dx-ljdGYNY4&ab_channel=it.beautifulsound
+- ★★★★☆ [[BASS BOOSTED MUSIC MIX 2023 🔈 BEST CAR MUSIC 2023 🔈 BEST EDM, BOUNCE, ELECTRO...]] - https://www.youtube.com/watch?v=tyLVVUbO0wc&ab_channel=DreamClub
+- ★★★★☆ [[Arash &amp; Helena - TOP RELAX MIX MUSIC - YouTube]] - https://www.youtube.com/watch?v=RtPIWIjMjc0&ab_channel=DUBAIMusic
+- ★★★★☆ [[2024 年高分辨率音乐播放列表 - 最伟大的发烧友收藏 - 发烧友经典 - YouTube]] - https://www.youtube.com/watch?v=VtetEcR1QtU&ab_channel=GuitarMusic
+- ★★★★☆ [[世界上最美丽的旋律🎸 2024 年最佳器乐 - YouTube]] - https://www.youtube.com/watch?v=W47AdcRIqtI&ab_channel=MelodiousStrings
+- ★★★★☆ [[C-Pop Megamix 2 (粤。华 - 舞曲串烧) 那些陪着我们岁月成长的歌 - YouTube]] - https://www.youtube.com/watch?v=28imE20ZN7c&ab_channel=djmacdoctor
+- ★★★★☆ [[Tomorrowland 2024 - Best Songs, Remixes &amp; Mashups - Warm Up Mix 2024 - Yo...]] - https://www.youtube.com/watch?v=DwjPsJphXjA&ab_channel=TOBI
+- ★★★★☆ [[Andrea ft. Mario Joy - Miss California (Mustafa &amp; Emre Remix) New video -...]] - https://www.youtube.com/watch?v=uwFXsBRfKNs&list=PLACCiBx89cfKsR8tSURUQqHJ4VuUl4Mk5&ab_channel=JHapsRecords
+- ★★★★☆ [[🔴睡眠用bgm・疲労回復 睡眠用超熟睡音楽 α波→θ波→δ波へと 寝る前に聴くと疲れが取れる音楽｜自律神経 疲労回復 熟睡 癒し ストレス緩和｜Deep ...]] - https://www.youtube.com/watch?v=_qvbdSCjjxk&ab_channel=GodspeedSleep-Relaxing-Healingmusic
+- ★★★★☆ [[美丽的轻松音乐 - 停止思考，压力缓解音乐，睡眠音乐，平静的音乐 - YouTube]] - https://www.youtube.com/watch?v=YRFFqz4k0bQ&ab_channel=EnjoyLife
+- ★★★★☆ [[音乐可以治愈心脏和血管，平静的音乐恢复神经系统，放松 - YouTube]] - https://www.youtube.com/watch?v=Yr1xeWuOQAc&ab_channel=EnjoyLife
+- ★★★★☆ [[Music Mix 2024 🎧 EDM Remixes of Popular Songs 🎧 EDM Gaming Music Mix ​ - YouTube]] - https://www.youtube.com/watch?v=xN5GQPCfCNo&ab_channel=InfinityEDM
+- ★★★★☆ [[放松心情的最佳歌曲 - 最好的灵魂R＆B混合 - YouTube]] - https://www.youtube.com/watch?v=UHxQZl5MrPM&ab_channel=1Billionview
+- ★★★★☆ [[🎵Best of Boris Brejcha DJ MIX 2020🎵 - YouTube]] - https://www.youtube.com/watch?v=9aPDyq7vu50&ab_channel=RUMI
+- ★★★★☆ [[Boris Brejcha Parallel Universum MegaMix by RUMI - YouTube]] - https://www.youtube.com/watch?v=giIheL4Juss&list=PLM64UuzYOJG7Lm7tlC4bI8GT05djq--Tz&ab_channel=RUMI
+- ★★★★☆ [[【中毒致幻越南鼓韩国弹跳】2024 越南漂移 Vina Shift易上头💥 马来西亚巴黎人KTV开启竞速模式 赛洛西宾致幻剂 Mixed By Vanis...]] - https://www.youtube.com/watch?v=cFfu7-47Dk0&ab_channel=%E9%9B%B6%E5%BA%A6%E8%A7%A3%E8%AF%B4
+- ★★★★☆ [[【Get Low】重低音強化 蹦到你還要重播 - YouTube]] - https://www.youtube.com/watch?v=IhPENK_k89w&ab_channel=%E9%87%A3%E9%AD%9A%E7%BF%81
+- ★★★★☆ [[9 DJ vV Electro Man Yao 2023 全粤语---劲歌金曲x情意结x魔鬼邂逅x晚风心里吹x习惯失眠--- - YouTube]] - https://www.youtube.com/watch?v=Enq99J9um9c
+- ★★★★☆ [[Divine Music - Ethnic &amp; Deep House Mix 2023 [Vol.6] - YouTube]] - https://www.youtube.com/watch?v=AxFNcEp5ahY
+- ★★★★☆ [[【全网首发】1句话生成电影？谷歌Veo3+Flow，保姆级使用教程！这是最强ai视频工具 - YouTube]] - https://www.youtube.com/watch?v=f4nXbSOZFXM
+- ★★★★☆ [[收费好几千的电脑模拟器改真机教程，搬砖撸毛网赚项目的福音，雷电模拟器同步操作-XPOSED框架-改真手机-一键新机-不同窗口使用不同的独立IP教程，雷电模...]] - https://www.youtube.com/watch?v=YDwNVOf4uJc
+- ★★★★☆ [[轻松玩转Facebook广告的秘密，在于这两个神器-Yuri&amp;SaleSmartly - YouTube_1]] - https://www.youtube.com/watch?v=z3S_0kO1AbU
+- ★★★★☆ [[【2025】Telegram注册方法最新版！Telegram（电报）收不到短信验证码怎么办？Telegram怎样设置中文？注册Telegram后必做的设置...]] - https://www.youtube.com/watch?v=rniYvDQ6wJU
+- ★★★★☆ [[卸载剪映后，我用这款AI剪辑软件，从爆肝“周更”卷到“日更”！剪映替代-文字转语音-文字转语音-语音转文 字- AI剪辑软件 -Filmora教学 - Y...]] - https://www.youtube.com/watch?v=ox9adlGMdv4
+- ★★★★☆ [[ESP Web- Getting Started - YouTube]] - https://www.youtube.com/watch?v=j3dKggM06K4&t=697s&ab_channel=ASIKnowledgeBase
+- ★★★★☆ [[20美元搞定1583公证，完成美国私人地址AnytimeMailbox开通，Fiverr新用户配合Rebatesme返利网站 - YouTube]] - https://www.youtube.com/watch?v=kXkoN_BcJtg
+- ★★★★☆ [[如何下载电报里禁止的视频？批量下载电报群里的视频和图片-How to download videos prohibited from downloadin...]] - https://www.youtube.com/watch?v=ltBa_sV3IVU&ab_channel=%E6%98%93%E4%BA%91%E5%A4%A9%E5%A0%82
+- ★★★★☆ [[📺MoonTV 电视观看终极方案！OrionTV 配置教程，手机也能看！ - YouTube]] - https://www.youtube.com/watch?v=ACL2r0VeR9g
+- ★★★★☆ [[11 Threads Roma FULL SHOW - New York Fashion Week 2023 - YouTube]] - https://www.youtube.com/watch?v=jyHygY8IQyk&ab_channel=MiamiTrendMedia
+- ★★★★☆ [[4K60] 2024 New Release - LISE CHARMEL Part-1 slow motion- Salon International...]] - https://www.youtube.com/watch?v=iejAJL_6LCY&ab_channel=SlowMotionFashion
+- ★★★★☆ [[二月新人女優將登場！床上戰鬥力如同「超級賽亞人」！神仙顏值成矚目！｜女神搜查線 - YouTube]] - https://www.youtube.com/watch?v=N0HWxh40RuQ&ab_channel=%E5%A5%B3%E7%A5%9E%E6%90%9C%E6%9F%A5%E7%B7%9A
+- ★★★★☆ [[还找不到片？10个顶极Telegram福利频道推荐！- 海量成人内容推荐 - 老司机精选 - 无限芝士 - YouTube]] - https://www.youtube.com/watch?v=DLPLVw9n6tc
+- ★★★★☆ [[摆脱色情 Escape the Grip of Porn Addiction- 10 Powerful Recovery Tips - YouTube]] - https://www.youtube.com/watch?v=2i9SOiBdpWY
+- ★★★★☆ [[当你戒掉色情片时会发生什么？ What Happens When You Quit Porn- - YouTube]] - https://www.youtube.com/watch?v=d1v170oM67U
+- ★★★★☆ [[倪海廈：真正「戒淫」的人，臉上都有這「3種富貴相」！為什麼這件事不能做？真相只有一個：你在透支你的「祿命」！ - YouTube]] - https://www.youtube.com/watch?v=ZpKBv0WkeIw
+- ★★★★☆ [[家庭影音库搭建02：TMDB搜不到的“特殊电影”怎么刮？Metatube：这题我会！ - YouTube]] - https://www.youtube.com/watch?v=JAsM3PZXfnw
+- ★★★★☆ [[看剧不花钱了，5分钟+0成本 KVideo 私人影视平台，超简单，无广告。但千万别看Premium区，太迷幻了！ - YouTube]] - https://www.youtube.com/watch?v=WcrvrPp2fzc
+- ★★★★☆ [[制作出售视频课程，轻松获利5万美元以上 - Udemy和Teachable在线教育平台的对比，哪个平台更适合出售自己的视频教程 - 如何出售自己擅长的技能...]] - https://www.youtube.com/watch?v=laaVkTZQIXk
+- ★★★★☆ [[【油管工具】 MrBeast 推出强大的频道-视频数据分析工具，完胜 SocialBlade, 老胡详细演示讲解。 - YouTube]] - https://www.youtube.com/watch?v=Z4P9DMmD8I0&ab_channel=%E8%80%81%E8%83%A1%E6%B2%B9%E7%AE%A1%E7%A0%94%E7%A9%B6%E9%99%A22024
+- ★★★★☆ [[学会这个小技巧，订单直接翻3倍！ - YouTube]] - https://www.youtube.com/watch?v=-gohA9-0WCs&list=PLdztFfYec4KaPN3xElTTwF4hPrpn1nnXb&index=3&ab_channel=%E7%9B%88%E7%9B%88%E6%95%B0%E5%AD%A6
+- ★★★★☆ [[零基础搭建虚拟资源下载网站，全自动赚钱站（Ripro火车头自动采集）（上） - YouTube]] - https://www.youtube.com/watch?v=GzwdTjeLCMo&ab_channel=%E8%80%83%E6%8B%89kk
+- ★★★★☆ [[月入3万+）火车头采集器教程，重点学习，学会后可采集文章、电影、小说、漫画。0基础1小时搭建小说漫画网站，带分销打赏功能，自动采集，免费送给大家，解放双手...]] - https://www.youtube.com/watch?v=UTPsB4wCnto&list=PLWP2ou4X1zgVtrQ22rH1gWja5_yJjXiDu&ab_channel=%E8%90%9D%E5%8D%9C%E5%A4%B4%E7%BD%91%E7%BB%9C%E5%88%9B%E4%B8%9A
+- ★★★★☆ [[闲鱼卖打印机项目，蕞新玩法，像素极玩法教程，零门槛零成本，小白月入3W+ - YouTube]] - https://www.youtube.com/watch?v=_DkVWC56Y7g&ab_channel=%E5%85%AC%E4%BC%97%E5%8F%B7%E4%B8%A8%E6%98%8C%E5%8D%93%E5%8A%A9%E6%89%8B
+- ★★★★☆ [[Pinterest赚钱新手教程（超详细） - YouTube]] - https://www.youtube.com/watch?v=nIkFO7yyWfE&ab_channel=%E7%9F%A5%E9%9D%92Alice
+- ★★★★☆ [[Pinterest 赚钱：如何搬运视频在Pinterest赚钱（睡觉赚钱） - YouTube]] - https://www.youtube.com/watch?v=3_xFqWmwLM8&ab_channel=TimmyMakeMoney
+- ★★★★☆ [[站长福利：谷歌联盟月入1万美元Pinterest引流系列教程第6讲 规避图片侵权 - YouTube]] - https://www.youtube.com/watch?v=WsGeXVQB0EM&ab_channel=%E7%84%A1%E5%90%8D%E5%88%86%E4%BA%AB
+- ★★★★☆ [[快手直播场控助手，让自己的直播间更加完美【场控助手+使用教程】 - YouTube]] - https://www.youtube.com/watch?v=oTz9VCKeyjw&ab_channel=%E8%80%81%E5%90%B4%E9%A1%B9%E7%9B%AE%E7%BD%91
+- ★★★★☆ [[林继Notion 新手教学01 基本界面 - YouTube]] - https://www.youtube.com/watch?v=OReiwNdxCXo&list=PLXIE_myo1vplwVHv-gqGyu_o1n2OapMq6&index=2&ab_channel=%E6%9E%97%E7%BB%A7-LINJI
+- ★★★★☆ [[notion教程𝟏｜零基础新手快速入门使用 - YouTube]] - https://www.youtube.com/watch?v=77o7K0N4L5M&list=PLxH9DlJtPy3EeTekMk7gfZjEto4MyWKUJ&ab_channel=%E4%BE%9D%E6%A0%BC%E7%93%A6
+- ★★★★☆ [[AI绘画——给我5分钟，传你十年绘画功力！ - YouTube]] - https://www.youtube.com/watch?v=n6STKdsXYwI
+- ★★★★☆ [[笹川平和財団主催 講演会「日中有識者対話-北朝鮮の核危機と北東アジア情勢の行方」全編通し（会場音声） - YouTube]] - https://www.youtube.com/watch?v=efNwRVB0-IM&list=PLrALaO6ZZUGQQ1Isxjmhe1J82kzPMnxX4
+- ★★★★☆ [[成长 搜索技术，普通人变强的唯一外挂。全套详细宝藏教程~ - YouTube]] - https://www.youtube.com/watch?v=tiN6T1LewmQ
+- ★★★★☆ [[躺赚 项目—自己开网店通过虚拟 产品赚钱全流程（手把手保姆级实操教程） - YouTube]] - https://www.youtube.com/watch?v=avWv1uvEn7w&ab_channel=%E6%88%91%E6%98%AF%E7%8E%8B%E6%98%8C%E8%BF%9C
+- ★★★★☆ [[Reprogram your brain (it only takes 7 days) -Dr. Joe Dispenza [-5 Million vie...]] - https://www.youtube.com/watch?v=w5l9xoIMy-Q
+- ★★★★☆ [[多益聽力必考！TOEIC 常考1000句 (第1集) - NO.001 - 050 - 商用英文 podcast - #雪薇英文 #好家在我在家 - Yo...]] - https://www.youtube.com/watch?v=gjCYb3MbPc4&list=PLcPfCJuIgV5ro2QFtZnvWDWoe_7f_mB9q
+- ★★★★☆ [[英文單字這樣背 So Easy Lesson1 - 格林法則 - 單字無痛倍增 - Ethanglish不藏私大公開 - YouTube]] - https://www.youtube.com/watch?v=nOUd46Bd-Y8&list=PLdD-JrJVhcPcNkYWYmsjXSUUsUr-yTDS6
+- ★★★★☆ [[500词根、词源快速记英语单词38000词 2 - YouTube]] - https://www.youtube.com/watch?v=t7VLv1R87S8&list=PLkluppRF_XpEc_UgDa7r4sWEGUdT8xW_i&index=2
+- ★★★★☆ [[【Anki+欧路词典】这是我见过最高效的背单词工具组合 - YouTube]] - https://www.youtube.com/watch?v=LG_S6uTAKPo
+- ★★★★☆ [[windows版电报批量下载工具tdl，使用教程 - YouTube]] - https://www.youtube.com/watch?v=YgYj7ePQEUQ&ab_channel=%E5%A7%BF%E5%8A%BF%E5%B0%8F%E7%8E%8B%E5%AD%90
+- ★★★★☆ [[【3款自用完全免费PDF工具效率神器】最好用的PDF工具-PDF编辑-PDF合并-PDF分割-PDF压缩-PDF排序-PDF转图片-PDF提取-PDF水印...]] - https://www.youtube.com/watch?v=uJvxGZph-Rw&t=192s
+- ★★★★☆ [[Windows 11 (LTSC) 长期服务版正式发布！ 超牛超流畅，干净清爽，一键免费激活！ - 零度解说 - YouTube]] - https://www.youtube.com/watch?v=ES0GqAJXYQE
+- ★★★★☆ [[电报下载神器TDL！没有什么是我不能下的，没有什么是我不能搬运的，有他你也可以成为10w+的频道主 - YouTube]] - https://www.youtube.com/watch?v=h_r1_I6Busk
+- ★★★★☆ [[2500元预算，如果打造家庭卡拉OK系统？ 为什么不能用HIFI音箱K歌 - YouTube]] - https://www.youtube.com/watch?v=TXQeM3kuFBE
+- ★★★★☆ [[NotebookLM 神级插件｜Kortex 一键同步 + YouTube 批量采集 + 思维导图导出 + 完美去水印，效率原地起飞 10 倍！ - Yo...]] - https://www.youtube.com/watch?v=nc28TZgOMes
+- ★★★★☆ [[We got a WESTFALIA Campervan! VAN LIFE - YouTube]] - https://www.youtube.com/watch?v=_t4C2dWBq98
+- ★★★★☆ [[My 1st Day In Karachi, Pakistan 🇵🇰 (I&#39;m Overwhelmed!) - YouTube]] - https://www.youtube.com/watch?v=mDYSRqWIy2o
+- ★★★★☆ [[无成本！全面监控你的手机！！！【黑科技】 - YouTube]] - https://www.youtube.com/watch?v=qMqwlUJ8N30
+- ★★★★☆ [[How to Get Rich - YouTube]] - https://www.youtube.com/watch?v=1-TZqOsVCNM
+- ★★★☆☆ [[Top CPA network cpa.house]] - https://cpa.house/?utm_source=our-youtube
+- ★★★☆☆ [[AI 技术分享 - YouTube]] - https://www.youtube.com/@rongyikanshijie-ai/videos
+- ★★★☆☆ [[陶渊小明 - YouTube]] - https://www.youtube.com/@a--yuan/videos
+- ★★★☆☆ [[达轮无限进步 - YouTube]] - https://www.youtube.com/@%E8%BE%BE%E8%BD%AE%E6%97%A0%E9%99%90%E8%BF%9B%E6%AD%A5/videos
+- ★★★☆☆ [[AI超元域 - YouTube]] - https://www.youtube.com/@AIsuperdomain/videos
+- ★★★☆☆ [[Fairy Tales and Stories for Kids - YouTube]] - https://www.youtube.com/@FairyTales.English/videos
+- ★★★☆☆ [[Little Fox - Kids Stories and Songs - YouTube]] - https://www.youtube.com/user/LittleFoxKids/videos
+- ★★★☆☆ [[电商视频生成ClipClap AI - All-in-one AI Video Ad Generator for High-Performing Vide...]] - https://clipclap.ai/zh
+- ★★★☆☆ [[unnamed]] - https://www.youtube.com/
+- ★★★☆☆ [[unnamed_1]] - https://www.bilibili.com/
+- ★★★☆☆ [[一个很变态……但可以光速自学PS2024的神奇方法！少走99%的弯路！PS大佬花费256个小时整理的PS教程全套视频！！！_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV1RH4y137Mv/?spm_id_from=333.1007.tianma.1-2-2.click&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★★☆☆ [[1A - NPR]] - https://www.npr.org/podcasts/510316/1a
+- ★★★☆☆ [[Episode 216- How Four Drinking Buddies Saved Brazil - Planet Money - NPR]] - https://www.npr.org/sections/money/2015/12/02/458222801/episode-216-how-four-drinking-buddies-saved-brazil
+- ★★★☆☆ [[The Planet Money T-Shirt - NPR]] - https://www.npr.org/series/262481306/planet-money-t-shirt-project-series
+- ★★★☆☆ [[The Indicator from Planet Money - NPR]] - https://www.npr.org/podcasts/510325/the-indicator-from-planet-money
+- ★★★☆☆ [[Planet Money - NPR]] - https://www.npr.org/sections/money/
+- ★★★☆☆ [[Planet Money - NPR_1]] - https://www.npr.org/podcasts/510289/planet-money
+- ★★★☆☆ [[World Cafe - NPR]] - https://www.npr.org/sections/world-cafe/
+- ★★★☆☆ [[TED Radio Hour - NPR]] - https://www.npr.org/programs/ted-radio-hour/
+- ★★★☆☆ [[60 Minutes - Episodes, interviews, profiles, reports and 60 Minutes Overtime ...]] - https://www.cbsnews.com/60-minutes/
+- ★★★☆☆ [[JRE]] - https://www.youtube.com/@joerogan
+- ★★★☆☆ [[Ed Mylett]] - https://www.youtube.com/@EdMylettShow
+- ★★★☆☆ [[Lewis Howes]] - https://www.youtube.com/@lewishowes
+- ★★★☆☆ [[American English Vowel Sounds]] - https://www.youtube.com/playlist?list=PLrqHrGoMJdTQ__1eH4a5EW43NQvDuRjnr
+- ★★★☆☆ [[Car Talk - YouTube]] - https://www.youtube.com/@cartalk5901/videos
+- ★★★☆☆ [[Planet Money Makes A T-Shirt]] - https://apps.npr.org/tshirt/#/title
+- ★★★☆☆ [[StartUp - Gimlet]] - https://gimletmedia.com/shows/startup
+- ★★★☆☆ [[Latest Episodes - Gimlet]] - https://gimletmedia.com/episodes
+- ★★★☆☆ [[Lending Elon Musk Money Was A Very Bad Bet - The Journal]] - https://gimletmedia.com/shows/the-journal/6nh3vlx3/lending-elon-musk-money-was-a-very-bad
+- ★★★☆☆ [[Freakonomics Radio Archives - Freakonomics]] - https://freakonomics.com/series/freakonomics-radio/
+- ★★★☆☆ [[Podcasts - Freakonomics]] - https://freakonomics.com/podcasts/
+- ★★★☆☆ [[ChooseFI- The Financial Independence Community]] - https://www.choosefi.com/
+- ★★★☆☆ [[Listen to the Best Podcasts &amp; Shows Online, Free - iHeart]] - https://www.iheart.com/podcast/
+- ★★★☆☆ [[Best free podcast app for Apple iOS and Android - Let words move you]] - https://castbox.fm/
+- ★★★☆☆ [[Financial Independence Podcast]] - https://www.madfientist.com/podcast/
+- ★★★☆☆ [[Serial- Season One]] - https://serialpodcast.org/season-one
+- ★★★☆☆ [[Season One]] - https://serialpodcast.org/
+- ★★★☆☆ [[Chris Hutchins - Why You Should &quot;Retire&quot; Before You Hit Your Number]] - https://www.madfientist.com/chris-hutchins-interview/
+- ★★★☆☆ [[585- In Defense of Ignorance]] - https://www.thisamericanlife.org/585/transcript
+- ★★★☆☆ [[Revisionist History Podcast - Malcolm Gladwell Podcast - Pushkin Industries]] - https://www.pushkin.fm/podcasts/revisionist-history
+- ★★★☆☆ [[Hot Money - The New Narcos - Financial Times]] - https://www.pushkin.fm/podcasts/hot-money
+- ★★★☆☆ [[Money 2.0- Why We Bust Our Budgets - Hidden Brain Media]] - https://hiddenbrain.org/podcast/money-2-0-why-we-bust-our-budgets/
+- ★★★☆☆ [[Money 2.0- Rewrite Your Money Story - Hidden Brain Media]] - https://hiddenbrain.org/podcast/money-2-0-rewrite-your-money-story/
+- ★★★☆☆ [[Money 2.0- Emotional Currency - Hidden Brain Media]] - https://hiddenbrain.org/podcast/money-2-0-emotional-currency/
+- ★★★☆☆ [[Money 2.0- The Rich and the Rest of Us - Hidden Brain Media]] - https://hiddenbrain.org/podcast/money-2-0-the-rich-and-the-rest-of-us/
+- ★★★☆☆ [[Money 2.0- Let&#39;s Go Shopping! - Hidden Brain Media]] - https://hiddenbrain.org/podcast/money-2-0-lets-go-shopping/
+- ★★★☆☆ [[Podcast Hosting Made Easy - Start a Podcast Today - RSS.com]] - https://rss.com/
+- ★★★☆☆ [[Learn English and listen to English with podcasts in English]] - https://www.podcastsinenglish.com/
+- ★★★☆☆ [[IELTS - All Ears English Podcast]] - https://www.allearsenglish.com/category/ielts/
+- ★★★☆☆ [[EPISODES - Luke’s ENGLISH Podcast]] - https://teacherluke.co.uk/archive-of-episodes-1-149/
+- ★★★☆☆ [[StoryLearning Podcast with Olly Richards – StoryLearning]] - https://storylearning.com/podcast?_gl=1*fojtyo*_up*MQ..*_ga*MzcxMzc3ODIzLjE3Mzc2OTI4Mzg.*_ga_JXPV5FBE1W*MTczNzY5MjgzOC4xLjEuMTczNzY5Mjg2MC4zOC4wLjA.
+- ★★★☆☆ [[这10个Podcast节目，是提升英语听力的必备神器！ - 知乎]] - https://zhuanlan.zhihu.com/p/59571686
+- ★★★☆☆ [[NPR音讯 2025年3月合集 - 每日英语听力_欧路词典]] - https://dict.eudic.net/webting/desktopplay?id=14cb9c8d-0ab6-11f0-8114-005056866eda&token=QYN+eyJ0b2tlbiI6IiIsInVzZXJpZCI6IiIsInVybHNpZ24iOiJUVGJKcWhqUU5BSzlrbVZPYW9BQVBycGRGUTA9IiwidCI6IkFCSU1UYzJORFV5TVRVeE9RPT0ifQ%3D%3D
+- ★★★☆☆ [[bilibili每周必看]] - https://www.bilibili.com/h5/weekly-recommend?num=287&navhide=1
+- ★★★☆☆ [[NPR - Breaking News, Analysis, Music, Arts &amp; Podcasts - NPR]] - https://www.npr.org/?refresh=true
+- ★★★☆☆ [[哔哩哔哩热门]] - https://www.bilibili.com/v/popular/all/
+- ★★★☆☆ [[Facebook视频下载 - 在线下载Facebook视频]] - https://www.getfvid.com/
+- ★★★☆☆ [[软件拉新任务-分销推广系统-完善的数据体系_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV1FX4y1Z7ai/?t=23.32697&spm_id_from=333.1350.jump_directly&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★★☆☆ [[Aron厚玉 - YouTube]] - https://www.youtube.com/@aronhouyu1024/videos
+- ★★★☆☆ [[Mike Xu- - Fumed Silica Vacuum Insulation Panel - YouTube]] - https://www.youtube.com/@mikexu--fumedsilicavacuumi3535/shorts
+- ★★★☆☆ [[目标网站 实战仿站_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV19h411777A/?p=4&spm_id_from=pageDriver&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★★☆☆ [[与有风一起学习AI网络营销工具 - YouTube]] - https://www.youtube.com/@windyAIweb
+- ★★★☆☆ [[犬哥網站 - 网页设计 平面设计]] - https://www.youtube.com/@wpdog/playlists
+- ★★★☆☆ [[如何搭建一个属于自己的网站，joe2.0美化版：一款精美的halo博客主题_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV13P411r7Dx/?spm_id_from=333.788&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★★☆☆ [[缙哥哥-分享缙哥哥的中医药心得、武术笔记、趣闻杂谈、软件分享、无损音乐、视频短片、技术教程、摄影图片、旅游攻略、购物优惠。]] - https://www.dujin.org/
+- ★★★☆☆ [[Mind &amp; Spirit Relaxation with Music - YouTube]] - https://www.youtube.com/c/MindSpiritRelaxationwithMusic
+- ★★★☆☆ [[日系动漫音乐 LO-FI SENPAI - YouTube]] - https://www.youtube.com/channel/UCxONCRXEhzv0cRbWCKybOsw/videos
+- ★★★☆☆ [[Godspeed Sleep-Relaxing-Healing music - YouTube]] - https://www.youtube.com/@godspeedsleep-relaxing-healing
+- ★★★☆☆ [[ZaadOat Studio - YouTube]] - https://www.youtube.com/@ThanakornZaadoat
+- ★★★☆☆ [[Tomorrowland - YouTube]] - https://www.youtube.com/@tomorrowland
+- ★★★☆☆ [[Angelic Music World - YouTube]] - https://www.youtube.com/@AngelicMusicWorld/videos
+- ★★★☆☆ [[記錄頻道裡最戳心的精選留言及歌詞Angelic Music World (@angelicmusicworld) · Instagram 照片和视频]] - https://www.instagram.com/angelicmusicworld/
+- ★★★☆☆ [[Electro Junkiee - YouTube]] - https://www.youtube.com/@electrojunkiee/videos
+- ★★★☆☆ [[你人真搞笑 - YouTube]] - https://www.youtube.com/@NRZGX
+- ★★★☆☆ [[JoeanAmier的个人空间-JoeanAmier个人主页-哔哩哔哩视频]] - https://space.bilibili.com/22941727?spm_id_from=333.788.upinfo.detail.click
+- ★★★☆☆ [[JoeanAmier - YouTube]] - https://www.youtube.com/@yonglelolu
+- ★★★☆☆ [[(90 封私信 - 16 条消息) yt-dlp 使用教程 - 知乎]] - https://zhuanlan.zhihu.com/p/618467617
+- ★★★☆☆ [[Flow TV - XOXO]] - https://labs.google/flow/tv/channel/xoxo/9Ynla0eHVzxfznvLxCcB?random=true
+- ★★★☆☆ [[Flow TV - Channels]] - https://labs.google/flow/tv/channels
+- ★★★☆☆ [[Midjourney Explore]] - https://www.midjourney.com/explore?tab=video_top
+- ★★★☆☆ [[Chat - Google AI Studio]] - https://aistudio.google.com/prompts/new_chat
+- ★★★☆☆ [[抖店黄总 - YouTube]] - https://www.youtube.com/@MruanfromDoudian/videos
+- ★★★☆☆ [[誉先生电商路 - YouTube]] - https://www.youtube.com/@yuxiansheng
+- ★★★☆☆ [[不良林 - YouTube]] - https://m.youtube.com/@bulianglin/videos
+- ★★★☆☆ [[济南老大哥 - YouTube]] - https://www.youtube.com/@mikezhidao/videos
+- ★★★☆☆ [[不良林 - YouTube_1]] - https://www.youtube.com/@bulianglin/videos
+- ★★★☆☆ [[信息猎人 - YouTube]] - https://www.youtube.com/@%E4%BF%A1%E6%81%AF%E7%8C%8E%E4%BA%BA/videos
+- ★★★☆☆ [[七尺宇 - YouTube]] - https://www.youtube.com/@qichiyu/videos
+- ★★★☆☆ [[心泽聊技术 - YouTube]] - https://www.youtube.com/@dingxinze/videos
+- ★★★☆☆ [[花墨世界 - YouTube]] - https://www.youtube.com/@ihuamo/videos
+- ★★★☆☆ [[野猫乐游 - YouTube]] - https://www.youtube.com/@%E9%87%8E%E7%8C%AB%E4%B9%90%E6%B8%B8
+- ★★★☆☆ [[海外引流ins小浩 - YouTube]] - https://www.youtube.com/@ins16868/videos
+- ★★★☆☆ [[ASICentral - YouTube]] - https://www.youtube.com/user/asicentral
+- ★★★☆☆ [[ASI Knowledge Base - YouTube]] - https://www.youtube.com/@asiknowledgebase194
+- ★★★☆☆ [[ESP 网络视频库 --- ESP Web Video Library]] - https://support.asicentral.com/asicentral/web/esptraining/webvideolibrary.asp
+- ★★★☆☆ [[ASI Knowledge Base - YouTube_1]] - https://www.youtube.com/@asiknowledgebase194/videos
+- ★★★☆☆ [[TangTalk - YouTube]] - https://www.youtube.com/@tangtalk
+- ★★★☆☆ [[DaddyEarn奶爸套利 - YouTube]] - https://www.youtube.com/@DaddyEarn/videos
+- ★★★☆☆ [[走资世界@神圣时间线 - YouTube]] - https://www.youtube.com/@banktoworldvip
+- ★★★☆☆ [[2024年低成本LLC美国公司注册教程 - WZProject]] - https://wzproject.com/llc-registered/
+- ★★★☆☆ [[抖查查数据-短视频&amp;直播电商数据分析服务平台]] - https://www.douchacha.com/
+- ★★★☆☆ [[巨量学官网｜短视频运营_直播运营_电商直播运营培训课程]] - https://school.oceanengine.com/
+- ★★★☆☆ [[PPTBOSS-在线PPT制作工具_免费PPT幻灯片制作软件_在线课件制作软件，提供精美PPT模板、PPT教程]] - https://www.pptboss.com/
+- ★★★☆☆ [[bilibili.com-video-BV1cC4y1d7Sj--spm_id_from=autoNext&amp;vd_source=f900556eb...]] - https://www.bilibili.com/video/BV1cC4y1d7Sj/?spm_id_from=autoNext&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★★☆☆ [[职图研究院行业百科白皮书]] - https://careertu.com/white-papers?utm_source=Youtube&utm_medium=Liziran&utm_campaign=LZRVideo&utm_content=
+- ★★★☆☆ [[顾小北和他的朋友们 – 和同频的人一起交流、分享、学习]] - https://guxiaobei.com/
+- ★★★☆☆ [[自媒体 赚钱 爱分享老吴 - YouTube]] - https://www.youtube.com/@user-zk7wx5zi4l
+- ★★★☆☆ [[windows版电报批量下载工具tdl，使用教程_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV1ZG411A7Jb/?buvid=XUDDCA2D3246CC9E3DF25A73FB5C61F772CD4&is_story_h5=false&mid=6rOl1a0bmSwOBdaiagIw9w%3D%3D&p=1&plat_id=114&share_from=ugc&share_plat=android&share_session_id=191fe079-3264-475c-bba8-f6e5e8ac9229&share_tag=s_i&unique_k=7t609ar&up_id=327605448&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★★☆☆ [[Porn Dude - Best Porn Sites &amp; Free Porn Tubes List of 2025!]] - https://theporndude.com/
+- ★★★☆☆ [[xHamster 的免费色情视频和性爱视频管]] - https://zh.xhamster.com/
+- ★★★☆☆ [[Free Porn Videos - HD Porno Tube &amp; XXX Sex Videos - YouPorn]] - https://www.youporn.com/
+- ★★★☆☆ [[老洋的幸福人生 - YouTube]] - https://www.youtube.com/@WYHappyLife/videos
+- ★★★☆☆ [[批量下载Twitter-P站-Youtube-B站-Instagram-种子磁力等的强大应用Hitomi Downloader - Luckydesigner]] - https://www.luckydesigner.space/support-download-twitter-pornhub-youtube-etc/
+- ★★★☆☆ [[Dasmz 下载- YouTube]] - https://www.youtube.com/@DasmzStudio/videos
+- ★★★☆☆ [[下载Twitter视频 2023-02-09 - Dasmz]] - https://dasmz.com/?p=3109
+- ★★★☆☆ [[KatiaBang - YouTube]] - https://www.youtube.com/@KatiaBang/videos
+- ★★★☆☆ [[免费色情性爱影片 - Redtube - XXX电影 - 色情视频之家 --- Free Porn Sex Videos - Redtube - XXX ...]] - https://www.redtube.com/
+- ★★★☆☆ [[直播激情视频秀、与视频女郎免费聊天 - LiveJasmin]] - https://www.livejasmin.com/zh/%E5%A5%B3%E5%AD%A9/
+- ★★★☆☆ [[免费成人视频 - XVIDEOS.COM --- 免費成人視頻 - XVIDEOS.COM]] - https://www.xvideos.com/
+- ★★★☆☆ [[免费色情视频及性爱影片 – A片，X级，色情片分享网站 - Pornhub]] - https://cn.pornhub.com/
+- ★★★☆☆ [[叶笛浪吹 - YouTube]] - https://www.youtube.com/@yedihuchui
+- ★★★☆☆ [[台湾的日本av情报 一劍浣春秋與他的暗黑小夥伴 - YouTube]] - https://www.youtube.com/@Iken_69
+- ★★★☆☆ [[高清色情视频 - 全高清电影 -电子杂志 --- HD Porn Videos - Full High Definition Movies - EPORNER]] - https://www.eporner.com/
+- ★★★☆☆ [[字幕色情 - 公共性爱视频和金钱性行为 --- Subtitle Porn - Public sex videos and sex for money]] - https://subtitleporn.com/
+- ★★★☆☆ [[蛋仔开箱 - YouTube]] - https://www.youtube.com/@danzaikaixiang/videos
+- ★★★☆☆ [[情感故事集 - YouTube]] - https://www.youtube.com/@qinggan_story/videos
+- ★★★☆☆ [[成人情感故事 - YouTube]] - https://www.youtube.com/@chengren_gushi/videos
+- ★★★☆☆ [[Chaturbate-免费成人网络视频，直播性爱，免费性爱聊天，免费展示者和色情明星表演视频]] - https://chaturbate.com/
+- ★★★☆☆ [[White Pony TH - YouTube]] - https://www.youtube.com/@WhitePonyTH
+- ★★★☆☆ [[Chaturbate-免费成人网络视频，直播性爱，免费性爱聊天，免费展示者和色情明星表演视频_1]] - https://chaturbate.com/#
+- ★★★☆☆ [[巨乳 - Supjav.com - 免费独家高清巨乳成人视频]] - https://supjav.com/zh/tag/big-tits?asgtbndr=1
+- ★★★☆☆ [[蒙卡出海营销投稿视频-蒙卡出海营销视频分享-哔哩哔哩视频]] - https://space.bilibili.com/1007176236/video
+- ★★★☆☆ [[Vimeo 付费视频平台 AI 驱动的视频平台 --- Vimeo AI-Powered Video Platform]] - https://vimeo.com/
+- ★★★☆☆ [[自媒体学习平台_自媒体学习网站-自媒体导航网]] - http://www.71017.cn/xuexi/
+- ★★★☆☆ [[阿杰的vlog - YouTube]] - https://www.youtube.com/@1993cm/videos
+- ★★★☆☆ [[在线课程 - 时间自由，学您想学 - Udemy]] - https://www.udemy.com/
+- ★★★☆☆ [[Best Online Course Platform to Create &amp; Sell Courses - Teachable --- 创建和销...]] - https://teachable.com/
+- ★★★☆☆ [[LittleBoatTan小船 - YouTube]] - https://www.youtube.com/@LittleBoatTan/videos
+- ★★★☆☆ [[Hahow 好學校 - 成為理想的自己]] - https://hahow.in/
+- ★★★☆☆ [[緯育TibaMe - 提拔我的學習力 提升職場競爭力]] - https://www.tibame.com/
+- ★★★☆☆ [[帶你學到會的線上課程 - 六角學院]] - https://www.hexschool.com/
+- ★★★☆☆ [[Coursera - Degrees, Certificates, &amp; Free Online Courses]] - https://www.coursera.org/
+- ★★★☆☆ [[ShopBack - Shop, earn and pay --- 购物返回 - 购物、赚取和付款]] - https://www.shopback.sg/
+- ★★★☆☆ [[EP一个人网络创业 - YouTube]] - https://www.youtube.com/@ep8882/videos
+- ★★★☆☆ [[Sunny Lenarduzzi - YouTube]] - https://www.youtube.com/@SunnyLenarduzzi
+- ★★★☆☆ [[虚坏叔叔简单、充实的学习]] - https://xuhss.com/
+- ★★★☆☆ [[老刘 - YouTube]] - https://www.youtube.com/@user-li1ri8tm9m/videos
+- ★★★☆☆ [[HankView - YouTube]] - https://www.youtube.com/@hankview/videos
+- ★★★☆☆ [[Gofair的个人空间-Gofair个人主页-哔哩哔哩视频]] - https://space.bilibili.com/406914229
+- ★★★☆☆ [[unnamed_2]] - https://www.npr.org/podcasts-and-shows/
+- ★★★☆☆ [[与有风一起学习AI网络营销工具 - YouTube_1]] - https://www.youtube.com/@windyAIweb/videos
+- ★★★☆☆ [[Windy有风 - YouTube]] - https://www.youtube.com/@Windyyoufeng/videos
+- ★★★☆☆ [[和有风学习AI联盟营销赚钱 - YouTube]] - https://www.youtube.com/@xuexiai/videos
+- ★★★☆☆ [[新片场 - 发现全球优质视频与创作人，与百万创作人一起成长]] - https://www.xinpianchang.com/
+- ★★★☆☆ [[视频剪辑万能工具箱MotionVFX — Final Cut Pro &amp; DaVinci Resolve Plugins]] - https://www.motionvfx.com/
+- ★★★☆☆ [[千牛头条，教程陪伴商家成长，各类精品电商内容解决商家经营发展中的关键问题，手把手教你做做电商，千万商家都在用]] - https://qn.taobao.com/headline/course
+- ★★★☆☆ [[万堂书院]] - https://shuyuan.taobao.com/?spm=a219t.11816995.0.0.5a4c6a15c8RG9L#!/
+- ★★★☆☆ [[淘宝联盟·生态伙伴]] - https://pub.alimama.com/?spm=a231i.11817198.0.0.7c2c59f7rYmreH#!/index?curValue=nav_2&spm=
+- ★★★☆☆ [[鑫老板电商 - YouTube]] - https://www.youtube.com/@user-km9fw6nj5n/playlists
+- ★★★☆☆ [[鑫老板聊电商 - YouTube]] - https://www.youtube.com/@Bossitalksaboute/videos
+- ★★★☆☆ [[鑫老板说电商 - YouTube]] - https://www.youtube.com/@BossXinalksboute-comm/videos
+- ★★★☆☆ [[阿里妈妈数智经营]] - https://www.alimama.com/index.htm?spm=a231i.26226564.c6c57b199.1.e98d59f7DEf6Qy
+- ★★★☆☆ [[万堂书院_1]] - https://shuyuan.taobao.com/#!/
+- ★★★☆☆ [[数智学堂]] - https://mo.m.taobao.com/wt_academy/page_20220225_153435_550?spm=a2e3k.13920195.ce8eaa6a0.d3fc32db6dmp_newnav_2.76ca25ebatdOvt&__t__=1648115017341
+- ★★★☆☆ [[新手网店教程]] - https://space.bilibili.com/1060091362
+- ★★★☆☆ [[淘宝无货源老范分享 - YouTube]] - https://www.youtube.com/@fansir/playlists
+- ★★★☆☆ [[腾达电商视频专辑-腾达电商视频合集-哔哩哔哩视频]] - https://space.bilibili.com/383553843/channel/series
+- ★★★☆☆ [[淘宝直播实操-新媒体运营-淘宝主播运营-新手入门-小闹老师呀-产品上架-选品-封面图标题-达人_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV1P8411V7Qz/?p=3&spm_id_from=pageDriver
+- ★★★☆☆ [[新版淘宝开店教程 淘宝大学小文老师倾情奉献 让你少走弯路演示_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV1XV41137xs/?vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★★☆☆ [[淘宝开店视频教程-新手全集下载-电商自学网]] - https://www.wuhuoyuan0.com/jiaocheng/taobao
+- ★★★☆☆ [[淘宝天猫【手机端】装修教程_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV13b411H7Fh/?p=3&spm_id_from=pageDriver&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★★☆☆ [[起点传媒 - 专注短视频电商运营服务]] - https://www.qdcm.net/
+- ★★★☆☆ [[淘巧网 - 网上开店创业学习第一站！]] - https://www.taoqao.com/
+- ★★★☆☆ [[淘宝虚拟产品自动发货，全自动赚钱机器搭建方法全教程。含货源方案。 – GERRY FIRE]] - https://www.gerryfire.com/archives/1916
+- ★★★☆☆ [[橙苏博客的个人空间-橙苏博客个人主页-哔哩哔哩视频]] - https://space.bilibili.com/311792534
+- ★★★☆☆ [[一凡创业笔记 - YouTube]] - https://www.youtube.com/@yifantalk
+- ★★★☆☆ [[虚拟资源全自动赚钱系统]] - https://www.bilibili.com/video/BV18a4y1m7Ux/?p=3&spm_id_from=pageDriver&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★★☆☆ [[Gerry FIRE studio 财富工作室 - YouTube]] - https://www.youtube.com/@gerryfirestudio8997/videos
+- ★★★☆☆ [[一凡项目网_分享实操教程和创业项目]] - https://www.wordless.top/
+- ★★★☆☆ [[大咖来了 - YouTube]] - https://www.youtube.com/@user-er4mj8bm4t/videos
+- ★★★☆☆ [[公众号丨昌卓助手 - YouTube]] - https://www.youtube.com/@user-og3ic5fk6t/videos
+- ★★★☆☆ [[老韩自媒体 - YouTube]] - https://www.youtube.com/@txt6850/videos
+- ★★★☆☆ [[老东副业 - YouTube]] - https://www.youtube.com/@laodongfuye/videos
+- ★★★☆☆ [[知博副业网_最新副业项目推荐 网络赚钱实操教程分享]] - https://www.zhibo688.com/
+- ★★★☆☆ [[酷酷创业 - YouTube]] - https://www.youtube.com/@ZXYZXY-on3zm/videos
+- ★★★☆☆ [[逗天使 - YouTube]] - https://www.youtube.com/@doutianshi/videos
+- ★★★☆☆ [[陌佑网-官网-打造原创视频教程的开源地-陌佑网资源整合]] - https://moyouwang.net/
+- ★★★☆☆ [[资源爹-所有资源一网打尽！赚钱教程，学习教程，视频素材，音乐素材，各类模板应有尽有]] - https://ziyuandie.com/
+- ★★★☆☆ [[一个老流氓丨资源网 ~ 一年至少更新1000套课程]] - https://1341314.com/
+- ★★★☆☆ [[福缘创业网_网上赚钱教程_网络创业项目]] - https://bbs.fuyuan6.com/
+- ★★★☆☆ [[知青Alice - YouTube]] - https://www.youtube.com/@zhiqingalice/videos
+- ★★★☆☆ [[TimmyMakeMoney - YouTube]] - https://www.youtube.com/@TimmyMakeMoney/videos
+- ★★★☆☆ [[站长福利：谷歌联盟月入1万美元Pinterest引流系列教程第1讲 – 基础认识 - 開封鋪子 - 微微链]] - https://mircourl.com/TGy
+- ★★★☆☆ [[老吴项目网 - YouTube]] - https://www.youtube.com/@user-eq1it8zj4b/videos
+- ★★★☆☆ [[商盟网-影视会员_权益卡券_文娱视频会员垂直供应批发平台]] - http://shangmeng.top/#/home
+- ★★★☆☆ [[notion研究薑餅資 - YouTube]] - https://www.youtube.com/@gingerbread0529/playlists
+- ★★★☆☆ [[【Notion 进度自动监控】年度计划模板｜月周日计划拆分｜可视化-Lillianread-学习方法分享-哔哩哔哩视频]] - https://www.bilibili.com/list/522298480?sid=324481&spm_id_from=333.999.0.0&desc=1&oid=852872684&bvid=BV1dL4y1L79U
+- ★★★☆☆ [[notion 效率 成长学习 Ali Abdaal - YouTube]] - https://www.youtube.com/@aliabdaal
+- ★★★☆☆ [[notion研究 Red Gregory - YouTube]] - https://www.youtube.com/@RedGregory/featured
+- ★★★☆☆ [[notion 思维 效率 成长 Better Creating - YouTube]] - https://www.youtube.com/@BetterCreating/videos
+- ★★★☆☆ [[网络营销 阿石OMP - YouTube]] - https://www.youtube.com/@ompshek/videos
+- ★★★☆☆ [[黑帽 教程 集中营 - YouTube]] - https://www.youtube.com/@hackerlesson/videos
+- ★★★☆☆ [[ps系统教程 摄影 巫师后期.Wizard Retouch - YouTube]] - https://www.youtube.com/c/wizarddanli?app=desktop
+- ★★★☆☆ [[剪辑 AI PR IS 3dmax excel教程等 PAPAYA 電腦教室 - YouTube]] - https://www.youtube.com/@papayaclass/videos
+- ★★★☆☆ [[excel word ppt 剪影教程秋叶课堂 - YouTube]] - https://www.youtube.com/channel/UCZrNBeAIf3MsSe-aR8AvlKg
+- ★★★☆☆ [[Facebook脚本先生 - YouTube]] - https://www.youtube.com/channel/UCQSY203eCypCanx3viQr_0g/playlists
+- ★★★☆☆ [[人工智能资讯，网络营销技巧，油管运营，联盟营销小薇 Official Channel - YouTube]] - https://www.youtube.com/@xiaoweidollar/playlists
+- ★★★☆☆ [[AI 科技 商业 最佳拍档 - YouTube]] - https://www.youtube.com/@bestpartners
+- ★★★☆☆ [[Vanced Tube - 下载YouTube Vanced APK [ROOT - MAGISK - NON-ROOT]]] - https://vancedtube.com/
+- ★★★☆☆ [[Download Youtube video - Best YouTube Video Downloader - SaveTube --- 下载优酷视频 ...]] - https://savetube.app/en1
+- ★★★☆☆ [[YouTube Vanced]] - https://vancedapp.com/
+- ★★★☆☆ [[Tinyfool的Youtube实验室 - YouTube]] - https://www.youtube.com/@youtube-lab/videos
+- ★★★☆☆ [[政治 秦川雁塔官方频道 - YouTube]] - https://www.youtube.com/@qinchuanyanta/videos
+- ★★★☆☆ [[海外卡 投资 五道口老实人 - YouTube]] - https://www.youtube.com/@wudaokou666
+- ★★★☆☆ [[影响力训练营 清迈4seas.io --- 4seas.io]] - https://www.4seas.io/
+- ★★★☆☆ [[数字移民 海外卡 TangTalk - YouTube]] - https://www.youtube.com/channel/UCpQjT0lpQxTV7tNXee65LqQ
+- ★★★☆☆ [[美加自驾 无忧房车行 - YouTube]] - https://www.youtube.com/@rving51
+- ★★★☆☆ [[freeman 移民数字游牧签证 - YouTube]] - https://www.youtube.com/channel/UCdzo3IXoM5o6SiXmuYu6xIQ
+- ★★★☆☆ [[柏格醫生中文 健康知識 - YouTube]] - https://www.youtube.com/c/%E6%9F%8F%E6%A0%BC%E9%86%AB%E7%94%9F%E4%B8%AD%E6%96%87%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AD%98/videos
+- ★★★☆☆ [[日本 商业 文化 历史 社長劉洋 CEO RYU-YO - YouTube]] - https://www.youtube.com/@CEORYUYO/videos
+- ★★★☆☆ [[珠宝 钻石 子明哥 - 您做珠寶的朋友 - YouTube]] - https://www.youtube.com/@TszMingGor/videos
+- ★★★☆☆ [[Mindmanager 效率学习成长 檀东东·Tango - YouTube]] - https://www.youtube.com/@user-lw1db2ge8q/playlists
+- ★★★☆☆ [[GPT AI研究智图派 - 回到Axton]] - https://www.axtonliu.com/
+- ★★★☆☆ [[AI煉金術 - YouTube]] - https://www.youtube.com/@ai-gold-rush/videos
+- ★★★☆☆ [[读库]] - https://www.duku.cn/
+- ★★★☆☆ [[读库 - YouTube]] - https://www.youtube.com/@user-cw2hs3uc4g/featured
+- ★★★☆☆ [[mapping -&gt; ZoomQuiet.io {by gen4dot2htm.py vv.190718 at-190911 18-07-32,87...]] - https://zoomquiet.io/
+- ★★★☆☆ [[最新、最玄幻、最不可思议的前沿科学技术Alpha科学技术 - YouTube]] - https://www.youtube.com/@alpha-science-technology/videos
+- ★★★☆☆ [[航天专家土拨鼠札記 - YouTube]] - https://www.youtube.com/@GroundhogsNotes/videos
+- ★★★☆☆ [[洛奇訪談錄 Rocky - YouTube]] - https://www.youtube.com/@Rocky1108/videos
+- ★★★☆☆ [[文史题材中南海侍应僧 - YouTube]] - https://www.youtube.com/@laoseng/videos
+- ★★★☆☆ [[硬核的计算机科普Ele实验室 - YouTube]] - https://www.youtube.com/@ele870/videos
+- ★★★☆☆ [[一個離不開錢窮奢極欲 - YouTube]] - https://www.youtube.com/@withmoney/videos
+- ★★★☆☆ [[大媽的多重宇宙 - YouTube]] - https://www.youtube.com/@Chaos42DAMA/videos
+- ★★★☆☆ [[程序 space.bilibili.com-67079745]] - https://space.bilibili.com/67079745
+- ★★★☆☆ [[IT主流行业解析马士兵程序员行业分析bilibili]] - https://www.bilibili.com/video/BV1bN4y1275x/?p=2&spm_id_from=pageDriver&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★★☆☆ [[excel高手vba 等Urin的自习室 - YouTube]] - https://www.youtube.com/@Urin01271/playlists
+- ★★★☆☆ [[码农书籍网-IT书籍pdf推荐下载网站]] - https://www.manongbook.com/
+- ★★★☆☆ [[马士兵亲授：IT职业方向选择]] - https://www.bilibili.com/video/BV1T3411s7t3/?spm_id_from=333.999.0.0&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★★☆☆ [[马士兵-高级程序员]] - https://space.bilibili.com/507228490
+- ★★★☆☆ [[马士兵教育官网 - IT职业领路人]] - https://www.mashibing.com/
+- ★★★☆☆ [[大陆网赚我是王昌远 - YouTube]] - https://www.youtube.com/@wangchangyuan999/videos
+- ★★★☆☆ [[不明白播客 - YouTube]] - https://www.youtube.com/@bumingbai
+- ★★★☆☆ [[PS教学简单哥 - YouTube]] - https://www.youtube.com/@PS-nz4pv/videos
+- ★★★☆☆ [[ps技巧国强极客 - YouTube]] - https://www.youtube.com/@gqjkvip/videos
+- ★★★☆☆ [[林旺陪你做海外投流 - YouTube]] - https://www.youtube.com/@linwangchh/playlists
+- ★★★☆☆ [[90後自動化創業—G大 - YouTube]] - https://www.youtube.com/@StartupSchoolgogogo
+- ★★★☆☆ [[圣总聊出海 - YouTube]] - https://www.youtube.com/@santiagoyang/videos
+- ★★★☆☆ [[Darren - YouTube]] - https://www.youtube.com/@darren6036/videos
+- ★★★☆☆ [[AI赋能超级个体创业 - YouTube]] - https://www.youtube.com/@_ck2022/videos
+- ★★★☆☆ [[捡漏电子产品 Boss Stories 老板故事 - YouTube]] - https://www.youtube.com/@chinesebosses/videos
+- ★★★☆☆ [[华强北手机 極客公園 Geek Park - YouTube]] - https://www.youtube.com/@geek_park/videos
+- ★★★☆☆ [[黑科技网站 - 赛博空间]] - https://macin.top/links/
+- ★★★☆☆ [[赛博空间 - Cyber]] - https://macin.top/
+- ★★★☆☆ [[DOG AI - YouTube]] - https://www.youtube.com/@DOGAI/videos
+- ★★★☆☆ [[精志愿高考志愿]] - https://www.cnjzy.tech/page3
+- ★★★☆☆ [[精志愿_2024高考志愿填报系统 - 首页-志愿填报]] - https://www.cnjzy.net/#/index
+- ★★★☆☆ [[高考志愿填报专家平台]] - https://t.cnjzy.net/#/login?redirect=%2Fdashboard
+- ★★★☆☆ [[中国大学MOOC_优质在线课程学习平台]] - https://www.icourse163.org/
+- ★★★☆☆ [[学科网-海量中小学教育资源共享平台、权威教学资源门户网站！]] - https://www.zxxk.com/
+- ★★★☆☆ [[发现好网课-优质中小学网课视频资源下载]] - https://www.fxhaoke.com/
+- ★★★☆☆ [[AsapSCIENCE - YouTube]] - https://www.youtube.com/@AsapSCIENCE/videos
+- ★★★☆☆ [[Fifth Survivor -荒野求生]] - https://www.youtube.com/@user-cwqsrj
+- ★★★☆☆ [[Li Sean - YouTube]] - https://www.youtube.com/@SeanLiSZ/playlists
+- ★★★☆☆ [[Mark Wiens - YouTube]] - https://www.youtube.com/@MarkWiens/playlists
+- ★★★☆☆ [[unnamed_4]] - https://onenewbite.com/
+- ★★★☆☆ [[咔咔的老吴 - YouTube]] - https://www.youtube.com/@KaKaLaoWu/videos
+- ★★★☆☆ [[虎哥课堂 - YouTube]] - https://www.youtube.com/@tigeredu/playlists
+- ★★★☆☆ [[YouTube ReVanced Manager- The Best Guide for Dummies - Nebula0]] - https://nebula0.com/posts/youtube-revanced-manager-the-best-guide-for-dummies/
+- ★★★☆☆ [[YouTube ReVanced 傻瓜指南（始终更新，始终有效） - r-revancedapp]] - https://www.reddit.com/r/revancedapp/comments/1nnqci9/youtube_revanced_guide_for_dummies_always_updated/?tl=zh-hans
+- ★★★☆☆ [[兼职(242) 胡同Boss诚哥 - YouTube]] - https://www.youtube.com/@Hutongboss/videos
+- ★★★☆☆ [[驿想网_免费网赚教程-网赚教程]] - https://yiguess.top/
+- ★★★☆☆ [[X 上的 摆烂程序媛：“YouTube是一个免费的学习资源。 但是98%的人没有有效地利用它。 这里有12个顶级频道能促进你的学习： https---t....]] - https://twitter.com/wanerfu/status/1726850656978481253
+- ★★★☆☆ [[X 上的 老白（坚持每日分享✊）：“Youtube是很多人不知道的免费教育资源！ 这里是提升学习能力的最佳频道！ https---t.co-Q03B2EK...]] - https://twitter.com/laobaishare/status/1726787957166907813
+- ★★★☆☆ [[Axure软件的基础扫盲_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV1es4y1M7XQ/?p=2&spm_id_from=pageDriver&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★★☆☆ [[德国生活的英语和西班牙语教师Caro Kowanz - YouTube]] - https://www.youtube.com/@carokowanzenglish
+- ★★★☆☆ [[外语学习-JackyangMiao个人主页-哔哩哔哩视频]] - https://space.bilibili.com/12359115
+- ★★★☆☆ [[【雅思物料】油管800w人看过的9.0口语极限训练，24小时循环跟练，影子跟读完整版，刷完口语自由！！_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV18c411R7BW/?spm_id_from=333.1007.tianma.2-3-6.click&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★★☆☆ [[English with Ronnie · EnglishLessons4U with engVid - YouTube --- 英语与罗尼 ·英语课程4...]] - https://www.youtube.com/@engvidRonnie
+- ★★★☆☆ [[英文學習技巧 - VoiceTube《看影片學英語》]] - https://tw.voicetube.com/channel/english/?ref=nav-sub&mtc=jack_blog_35747&order-type=pop&order-pop=hot
+- ★★★☆☆ [[你的学习集 - Quizlet]] - https://quizlet.com/latest
+- ★★★☆☆ [[VOA_美国之音_VOA在线收听和听力下载 - VOA英语学习网]] - https://chinavoa.com/
+- ★★★☆☆ [[自学成才网 - 分享优质付费课程]] - https://www.zx-cc.net/
+- ★★★☆☆ [[适合长期英语学习的电视、电台、Podcast 节目的有哪些？ - 自在小满 的回答 - 知乎]] - https://www.zhihu.com/question/21454131/answer/1637136500
+- ★★★☆☆ [[词根，词缀速记38000词lee angela - YouTube]] - https://www.youtube.com/channel/UC2W0srrYBl4a0DA20pw7HNQ/videos
+- ★★★☆☆ [[非法贸易小组 （ITG 课程Illicit trade]] - https://illicittrade.org/
+- ★★★☆☆ [[即凉Lion - YouTube]] - https://www.youtube.com/c/%E5%8D%B3%E5%87%89Lion/videos
+- ★★★☆☆ [[柘利英语 𝐙𝐡𝐞𝐥𝐢 𝐄𝐧𝐠𝐥𝐢𝐬𝐡 - YouTube]] - https://www.youtube.com/@ZheliEnglish/videos
+- ★★★☆☆ [[Trancy Chrome 插件 - 沉浸式AI语言学习]] - https://www.trancy.org/zh-cn
+- ★★★☆☆ [[【暴涨8000+词汇】YouTube超火雅思课！只需40天掌握16400个雅思词汇！外教带你飞_哔哩哔哩_bilibili]] - https://m.bilibili.com/video/BV1s94y187rb
+- ★★★☆☆ [[北大学霸的英语万词暴涨计划韦小绿bilibili.com-video-BV1JM4y1g764--spm_id_from=333.788.recommen...]] - https://www.bilibili.com/video/BV1JM4y1g764/?spm_id_from=333.788.recommend_more_video.0&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★★☆☆ [[韦小绿高分权威词根教材bilibili.com-video-BV1RJ411T7Qx--spm_id_from=333.788.recommend_mor...]] - https://www.bilibili.com/video/BV1RJ411T7Qx/?spm_id_from=333.788.recommend_more_video.0&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★★☆☆ [[【70全集·YouTube最好词的雅思词汇课】40天背完16400词，你敢相信吗？生生拿捏雅思8分上岸，词汇量暴涨10000+_哔哩哔哩_bilibili_1]] - https://www.bilibili.com/video/BV1JN411g7ie/?spm_id_from=autoNext&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★★☆☆ [[最适合国人的英语情景剧，学习就像追剧一样上瘾，不知不觉词汇量暴涨3000！！附雅思学习网课资料！！_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV12w411F7JP/?spm_id_from=333.1007.tianma.1-2-2.click&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★★☆☆ [[【2024全新首发】雅思真人情景对话，最适合国人口语练习！覆盖生活中各种场景，刷完你的口语词汇量累计过万!_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV14y4y1A7aV/?spm_id_from=333.1007.tianma.4-1-11.click&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★★☆☆ [[这绝对是B站最好的单词记忆视频，【上瘾背单词】词汇量从2000提升到10000+必藏👍快速提升你的词汇量 英语单词词根词缀记忆法39集全 英语单词记忆法总...]] - https://www.bilibili.com/video/BV1iw411z7nG/?spm_id_from=333.1007.tianma.7-1-20.click&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★★☆☆ [[【英文原著-level 1】啃完这套书，词汇量暴涨10000+ - 四六级雅思托福阅读必备拓展材料 - 两个月英语提升N个level_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV13M411R7fT/?spm_id_from=333.1007.tianma.1-1-1.click&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★★☆☆ [[小白书导读_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV1Mg4y1B7vK?p=1&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★★☆☆ [[[最受欢迎的宝藏英语播客] 每天一个话题，带你进入全英文语境_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV1ej411h7yj/?spm_id_from=333.1007.tianma.1-2-2.click&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★★☆☆ [[BBC Learning English - YouTube]] - https://www.youtube.com/@bbclearningenglish/videos
+- ★★★☆☆ [[你怎么知道我7天背完3500词，这绝对是B站最好的单词记忆视频，【上瘾背单词】词汇量从2000提升到10000+必藏👍快速提升你的词汇量 英语单词词根词缀...]] - https://www.bilibili.com/video/BV1ju4y187y2/?spm_id_from=333.1007.0.0&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★★☆☆ [[Chen Lily - YouTube]] - https://www.youtube.com/@ChenLily/videos
+- ★★★☆☆ [[Ielts Simon - YouTube]] - https://www.youtube.com/@IeltsSimon9/videos
+- ★★★☆☆ [[专注于英文写作，尤其是学术写作Scribbr - YouTube]] - https://www.youtube.com/@Scribbr-us/videos
+- ★★★☆☆ [[情景讨论学到词汇、语法、表达English with Jennifer - YouTube]] - https://www.youtube.com/@Englishwithjennifer/videos
+- ★★★☆☆ [[Learn English with EnglishClass101.com - YouTube]] - https://www.youtube.com/@EnglishClass101/videos
+- ★★★☆☆ [[内容非常丰富Speak English With Vanessa - YouTube]] - https://www.youtube.com/@SpeakEnglishWithVanessa/videos
+- ★★★☆☆ [[紧跟时事沉浸式学习 English Addict with Mr Duncan - YouTube]] - https://www.youtube.com/@EnglishAddict/videos
+- ★★★☆☆ [[Learn English With TV Series - YouTube]] - https://www.youtube.com/@LearnEnglishWithTVSeries
+- ★★★☆☆ [[【高能干货】这个视频将会颠覆你对英语学习的认知——总述·阅读篇_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV1aD4y127GE/?vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★★☆☆ [[英语语法精讲合集 (全面, 通俗, 有趣 - 从零打造系统语法体系)_哔哩哔哩_bilibili]] - https://m.bilibili.com/video/BV1XY411J7aG
+- ★★★☆☆ [[2022最熱門推薦免費英文自學網站、自學YouTube影片 - 夏恩英語親子部落格]] - https://shane.com.tw/shane-blog/?p=1069
+- ★★★☆☆ [[Speak English With Vanessa - YouTube]] - https://www.youtube.com/@SpeakEnglishWithVanessa
+- ★★★☆☆ [[Smashing English! Free and Fun English Lessons! - YouTube]] - https://www.youtube.com/@smashingenglish
+- ★★★☆☆ [[English by Giovana - YouTube]] - https://www.youtube.com/@englishbygiovana
+- ★★★☆☆ [[最适合国人的雅思情景剧，学习就像追剧一样上瘾，不知不觉词汇量暴涨3000！_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV1nN4y1x7VJ/?spm_id_from=333.1007.tianma.2-1-3.click&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★★☆☆ [[Mike Woo English - YouTube]] - https://www.youtube.com/@mikewooenglish/videos
+- ★★★☆☆ [[在线解析视频 - 免费解析并下载视频,支持YouTube, Instagram, Facebook, Twitter 等]] - https://superparse.com/
+- ★★★☆☆ [[优斗士的直播_优斗士高清直播视频回放_在线观看 - YY直播]] - https://www.yy.com/x/15013_157999321_60306367_1654563573302
+- ★★★☆☆ [[【全748集】清华大佬终于把C语言做成动画片了，通俗易懂，2024最新版，学完即就业!拿走不谢，学不会我退出IT圈！_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV1ps421w7bG/?spm_id_from=333.1007.tianma.1-2-2.click&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★★☆☆ [[最佳 YouTube Vanced 替代品：NewPipe、SkyTube、LibreTube 等！]] - https://www.xda-developers.com/best-youtube-vanced-alternatives/
+- ★★★☆☆ [[科学速云 - YouTube]] - https://www.youtube.com/@kexuesuyun/videos
+- ★★★☆☆ [[iMyShare - 最新直播源合集，包含：国内直播电视频道、广播电台、影视剧场、海外电视-直播频道、高清摄像头等等，收藏级！]] - https://imyshare.com/site/139/
+- ★★★☆☆ [[下载 YouTube 短片视频-YouTube 短裤下载器]] - https://ytshorts.savetube.me/zh/7?id=1228591977
+- ★★★☆☆ [[PS教程大师之路 Unify tutorial]] - http://99ut.blueidea.com/
+- ★★★☆☆ [[it博主猪猫FatCat - YouTube]] - https://www.youtube.com/@Fat_Cat_Fly/videos
+- ★★★☆☆ [[wuzhibianshizui - YouTube]] - https://www.youtube.com/@wuzhibianshizui6749/videos
+- ★★★☆☆ [[kerya lee - YouTube]] - https://www.youtube.com/@keryalee7159/videos
+- ★★★☆☆ [[架构百科 - YouTube]] - https://www.youtube.com/@jgbk/videos
+- ★★★☆☆ [[无知黑科技 - YouTube]] - https://www.youtube.com/@wuzhiheikeji/videos
+- ★★★☆☆ [[韩风Talk - YouTube]] - https://www.youtube.com/@hanfeng/videos
+- ★★★☆☆ [[免费学习 45多种语言]] - https://www.lingohut.com/zh
+- ★★★☆☆ [[OUY后期公园 – 后期公园-视频后期学习基地]] - https://www.ouycc.com/
+- ★★★☆☆ [[YouTube ReVanced - 下载 YouTube ReVanced APK - vanced.to --- YouTube ReVanced -...]] - https://vanced.to/
+- ★★★☆☆ [[巴别英语 - 看视频学英语]] - https://www.babelabc.com/
+- ★★★☆☆ [[柚子同学来啦 - YouTube]] - https://www.youtube.com/@youzitongxuelaila/videos
+- ★★★☆☆ [[温城鲤 - YouTube]] - https://www.youtube.com/@user-lg2ir8qo5e/videos
+- ★★★☆☆ [[不知名宝藏男孩 - YouTube]] - https://www.youtube.com/@BZMBZNH/videos
+- ★★★☆☆ [[讲剧者 - YouTube]] - https://www.youtube.com/@jiangjuzhe/videos
+- ★★★☆☆ [[三月撩影 - YouTube]] - https://www.youtube.com/@user-lx8pp3ih9y/videos
+- ★★★☆☆ [[西窗烛 - YouTube]] - https://www.youtube.com/@XiChuangZhu/videos
+- ★★★☆☆ [[哈哈影視匯 - YouTube]] - https://www.youtube.com/@TV-HaHa/videos
+- ★★★☆☆ [[糖心毛豆 - YouTube]] - https://www.youtube.com/@user-zv8uo8ys9x/videos
+- ★★★☆☆ [[电影怪才 - YouTube]] - https://www.youtube.com/@dianyingpindao/videos
+- ★★★☆☆ [[布奇美劇 - YouTube]] - https://www.youtube.com/@user-el3pc4mm8f
+- ★★★☆☆ [[米虫看剧 - YouTube]] - https://www.youtube.com/@michongkanju/videos
+- ★★★☆☆ [[东哥说剧 - YouTube]] - https://www.youtube.com/@user-qj3bc8ru7s/videos
+- ★★★☆☆ [[洋洋漫漫说 - YouTube]] - https://www.youtube.com/@user-ss2jf6vs1w/videos
+- ★★★☆☆ [[螞蟻追剧 - YouTube]] - https://www.youtube.com/@user-dy9wt1uq2g/videos
+- ★★★☆☆ [[米虫煲剧咯 - YouTube]] - https://www.youtube.com/@michongbaoju
+- ★★★☆☆ [[追剧大司马 - YouTube]] - https://www.youtube.com/@user-jw7fx4ny6z/videos
+- ★★★☆☆ [[愛講電影的小青 - YouTube]] - https://www.youtube.com/@xiaoqingmeow/videos
+- ★★★☆☆ [[高分电影Films - YouTube]] - https://www.youtube.com/@gaofenfilms/videos
+- ★★★☆☆ [[金龙经典剧场 - YouTube]] - https://www.youtube.com/@jinlong.jingdian.hanjuTV/videos
+- ★★★☆☆ [[大聪看电影 - YouTube]] - https://www.youtube.com/@dacongmovie/playlists
+- ★★★☆☆ [[犯叔说影 - YouTube]] - https://www.youtube.com/@user-zx2sw8jx4t/playlists
+- ★★★☆☆ [[YouTube]] - https://youtube.com/
+- ★★★☆☆ [[Drew Binsky - YouTube]] - https://www.youtube.com/@drewbinsky/videos
+- ★★★☆☆ [[FunForLouis - YouTube]] - https://www.youtube.com/@Louis
+- ★★★☆☆ [[Ben Brown - YouTube]] - https://www.youtube.com/@benbrown/videos
+- ★★★☆☆ [[vagabrothers - YouTube]] - https://www.youtube.com/@vagabrothers/videos
+- ★★★☆☆ [[Yes Theory - YouTube]] - https://www.youtube.com/@YesTheory/videos
+- ★★★☆☆ [[張修修的不正常人生 Shosho&#39;s Abnormal Life - YouTube]] - https://www.youtube.com/@shoshotw/videos
+- ★★★☆☆ [[X 上的 Bitturing：“YouTube 上有1.57亿个频道，但 99%的频道都是低质量的内容 以下是10个频道，比4年的学位课程更值得学习 ⬇️...]] - https://x.com/Bitturing/status/1918865965791805524
+- ★★★☆☆ [[Play BIG Music 小啼大作官方頻道 - 兒童音樂與動畫 - YouTube]] - https://www.youtube.com/@PlayBIGMusic/videos
+- ★★★☆☆ [[Little Fox - Kids Stories and Songs - YouTube_1]] - https://www.youtube.com/@LittleFoxKids/videos
+- ★★★☆☆ [[首页 - 短视频-音乐解析]] - https://dyjx.me/
+- ★★★☆☆ [[主页- 学习计划利润]] - https://learn-plan-profit.teachable.com/?affcode=140060_qe0vvbiy
+- ★★★☆☆ [[Savieo - 保存网络视频]] - https://savieo.com/
+- ★★★☆☆ [[【火山小视频】-Huoshan.com]] - https://www.huoshan.com/
+- ★★★☆☆ [[Improve your English pronunciation using YouTube]] - https://youglish.com/
+- ★★☆☆☆ [[tiptrans转运 - YouTube]] - https://www.youtube.com/results?search_query=tiptrans%E8%BD%AC%E8%BF%90
+- ★★☆☆☆ [[codex教学 - YouTube]] - https://www.youtube.com/results?search_query=codex%E6%95%99%E5%AD%A6
+- ★★☆☆☆ [[fal.ai教程 - YouTube]] - https://www.youtube.com/results?search_query=fal.ai%E6%95%99%E7%A8%8B
+- ★★☆☆☆ [[Fecify-哔哩哔哩_bilibili]] - https://search.bilibili.com/all?keyword=Fecify&order=pubdate
+- ★★☆☆☆ [[派安盈 - YouTube]] - https://www.youtube.com/results?search_query=%E6%B4%BE%E5%AE%89%E7%9B%88
+- ★★☆☆☆ [[Cheerful tech house remix - YouTube]] - https://www.youtube.com/results?search_query=Cheerful++tech+house+remix
+- ★★☆☆☆ [[whatsapp注册 - YouTube]] - https://www.youtube.com/results?search_query=whatsapp%E6%B3%A8%E5%86%8C
+- ★★☆☆☆ [[苹果手机改虚拟摄像头 - YouTube]] - https://www.youtube.com/results?search_query=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E6%94%B9%E8%99%9A%E6%8B%9F%E6%91%84%E5%83%8F%E5%A4%B4
+- ★★☆☆☆ [[0基础5天成为微信小程序运营大咖_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV1c4411P7US/?spm_id_from=333.337.search-card.all.click
+- ★★☆☆☆ [[微选微信小程序运营技巧，让小程序营销更有效_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV1Dp411Z7pE/?spm_id_from=333.337.search-card.all.click&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★☆☆☆ [[vidhub - YouTube]] - https://www.youtube.com/results?search_query=vidhub
+- ★★☆☆☆ [[lingerie-哔哩哔哩_Bilibili]] - https://search.bilibili.com/all?keyword=lingerie&from_source=webtop_search&spm_id_from=333.1007&search_source=5
+- ★★☆☆☆ [[lingerie - YouTube]] - https://www.youtube.com/results?search_query=lingerie
+- ★★☆☆☆ [[asian lingerie mix - YouTube]] - https://www.youtube.com/results?search_query=asian+lingerie+mix
+- ★★☆☆☆ [[unnamed_3]] - https://www.fiverr.com/search/gigs?query=youtube%20thumbnail&source=main_banner&ref_ctx_id=29567236a8084ffe87c419449fe47854&search_in=everywhere&search-autocomplete-original-term=youtube%20thumbnail
+- ★★☆☆☆ [[淘宝直播运营-哔哩哔哩_Bilibili]] - https://search.bilibili.com/all?keyword=%E6%B7%98%E5%AE%9D%E7%9B%B4%E6%92%AD%E8%BF%90%E8%90%A5&from_source=webtop_search&spm_id_from=333.1007&search_source=2
+- ★★☆☆☆ [[淘宝店铺营销工具之【鹿班】，主图打标功能实操讲解 尾课总结11_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV1t5411R7ry/?spm_id_from=333.337.search-card.all.click&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★☆☆☆ [[万堂书院_2]] - https://shuyuan.taobao.com/#!/knowledge/detail/index?id=26566&courseSource=onlyCourse&searchRequestId=undefined&isAffix=false
+- ★★☆☆☆ [[淘宝开店课程-----哔哩哔哩_bilibili]] - https://search.bilibili.com/all?keyword=%E6%B7%98%E5%AE%9D%E5%BC%80%E5%BA%97%E8%AF%BE%E7%A8%8B////
+- ★★☆☆☆ [[Upwork - Youtube Thumbnail]] - https://www.upwork.com/nx/search/talent/?nbs=1&q=youtube%20thumbnail
+- ★★☆☆☆ [[Graphviz 图形-哔哩哔哩_Bilibili]] - https://search.bilibili.com/all?keyword=Graphviz%20%E5%9B%BE%E5%BD%A2&from_source=webtop_search&spm_id_from=333.1007&search_source=5
+- ★★☆☆☆ [[power pivot power query-哔哩哔哩_Bilibili]] - https://search.bilibili.com/all?keyword=power%20pivot%20power%20query&from_source=webtop_search&spm_id_from=333.1007&search_source=5
+- ★★☆☆☆ [[Layui-哔哩哔哩_bilibili]] - https://search.bilibili.com/all?keyword=Layui&from_source=webtop_search&spm_id_from=333.1007&search_source=5
+- ★★☆☆☆ [[【雅思词汇真经】单词+例句读音版，附pdf文档！7天快速记忆雅思7000词汇！！必备！！_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV11N411c7zb/?spm_id_from=333.337.search-card.all.click&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★☆☆☆ [[词汇+例句带读版【刘洪波雅思词汇真经】-坚持22天，雅思能冲7！！-雅思-雅思备考_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV16y4y1f7ct/?spm_id_from=333.337.search-card.all.click&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★☆☆☆ [[雅词汇真经2022年最新合集，思教父刘洪波带读真经词汇，逻辑记忆单词_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV14t4y1N7HY/?spm_id_from=333.337.search-card.all.click&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★☆☆☆ [[【看视频背单词】刘洪波的《雅思词汇真经》高效背单词 雅思词汇真经Chapter1~22合集（删减版）_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV1x4411w7jK/?spm_id_from=333.337.search-card.all.click&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★☆☆☆ [[词汇-哔哩哔哩_Bilibili]] - https://search.bilibili.com/all?vt=18966021&keyword=%E8%AF%8D%E6%B1%87&from_source=webtop_search&spm_id_from=333.1007&search_source=5&order=stow
+- ★★☆☆☆ [[韦小绿 _ 搜索结果_哔哩哔哩_Bilibili]] - https://search.bilibili.com/all?keyword=%E9%9F%A6%E5%B0%8F%E7%BB%BF&from_source=webtop_search&spm_id_from=333.851
+- ★★☆☆☆ [[学位英语_搜索_哔哩哔哩-bilibili]] - https://search.bilibili.com/all?vt=33517013&keyword=%E5%AD%A6%E4%BD%8D%E8%8B%B1%E8%AF%AD&duration=4&page=2&o=36
+- ★★☆☆☆ [[公共英语二级_搜索_哔哩哔哩-bilibili]] - https://search.bilibili.com/all?keyword=%E5%85%AC%E5%85%B1%E8%8B%B1%E8%AF%AD%E4%BA%8C%E7%BA%A7&duration=4&tids_1=0
+- ★★☆☆☆ [[【70全集·YouTube最好词的雅思词汇课】40天背完16400词，你敢相信吗？生生拿捏雅思8分上岸，词汇量暴涨10000+_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV1JN411g7ie/?spm_id_from=333.337.search-card.all.click&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★☆☆☆ [[【全书合集-已完结】小白书 ：Word power made easy 词根词缀讲解 一起背单词 英语说文解字 托福 雅思 GRE_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV1Mg4y1B7vK/?spm_id_from=333.337.search-card.all.click&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★☆☆☆ [[刘毅突破英文词汇22000_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV1PQ4y1Z7PK/?spm_id_from=333.337.search-card.all.click&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★★☆☆☆ [[若依框架 - YouTube]] - https://www.youtube.com/results?search_query=%E8%8B%A5%E4%BE%9D%E6%A1%86%E6%9E%B6
+- ★★☆☆☆ [[一口气看完 - YouTube]] - https://www.youtube.com/results?search_query=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E5%AE%8C
+- ★★☆☆☆ [[250+ 房屋视频 Pexels · 免费素材视频]] - https://www.pexels.com/zh-cn/search/videos/%E6%88%BF%E5%B1%8B/?orientation=portrait
+- ★☆☆☆☆ [[百度营销-课程中心]] - https://yingxiao.baidu.com/course/outside?capabilityStage=%255B10%255D&descField=showTime&pageNo=1
+- ★☆☆☆☆ [[【拼多多运营速成版】这才是B站最全面的拼多多运营教程，零基础入门电商运营教程，新手开店，学完可创业_哔哩哔哩_bilibili]] - https://www.bilibili.com/video/BV1cY411v7VZ/?spm_id_from=333.999.0.0&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★☆☆☆☆ [[你好小磊子的个人空间_哔哩哔哩_bilibili]] - https://space.bilibili.com/472110867/video

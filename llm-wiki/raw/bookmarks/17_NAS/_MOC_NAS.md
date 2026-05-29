@@ -1,0 +1,126 @@
+---
+category: MOC
+---
+# NAS 资源
+
+NAS存储
+
+共 **115** 条
+
+---
+
+- ★★★★★ [[API keys - OpenAI API]] - https://platform.openai.com/api-keys
+- ★★★★★ [[影视仓接口地址管理系统 - 最新 TVBOX 配置地址 - 影视仓接口实时更新]] - https://api.starlink.uno/index.php
+- ★★★★★ [[各类网盘资源分享历史大合集]] - https://docs.qq.com/doc/DRlhtc3ZqZlVJS2hh
+- ★★★★☆ [[10分钟搞定！Smartstrm+Cloudsaver+Emby最强联动：免下载秒播20T网盘资源，手机电视全打通！ - YouTube]] - https://www.youtube.com/watch?v=c4Kh8ylzLTg
+- ★★★★☆ [[lzhoang2801 (Hoang Hong Quan) · GitHub]] - https://github.com/lzhoang2801
+- ★★★★☆ [[Windows环境下dmg原版黑苹果系统OpenCore Clover引导最新Hackintosh从入门到上手新手小白零基础macOS Sequoia 1...]] - https://www.youtube.com/watch?v=pr2aiH7wTTU
+- ★★★★☆ [[GitHub - acidanthera-OpenCorePkg- OpenCore bootloader]] - https://github.com/acidanthera/OpenCorePkg
+- ★★★★☆ [[Windows环境下dmg原版黑苹果系统OpenCore Clover引导最新Hackintosh从入门到上手新手小白零基础macOS Sequoia 1..._1]] - https://www.youtube.com/watch?v=pr2aiH7wTTU&t=849s
+- ★★★★☆ [[最简单黑苹果教程，只需2步就能吃上黑苹果，5分钟安装，MACOS尝鲜体验Hackintosh simple tutorial - YouTube]] - https://www.youtube.com/watch?v=urrR17gIpWU
+- ★★★★☆ [[【教程】搞定Mac各种装不了、打不开、已损坏、移到废纸篓等问题 - YouTube]] - https://www.youtube.com/watch?v=hcvDh0viLhM
+- ★★★★☆ [[2025年Windows几乎完美的黑苹果安装指南 - 一键检测工具+详细安装教程，小白也能成功！- 一台电脑双系统自由！ - YouTube]] - https://www.youtube.com/watch?v=BdUrxOMt1ZQ
+- ★★★★☆ [[bitxeno-awesome-appletv- 收集好用的 AppleTV 应用]] - https://github.com/bitxeno/awesome-appletv
+- ★★★★☆ [[免费看片神器哪家强？LibreTV对比MoonTV - 功能、界面、交互、客户端、视频源对比 - 完全免费、轻松部署使用 - YouTube]] - https://www.youtube.com/watch?v=WhIhPmUBTSc&t=1s
+- ★★★★☆ [[飞牛小主机+Apple TV观影项目合集！新手可以了解下，立马提升观影体验 - YouTube]] - https://www.youtube.com/watch?v=T1S-CQfUaQ4
+- ★★★★☆ [[在飞牛云或者VPS用Docker搭建一个基于spotdl和yt dl的音乐下载器 playlistdl - YouTube]] - https://www.youtube.com/watch?v=jiP3tDOlEUw
+- ★★★★☆ [[全网影视自动收割机！-arr全家桶流水线 - 请求→抓取→下载→播放 - Jellyseerr→ Prowlarr→ Radarr-Sonarr→ qBi...]] - https://www.youtube.com/watch?v=7QQMgQ7BNR4&t=341s
+- ★★★★☆ [[lobe-chat,🤯 Lobe Chat - 一个开源的、现代设计的 LLMs-AI 聊天框架,下载lobe-chat的源码_GitHub_帮酷支持多A...]] - https://github.com/lobehub/lobe-chat
+- ★★★★☆ [[Tvbox的终极缝合怪，Alist-TVBox，小雅、Alist、B站一网打尽 - YouTube]] - https://www.youtube.com/watch?v=dCliJ7fIibs
+- ★★★★☆ [[如何全平台观看小雅Emby版（全家桶），电视、电脑、手机平板一网打尽~ - YouTube]] - https://www.youtube.com/watch?v=238wbWbkF0Q
+- ★★★★☆ [[GitHub - xiaoyaDev-xiaoya-alist- 小雅Alist的相关周边]] - https://github.com/xiaoyaDev/xiaoya-alist
+- ★★★★☆ [[AlistGo-alist- 🗂️A file list-WebDAV program that supports multiple storages, ...]] - https://github.com/AlistGo/alist
+- ★★★★☆ [[Release 20250513-1430 · o0HalfLife0o-TVBoxOSC]] - https://github.com/o0HalfLife0o/TVBoxOSC/releases/tag/20250513-1430
+- ★★★★☆ [[📺TVBox 摆脱依赖：自制接口源部署在飞牛 NAS，告别广告与限制，体验真正流畅的影音世界！ - YouTube]] - https://www.youtube.com/watch?v=s6ti7SbjpYE
+- ★★★★☆ [[最新tvbox接口配置地址,影视仓配置地址,tvbox本地包制作与配置方法 - YouTube]] - https://www.youtube.com/watch?v=dcwTr-w21hc
+- ★★★★☆ [[教你在飞牛上部署 JavSP，给小姐姐一个全职管家！ - YouTube]] - https://www.youtube.com/watch?v=U0OEjHkYJsw
+- ★★★★☆ [[搭建免费成人影院 全平台支持 - emby+metatube成人电影海报墙 - alist+Pikpak私人云AV影视库 - 老司机福利 - R18 - ...]] - https://www.youtube.com/watch?v=6sCOzALZ918&t=22s
+- ★★★★☆ [[40000部的影音库到手，在玩客云上部署小雅emby合集-alist-emby-xiaoya-小雅-onecloud-玩客云 - YouTube]] - https://www.youtube.com/watch?v=A8yQ9VgAGBc
+- ★★★★☆ [[GitHub - garinasset-leak-check- 个人信息 “泄漏” 检测接口 · GitHub]] - https://github.com/garinasset/leak-check
+- ★★★★☆ [[noimank-tvbox- 自用tvbox源分享，影视仓多仓源分享，tvbox相关资源记录，iptv直播]] - https://github.com/noimank/tvbox?tab=readme-ov-file
+- ★★★☆☆ [[夸克网盘分享]] - https://pan.quark.cn/s/a51d932a5799#/list/share
+- ★★★☆☆ [[unnamed]] - https://www.perplexity.ai/
+- ★★★☆☆ [[黑苹果安装食用指南 - 技能加点]] - https://skilladd.org/2025/08/26/39.%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%AE%89%E8%A3%85%E9%A3%9F%E7%94%A8%E6%8C%87%E5%8D%97/
+- ★★★☆☆ [[macOS-macOS 15 Sequoia 官方原版系统下载 - DNACore GitHub io]] - https://dnacore.github.io/post/816c7b3d-97a6-49a7-9542-3a255d4dce62.html
+- ★★★☆☆ [[Windows环境下dmg原版黑苹果系统安装OpenCore Clover winPE三引导，2025年最新Hackintosh从入门到上手新手小白零基础...]] - https://imacos.top/2024/11/26/5-2/
+- ★★★☆☆ [[【老吴黑苹果】macOS Sequoia 15.6恢复版镜像下载 - 老吴黑苹果工作室]] - https://hpglw.com/macOS-Sequoia-15.6.html
+- ★★★☆☆ [[存储 · 首页 · Shopify]] - https://admin.shopify.com/store/storase?country=HK
+- ★★★☆☆ [[Storase- Reliable 12V 100Ah LiFePO4 Battery. Backed by a 10-Year Warra – storase]] - https://storase.com/zh
+- ★★★☆☆ [[12v 100ah lifepo4 battery 10000 deep cycle rechargeable - Temu]] - https://www.temu.com/12v-100ah-lifepo4-battery-10000-deep-cycle-rechargeable-lithium-battery-built-in-bms-3840wh-very-suitable-for-rv-boat-solar-energy-fishing-engine-camping-use-g-601102031403154.html?_oak_name_id=7375342147501492388&_oak_mp_inf=EJLxuMiv1ogBGiBhM2MwNzkxNzZjZjQ0NjRhYWRmYjgwZTFiYWI1ZGVlNCD%2FlJXM4TM%3D&top_gallery_url=https%3A%2F%2Fimg.kwcdn.com%2Fproduct%2Ffancy%2Fe4b24547-7e15-4e6a-a1b1-b07d6faf35ff.jpg&spec_gallery_id=117404&refer_page_sn=10005&freesia_scene=1&_oak_freesia_scene=1&_oak_rec_ext_1=MTE2NzI&_oak_gallery_order=1002722308%2C99991010%2C543270940%2C1483770916%2C1205648306&refer_page_el_sn=200024&operate_cart_extend_map=%7B%22add_cart_use_layer%22%3A1%7D&ab_scene=1&enable_vqr=0&_x_sessn_id=tyqfr6nfub&refer_page_name=home&refer_page_id=10005_1778544625549_ulrv99q6fv&no_cache_id=smb7r
+- ★★★☆☆ [[2026 AI辅助网站建设完整流程 AI提示（提示）精选库 – Naibabiji]] - https://blog.naibabiji.com/en/ai-prompts
+- ★★★☆☆ [[FNOS - 飞牛 fnOS]] - http://192.168.6.11:5666/
+- ★★★☆☆ [[KVideo - 视频聚合平台]] - http://192.168.6.11:3000/
+- ★★★☆☆ [[qBittorrent v5.1.4 WebUI]] - http://192.168.6.11:8080/
+- ★★★☆☆ [[MoviePilot]] - http://192.168.6.11:3001/#/dashboard
+- ★★★☆☆ [[jellyfin]] - http://192.168.6.11:8096/web/#/home
+- ★★★☆☆ [[Discover TestFlight apps - Departures]] - https://departures.to/
+- ★★★☆☆ [[寻竹 - YouTube]] - https://www.youtube.com/@%E5%AF%BB%E7%AB%B9123/videos
+- ★★★☆☆ [[科技虎丨iOSDK丨iOS资源网 - iOS多开下载丨KJHDK丨哦游MAX丨iPA商店丨凸游 - iPA软件免费砸壳下载丨iOSiPA丨苹果多开丨全网最...]] - https://kjhdk.cn/index.php?s=ruanjie_softbox/install
+- ★★★☆☆ [[黑猫_BlackCat]] - https://blackcatfilm.cc/
+- ★★★☆☆ [[群晖部署Music Tag Web 音乐标签刮削工具（第十五篇） - 小白のBlog]] - https://blog.foreverang.com/archives/9cf6eda8-080f-414d-a1a4-af0c8ee1a84c
+- ★★★☆☆ [[给你的飞牛NAS注入灵魂！Nastools 上舰，全自动追剧、整理、看片一条龙！-一万AI分享]] - https://blog.910501.xyz/archives/Nastools
+- ★★★☆☆ [[fnOS飞牛私有云Docker Compose搭建mariadb+ phpmyadmin - 应用分享 飞牛私有云论坛 fnOS]] - https://club.fnnas.com/forum.php?mod=viewthread&tid=475
+- ★★★☆☆ [[192.168.6.11-18090-eddy1panel]] - http://192.168.6.11:18090/eddy1panel
+- ★★★☆☆ [[阿里云美国大为]] - https://home.console.aliyun.com/home/dashboard/ProductAndService?accounttraceid=c619673e9bb14d51be1ca1c171388bf9cukz
+- ★★★☆☆ [[Linkwarden]] - http://192.168.6.11:3010/zh/dashboard
+- ★★★☆☆ [[Indexers - Prowlarr]] - http://192.168.6.11:9696/
+- ★★★☆☆ [[qBittorrent v4.6.4 Web UI]] - http://192.168.6.11:8085/
+- ★★★☆☆ [[情趣用品批发,安全套批发采购市场,情趣玩具批发]] - http://www.chinasexq.com/
+- ★★★☆☆ [[731769049的共享文件 - 皮皮盘-收入最高的网盘]] - https://www.pipipan.com/u/7734614/11443562
+- ★★★☆☆ [[百度网盘-免费云盘丨文件共享软件丨超大容量丨存储安全]] - https://pan.baidu.com/login?redirecturl=https%3A%2F%2Fpan.baidu.com%2Fdisk%2Fmain%3Ffrom%3DhomeFlow%23%2Findex%3Fcategory%3Dall
+- ★★★☆☆ [[主页 - AList]] - https://al.chirmyram.com/
+- ★★★☆☆ [[好用斋夸克网盘分享]] - https://pan.quark.cn/s/1509965ec6e0#/list/share/54f8a0e2b06a4e52bfb46deb2479f6ce-%E5%88%86%E4%BA%AB/a1216b556f234b55a467aa6a5555b775-%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB2/7d9b3b19f8f14d4fb2180e3a115d6693-%E5%B0%8F%E9%9B%85%E5%A4%A7%E7%A4%BC%E5%8C%85
+- ★★★☆☆ [[个人资料 - AList 管理]] - http://127.0.0.1:5244/@manage
+- ★★★☆☆ [[物流泄漏同步 - AList]] - http://60.186.140.156:5555/NAS/%E7%BD%91%E7%9B%98%E5%A4%87%E4%BB%BD/%E7%89%A9%E6%B5%81%E6%B3%84%E6%BC%8F%E5%90%8C%E6%AD%A5
+- ★★★☆☆ [[🔥各种资源🔥 - 小雅的分类 Alist]] - http://119.129.84.111:4000/%E8%B5%84%E6%96%99/%F0%9F%94%A5%E5%90%84%E7%A7%8D%E8%B5%84%E6%BA%90%F0%9F%94%A5
+- ★★★☆☆ [[借贷宝肉条全套照片视频联系方式20年 - AList]] - http://60.186.140.156:5555/NAS/%E7%BD%91%E7%9B%98%E5%A4%87%E4%BB%BD/%E7%89%A9%E6%B5%81%E6%B3%84%E6%BC%8F%E5%90%8C%E6%AD%A5/%E5%80%9F%E8%B4%B7%E5%AE%9D%E8%82%89%E6%9D%A1%E5%85%A8%E5%A5%97%E7%85%A7%E7%89%87%E8%A7%86%E9%A2%91%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F20%E5%B9%B4
+- ★★★☆☆ [[学霸网盘影视 - 阿里云盘,百度网盘,夸克网盘下载]] - https://www.xbwpys.com/
+- ★★★☆☆ [[TVbox系列数据源接口地址]] - https://www.aipan.me/tvbox
+- ★★★☆☆ [[TVBOX接口地址配置编辑器-简单易用制作TVBOX接口配置工具]] - https://www.tvbox.fit/
+- ★★★☆☆ [[用群晖web station搭建一个简易的视频网站【苹果cms程序】_软件应用_什么值得买]] - https://post.smzdm.com/p/apz00vw2/
+- ★★★☆☆ [[群晖7.2 webstation搭建苹果CMS10 - 知妖小站]] - https://zhiyao.site/index.php/2024/06/10/%E7%BE%A4%E6%99%967-2-webstation%E6%90%AD%E5%BB%BA%E8%8B%B9%E6%9E%9Ccms10/
+- ★★★☆☆ [[飞牛OS通过compose安装苹果cmsv10 - 无心૮₍°°₎ა博客]] - http://tnas.xin/index.php/66.html
+- ★★★☆☆ [[请教群晖 nas 获取root权限的问题 - Synology - Chiphell - 分享与交流用户体验]] - https://www.chiphell.com/thread-1644015-1-1.html
+- ★★★☆☆ [[黑群晖洗白教程_IT技术交流_新浪博客]] - http://blog.sina.com.cn/s/blog_89c4d77a0102xlk0.html
+- ★★★☆☆ [[用HP GEN8+WIN2012+Hyper V+黑群晖5.2组建家庭NAS中心 篇二：HP GEN8硬件改造__什么值得买]] - https://post.smzdm.com/p/626170/
+- ★★★☆☆ [[♪(^∇^-)欢迎肥来！【免费tvbox】安卓手机或Android电视盒子最强看电视app,无广告,配置(视频源)教程 - AM科技]] - https://am.809098.xyz/iptv-tvbox/
+- ★★★☆☆ [[夸克网盘分享_1]] - https://pan.quark.cn/s/255030bfc322#/list/share
+- ★★★☆☆ [[夸克网盘分享_2]] - https://pan.quark.cn/s/9126edfd9b99#/list/share
+- ★★★☆☆ [[夸克网盘分享_3]] - https://pan.quark.cn/s/db7897a43415#/list/share
+- ★★★☆☆ [[夸克网盘分享_4]] - https://pan.quark.cn/s/40618cfd64a2#/list/share
+- ★★★☆☆ [[夸克网盘分享_5]] - https://pan.quark.cn/s/b45446cacc29#/list/share
+- ★★★☆☆ [[夸克网盘分享_6]] - https://pan.quark.cn/s/5760688b3701#/list/share
+- ★★★☆☆ [[夸克网盘分享_7]] - https://pan.quark.cn/s/d586becca089#/list/share
+- ★★★☆☆ [[夸克网盘分享_8]] - https://pan.quark.cn/s/c9875dc1f9aa#/list/share
+- ★★★☆☆ [[夸克网盘分享_9]] - https://pan.quark.cn/s/06c5eb560820#/list/share
+- ★★★☆☆ [[夸克网盘分享_10]] - https://pan.quark.cn/s/f586ae530292#/list/share
+- ★★★☆☆ [[夸克网盘分享_11]] - https://pan.quark.cn/s/c670c26249ed#/list/share
+- ★★★☆☆ [[夸克网盘分享_12]] - https://pan.quark.cn/s/bcfc7891a665#/list/share
+- ★★★☆☆ [[夸克网盘分享_13]] - https://pan.quark.cn/s/6a60ab5bf646#/list/share
+- ★★★☆☆ [[有emby服务的机场注册 - M78星云]] - https://m78star.cloud/#/register?code=t43q5WFk
+- ★★★☆☆ [[FNOS - 飞牛 fnOS100]] - http://192.168.123.100:5666/
+- ★★★☆☆ [[软件阁 - 蓝奏云网盘]] - https://www.lanzous.com/u/%E8%90%BD%E7%83%ACi
+- ★★★☆☆ [[BT搜索与下载.rar - 蓝奏云网盘]] - https://www.lanzous.com/i4z6qef
+- ★★☆☆☆ [[AList 网盘神器安装教程 – 聚合阿里云盘、百度网盘、谷歌云盘、WebDav 等 18 款网盘：本地直接播放网盘视频 - 零度解说_哔哩哔哩_bili...]] - https://www.bilibili.com/video/BV1Te4y1G7r1/?spm_id_from=333.337.search-card.all.click&vd_source=f900556eb21f101b97c35f6cb7800287
+- ★☆☆☆☆ [[Ange-Panel]] - http://192.168.6.11:3002/#/
+- ★☆☆☆☆ [[Music Tag Web]] - http://192.168.50.100:8002/#/
+- ★☆☆☆☆ [[123.88苹果CMS后台]] - http://192.168.123.88:5659/adminxiaojiejie.php/admin/index/index.html
+- ★☆☆☆☆ [[MoonTV]] - http://192.168.123.20:3020/
+- ★☆☆☆☆ [[playlistdlAudio Downloader]] - http://192.168.6.11:5225/
+- ★☆☆☆☆ [[116Music Tag Web]] - http://192.168.6.11:8002/#/
+- ★☆☆☆☆ [[小爱音箱操控面板]] - http://192.168.6.11:58090/static/default/index.html
+- ★☆☆☆☆ [[Chromium]] - http://192.168.6.11:5666/chromium/
+- ★☆☆☆☆ [[LibreTV - 免费在线视频搜索与观看平台]] - http://192.168.6.11:8899/
+- ★☆☆☆☆ [[Navidrome]] - http://192.168.6.11:4533/app/#/album/recentlyAdded?sort=recently_added&order=DESC&filter={}
+- ★☆☆☆☆ [[iycms后台]] - http://192.168.6.11:21007/#/sys/info
+- ★☆☆☆☆ [[FNOS 微力同步]] - http://192.168.6.11:8886/#/verysync/folder
+- ★☆☆☆☆ [[x13iycms管理系统]] - http://192.168.6.186:21007/#/sys/home
+- ★☆☆☆☆ [[Sun-Panel]] - http://192.168.6.11:13002/
+- ★☆☆☆☆ [[Jackett]] - http://192.168.6.11:9117/UI/Dashboard
+- ★☆☆☆☆ [[Setup - Jellyseerr]] - http://192.168.6.11:5055/setup
+- ★☆☆☆☆ [[Radarr]] - http://192.168.6.11:8310/
+- ★☆☆☆☆ [[Sonarr]] - http://192.168.6.11:8989/
+- ★☆☆☆☆ [[Whisparr]] - http://192.168.6.11:6969/
+- ★☆☆☆☆ [[Jellyfin_1]] - http://192.168.6.11:8097/web/index.html#!/home.html
+- ★☆☆☆☆ [[电影 - Jellyseerr]] - http://192.168.6.11:5055/discover/movies?genre=28
+- ★☆☆☆☆ [[Sun-Panel 辅助工具箱]] - https://hslr-s.github.io/sun-panel-tool-page/#/
