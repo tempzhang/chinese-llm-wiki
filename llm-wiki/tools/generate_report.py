@@ -19,19 +19,49 @@ REPORTS_DIR = os.path.join(WIKI_PAGES, "reports")
 
 
 def parse_frontmatter(content: str) -> dict:
-    fm_match = re.match(r"^---\s*\n(.*?)\n---", content, re.DOTALL)
+    content = content.lstrip("\ufeff")
+    fm_match = re.match(r"^---\s*\r?\n(.*?)\r?\n---", content, re.DOTALL)
     if not fm_match:
         return {}
     fm = {}
+    current_key = None
+    current_list = []
     for line in fm_match.group(1).split("\n"):
+        line = line.rstrip("\r")
+        m_list = re.match(r"^\s+-\s+(.*)", line)
+        if m_list and current_key:
+            val = m_list.group(1).strip().strip('"').strip("'")
+            current_list.append(val)
+            continue
         m = re.match(r"^(\w[\w_-]*):\s*(.*)", line)
         if m:
-            fm[m.group(1)] = m.group(2).strip().strip('"').strip("'")
+            if current_key and current_list:
+                fm[current_key] = current_list
+                current_list = []
+            key = m.group(1)
+            val = m.group(2).strip().strip('"').strip("'")
+            if val.startswith("[") and val.endswith("]"):
+                inner = val[1:-1].strip()
+                val_list = [x.strip().strip('"').strip("'") for x in inner.split(",") if x.strip()]
+                fm[key] = val_list
+                current_key = None
+                continue
+            if val:
+                fm[key] = val
+                current_key = None
+            else:
+                current_key = key
+                current_list = []
+        elif not line.strip() and current_key and current_list:
+            fm[current_key] = current_list
+            current_key = None
+            current_list = []
+    if current_key and current_list:
+        fm[current_key] = current_list
     return fm
 
 
 def collect_stats() -> dict:
-    """收集 Wiki 统计信息。"""
     stats = {"total": 0, "by_type": Counter(), "by_status": Counter()}
     for root, _, files in os.walk(WIKI_PAGES):
         for fname in files:
@@ -44,8 +74,14 @@ def collect_stats() -> dict:
             except Exception:
                 continue
             stats["total"] += 1
-            stats["by_type"][fm.get("type", "unknown")] += 1
-            stats["by_status"][fm.get("status", "unknown")] += 1
+            ptype = fm.get("type", "unknown")
+            if isinstance(ptype, list):
+                ptype = ptype[0]
+            stats["by_type"][ptype] += 1
+            pstatus = fm.get("status", "unknown")
+            if isinstance(pstatus, list):
+                pstatus = pstatus[0]
+            stats["by_status"][pstatus] += 1
     return stats
 
 
