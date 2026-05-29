@@ -1,0 +1,10 @@
+Obsidian+hermes
+https://www.youtube.com/watch?v=QsskkYnLyio
+大神个人知识库管理LLM wiki
+
+Karpathy 的 LLM Wiki 火了，我改造了一下，比原版好用十倍
+ https://www.youtube.com/watch?v=t4lnadkVy8E
+学习这个LLM wiki:https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f帮我在我的仓库里建一套一样的，输出全部中文。
+
+提示词
+https://www.youtube.com/watch?v=t4lnadkVy8E参考这个视频改造https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f然后 学习这个LLM wiki: https://gist.github.com/karpathy/442abff55914893e9891c11519de94f 帮我在我的仓库里建一套一样的，输出全部中文。给hermes提示词
