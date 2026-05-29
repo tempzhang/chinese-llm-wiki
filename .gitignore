@@ -22,3 +22,6 @@ build/
 coverage/
 .pytest_cache/
 site/
+
+# MkDocs build output
+site/

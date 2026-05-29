@@ -4,6 +4,8 @@
 
 ## 快速入口
 
+- [[中文 LLM Wiki 总览]](wiki/00-总览.md)
+
 - [LLM Wiki 是什么](wiki/concepts/LLM-Wiki.md)
 - [如何开始维护 LLM Wiki](wiki/questions/如何开始维护LLM-Wiki.md)
 - [资料摄取流程](wiki/workflows/资料摄取流程.md)
@@ -67,7 +69,7 @@
 ---
 
 <!-- AUTO_INDEX_START -->
-<!-- 自动生成于 2026-05-29 19:33 -->
+<!-- 自动生成于 2026-05-29 19:39 -->
 
 ### 核心概念
 
