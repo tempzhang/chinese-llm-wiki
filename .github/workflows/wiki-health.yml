@@ -1,0 +1,33 @@
+name: Wiki 健康检查
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "llm-wiki/wiki/**"
+      - "llm-wiki/index.md"
+  pull_request:
+    branches: [main]
+    paths:
+      - "llm-wiki/wiki/**"
+      - "llm-wiki/index.md"
+  schedule:
+    - cron: "0 2 * * 0"
+  workflow_dispatch:
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: 运行 Wiki 健康检查
+        run: python llm-wiki/tools/wiki_lint.py --verbose
+      - name: 检查索引完整性
+        run: python llm-wiki/tools/update_index.py
+      - name: 验证 MkDocs 构建
+        run: |
+          pip install mkdocs-material
+          mkdocs build --strict

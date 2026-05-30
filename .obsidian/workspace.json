@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/2026-05-29T220555+0800--用Codex+Obsidian，搭建能自主进化的第二大脑！手把手教程.md",
+                "file": "llm-wiki/wiki/00-总览.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-29T220555+0800--用Codex+Obsidian，搭建能自主进化的第二大脑！手把手教程"
+              "title": "00-总览"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "raw/2026-05-29T220555+0800--用Codex+Obsidian，搭建能自主进化的第二大脑！手把手教程.md",
+                "file": "llm-wiki/wiki/00-总览.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-05-29T220555+0800--用Codex+Obsidian，搭建能自主进化的第二大脑！手把手教程 的反向链接列表"
+              "title": "00-总览 的反向链接列表"
             }
           },
           {
@@ -183,6 +183,25 @@
   },
   "active": "f3b94239d45605f4",
   "lastOpenFiles": [
+    "raw/2026-05-30T140816+0800--【新手教程】这绝对是油管最好的llm-wiki搭建知识库教程，手把手教会你0代码实现Karpathy llm-wiki知识库，全程详解，小白也能轻松上手！.md",
+    "llm-wiki/wiki/concepts/AI工具.md",
+    "llm-wiki/wiki/concepts/工具导航站.md",
+    "raw/2026-05-29T211232+0800--12个思维工具命令 - Prompt模板大全 - 飞书云文档.md",
+    "raw/2026-05-29T205227+0800--Post by @wanerfu on X.md",
+    "raw/2026-05-29T215822+0800--我用AI + Obsidian 搭了一个会思考的第二大脑｜告别灵感焦虑.md",
+    "llm-wiki/wiki/00-总览.md",
+    "llm-wiki/wiki/concepts/跨境支付.md",
+    "raw/2026-05-29T220555+0800--用Codex+Obsidian，搭建能自主进化的第二大脑！手把手教程.md",
+    "llm-wiki/wiki/concepts/Docker速查.md",
+    "llm-wiki/wiki/concepts/亚马逊运营.md",
+    "llm-wiki/wiki/concepts/TikTok电商.md",
+    "llm-wiki/wiki/concepts/NAS与自建服务.md",
+    "llm-wiki/wiki/concepts/WordPress.md",
+    "llm-wiki/wiki/comparisons/AI-Agent框架.md",
+    "llm-wiki/wiki/concepts/SEO工具.md",
+    "llm-wiki/wiki/concepts/DeepSeek.md",
+    "llm-wiki/wiki/comparisons/自动化工具对比.md",
+    "llm-wiki/wiki/concepts/MCP.md",
     "llm-wiki/raw/bookmarks/99_Archive/鹿班 - 让设计更美好.md",
     "llm-wiki/raw/bookmarks/99_Archive/鸿馨专注注册申请美国ASI和SAGE促销礼品平台入驻-义乌市鸿馨企业管理咨询有限公司.md",
     "llm-wiki/raw/bookmarks/99_Archive/鲸准-金融信息服务商,资管系统,新经济,产业数据,投融资对接平台.md",
@@ -190,25 +209,6 @@
     "llm-wiki/raw/bookmarks/99_Archive/高品质开源商城系统-CRMEB官网.md",
     "llm-wiki/raw/bookmarks/99_Archive/香蕉资源网.md",
     "llm-wiki/raw/bookmarks/99_Archive/首页_36氪.md",
-    "llm-wiki/raw/bookmarks/99_Archive/首页.md",
-    "llm-wiki/raw/bookmarks/99_Archive/首页-聚优品100-淘宝网.md",
-    "llm-wiki/raw/bookmarks/99_Archive/首页-夏夏Queen珠宝-淘宝网.md",
-    "llm-wiki/raw/bookmarks/99_Archive/首页-南红工厂批发-淘宝网.md",
-    "llm-wiki/raw/bookmarks/99_Archive/首页-出海王 24小时营业-淘宝网.md",
-    "llm-wiki/raw/bookmarks/99_Archive/首页-出海流量-淘宝网.md",
-    "llm-wiki/raw/bookmarks/99_Archive/首页-冠生首饰配件批发-淘宝网.md",
-    "llm-wiki/raw/bookmarks/99_Archive/首页-云航学院-淘宝网_1.md",
-    "llm-wiki/raw/bookmarks/99_Archive/首页-云航学院-淘宝网.md",
-    "llm-wiki/raw/bookmarks/99_Archive/首页-onchic旗舰店-天猫Tmall.com.md",
-    "llm-wiki/raw/bookmarks/99_Archive/首页-d[s471579356]-淘宝网.md",
-    "llm-wiki/raw/bookmarks/99_Archive/首页 — 极影加速.md",
-    "llm-wiki/raw/bookmarks/99_Archive/首页 - 高德控制台.md",
-    "llm-wiki/raw/bookmarks/99_Archive/首页 - 纽约推广中心有限公司 --- Home - New York Promotion Center Inc.md",
-    "llm-wiki/raw/bookmarks/99_Archive/首页 - VigrxOil --- Home - VigrxOil.md",
-    "llm-wiki/raw/bookmarks/99_Archive/首页 - Canva可画.md",
-    "llm-wiki/raw/bookmarks/99_Archive/飞享一刻 – 真正的梦想是现实的彼岸.md",
-    "llm-wiki/raw/bookmarks/99_Archive/风水术 完全风水自助手册 开运招财现用现查 - A姐分享.md",
-    "llm-wiki/raw/bookmarks/99_Archive/领英- 登录或注册.md",
     "llm-wiki/raw/bookmarks/99_Archive",
     "llm-wiki/raw/bookmarks/90_Reports",
     "llm-wiki/raw/bookmarks/22_Tools",
