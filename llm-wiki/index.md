@@ -96,7 +96,7 @@
 ---
 
 <!-- AUTO_INDEX_START -->
-<!-- 自动生成于 2026-05-30 19:59 -->
+<!-- 自动生成于 2026-05-30 20:17 -->
 
 ### 核心概念
 
@@ -105,15 +105,19 @@
 - [Codex](wiki\concepts\Codex.md)
 - [DeepSeek](wiki\concepts\DeepSeek.md)
 - [Docker 速查](wiki\concepts\Docker速查.md)
+- [EverOS（EverMind）](wiki\concepts\EverOS.md)
 - [Git 版本化知识库](wiki\concepts\Git版本化知识库.md)
+- [HyperFrames](wiki\concepts\HyperFrames.md)
 - [LLM Wiki](wiki\concepts\LLM-Wiki.md)
 - [MCP（Model Context Protocol）](wiki\concepts\MCP.md)
 - [Markdown 知识库](wiki\concepts\Markdown知识库.md)
 - [NAS 与自建服务](wiki\concepts\NAS与自建服务.md)
 - [OpenWRT 与软路由](wiki\concepts\OpenWRT与软路由.md)
 - [RAG](wiki\concepts\RAG.md)
+- [Reasonix（DeepSeek-Reasonix）](wiki\concepts\Reasonix.md)
 - [SEO工具](wiki\concepts\SEO工具.md)
 - [TikTok 电商](wiki\concepts\TikTok电商.md)
+- [Understand Anything](wiki\concepts\UnderstandAnything.md)
 - [WordPress](wiki\concepts\WordPress.md)
 - [亚马逊运营](wiki\concepts\亚马逊运营.md)
 - [双向链接](wiki\concepts\双向链接.md)
@@ -170,6 +174,7 @@
 - [中文 LLM Wiki 总览](wiki\00-总览.md)
 - [中文 LLM Wiki 落地方案](wiki\reports\中文LLM-Wiki落地方案.md)
 - [从 0 搭建 AI 第二大脑：Obsidian + Claude Code（Martina在进化）](wiki\reports\从0搭建AI第二大脑.md)
+- [新手教程：搭建 Karpathy LLM Wiki 知识库（AI大模型应用开发）](wiki\reports\新手教程搭建LLM-Wiki知识库.md)
 - [暴力美学电影清单（@UnicornBitcoin）](wiki\reports\暴力美学电影清单.md)
 - [跨境电商知识库](wiki\reports\跨境电商知识库.md)
 

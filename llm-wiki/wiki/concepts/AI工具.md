@@ -16,7 +16,10 @@ related:
   - "自动SEO"
   - "自动铺货"
   - "MCP（Model Context Protocol）"
-  - "Codex"
+  - "Understand Anything"
+  - "HyperFrames"
+  - "Reasonix（DeepSeek-Reasonix）"
+  - "EverOS（EverMind）"
 ---
 
 # 🛠 AI工具
@@ -57,6 +60,10 @@ related:
 
 - [[Codex]] — OpenAI 开源终端 AI 编程代理
 - [[DeepSeek]] — 国产开源大模型
+- [[Understand Anything]] — 代码库知识图谱分析插件
+- [[HyperFrames]] — HTML 转视频渲染框架
+- [[Reasonix（DeepSeek-Reasonix）]] — DeepSeek 原生 AI 编程 Agent
+- [[EverOS（EverMind）]] — AI Agent 长期记忆系统
 
 ## 应用场景
 

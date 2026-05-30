@@ -9,9 +9,9 @@ sources:
   - "https://x.com/wanerfu/status/1726850656978481253"
   - "https://x.com/wanerfu/status/1807932582644138011"
 related:
-  - "YouTube学习频道推荐"
-  - "Pinterest副业赚钱方法"
-  - "暴力美学电影清单"
+  - "YouTube 学习频道推荐（@wanerfu）"
+  - "Pinterest 副业赚钱方法（@wanerfu）"
+  - "暴力美学电影清单（@UnicornBitcoin）"
 ---
 
 # @wanerfu

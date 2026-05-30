@@ -13,6 +13,7 @@ related:
   - "AI工具"
   - "Codex"
   - "MCP（Model Context Protocol）"
+  - "Reasonix（DeepSeek-Reasonix）"
 ---
 
 # 🐋 DeepSeek

@@ -104,5 +104,6 @@ python generate_report.py --stats
 
 - [[RAG 与 LLM Wiki 对比]]：了解 LLM Wiki 和 RAG 的区别
 - [[Karpathy LLM Wiki 中文解读]]：深入理解 Karpathy 的原版理念
+- [[新手教程：搭建 Karpathy LLM Wiki 知识库（AI大模型应用开发）]]：视频教程，0 代码搭建
 
 ## 资料来源

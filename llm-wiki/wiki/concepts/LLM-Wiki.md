@@ -14,6 +14,7 @@ related:
   - "双向链接"
   - "Markdown 知识库"
   - "AI Agent 知识维护"
+  - "新手教程：搭建 Karpathy LLM Wiki 知识库（AI大模型应用开发）"
 ---
 
 # LLM Wiki

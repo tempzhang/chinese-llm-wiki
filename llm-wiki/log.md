@@ -2,6 +2,29 @@
 
 > 按时间倒序记录所有维护操作。
 
+## 2026-05-30 20:30 | 资料摄取 + 安装 | 4 个 GitHub 开源项目
+
+- 修改文件：
+  - `raw/sources/Understand-Anything-README.md`（新建）
+  - `raw/sources/HyperFrames-README.md`（新建）
+  - `raw/sources/DeepSeek-Reasonix-README.md`（新建）
+  - `raw/sources/EverOS-README.md`（新建）
+  - `llm-wiki/wiki/concepts/UnderstandAnything.md`（新建）
+  - `llm-wiki/wiki/concepts/HyperFrames.md`（新建）
+  - `llm-wiki/wiki/concepts/Reasonix.md`（新建）
+  - `llm-wiki/wiki/concepts/EverOS.md`（新建）
+  - 多个现有页面（AI工具、LLM-Wiki、00-总览、DeepSeek 等）：添加交叉链接
+  - `llm-wiki/index.md`（自动索引更新）
+- 修改原因：将 4 个热门 AI 开源项目摄入 Wiki + 本地安装
+- 本地安装情况：
+  - **Understand Anything**（45.2k stars）：克隆到 `~/.understand-anything/repo/`
+  - **HyperFrames**（22.4k stars）：npm install -g hyperframes@0.6.61 成功
+  - **Reasonix**（14.3k stars）：npm install -g reasonix@0.53.2 成功
+  - **EverOS**（6.1k stars）：已在 Wiki 记录安装方法（需 Docker + Python 3.12）
+- 后续待办：
+  - 将 Understand Anything 配置为 opencode 插件
+  - 尝试运行 HyperFrames 渲染示例视频
+
 ## 2026-05-30 20:00 | 优化 | 版本 v0.3.0：术语表扩展 + GitHub Actions + 路线图更新
 
 - 修改文件：
