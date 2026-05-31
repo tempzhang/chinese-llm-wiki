@@ -14545,7 +14545,7 @@ var init_types = __esm({
     });
     TaskAugmentedRequestParamsSchema = BaseRequestParamsSchema.extend({
       /**
-       * If specified, the caller is requesting task-augmented execution for this request.
+       * If specified, the caller is requesting ta<OPENAI_API_KEY> execution for this request.
        * The request will return a CreateTaskResult immediately, and the actual result can be
        * retrieved later via tasks/result.
        *
@@ -15380,7 +15380,7 @@ var init_types = __esm({
     });
     ToolExecutionSchema = object2({
       /**
-       * Indicates the tool's preference for task-augmented execution.
+       * Indicates the tool's preference for ta<OPENAI_API_KEY> execution.
        * - "required": Clients MUST invoke the tool as a task
        * - "optional": Clients MAY invoke the tool as a task or normal request
        * - "forbidden": Clients MUST NOT attempt to invoke the tool as a task
@@ -54314,7 +54314,7 @@ var ExperimentalClientTasks = class {
    * The generator is guaranteed to end with either a 'result' or 'error' message.
    *
    * This method provides streaming access to request processing, allowing you to
-   * observe intermediate task status updates for task-augmented requests.
+   * observe intermediate task status updates for ta<OPENAI_API_KEY> requests.
    *
    * @param request - The request to send
    * @param resultSchema - Zod schema for validating the result
@@ -55935,7 +55935,7 @@ var McpServerModal = class extends import_obsidian7.Modal {
       cls: "claudian-mcp-env-textarea"
     });
     headersTextarea.value = this.headers;
-    headersTextarea.placeholder = "Authorization=bearer token\ncontent-type=application/JSON";
+    headersTextarea.placeholder = "Authorization=Bearer <GITHUB_TOKEN>\ncontent-type=application/JSON";
     headersTextarea.rows = 3;
     headersTextarea.addEventListener("input", () => {
       this.headers = headersTextarea.value;
@@ -60031,7 +60031,7 @@ function collectAsyncSubagentResults(sdkMessages) {
     if (typeof sdkMsg.content !== "string") {
       continue;
     }
-    if (!sdkMsg.content.includes("<task-notification>")) {
+    if (!sdkMsg.content.includes("<ta<OPENAI_API_KEY>>")) {
       continue;
     }
     const taskId = extractXmlTag(sdkMsg.content, "task-id");
@@ -60083,7 +60083,7 @@ function isSystemInjectedMessage(sdkMsg) {
   if (text.includes("<local-command-stdout>") || text.includes("<local-command-stderr>")) {
     return true;
   }
-  if (text.includes("<task-notification>")) {
+  if (text.includes("<ta<OPENAI_API_KEY>>")) {
     return true;
   }
   return false;
@@ -63061,7 +63061,7 @@ var ClaudianService = class {
     this.cachedSdkCommands = [];
     // Subagent hook state provider (set from feature layer to avoid core→feature dependency)
     this._subagentStateProvider = null;
-    // Auto-triggered turn handling (e.g., task-notification delivery by the SDK)
+    // Auto-triggered turn handling (e.g., ta<OPENAI_API_KEY> delivery by the SDK)
     this._autoTurnBuffer = [];
     this._autoTurnSawStreamText = false;
     this._autoTurnSawStreamThinking = false;
@@ -79626,8 +79626,8 @@ var InlineAskUserQuestion = class {
     this.boundKeyDown = (event) => this.handleKeyDown(event);
   }
   render() {
-    this.rootEl = this.containerEl.createDiv({ cls: "claudian-ask-question-inline" });
-    const titleEl = this.rootEl.createDiv({ cls: "claudian-ask-inline-title" });
+    this.rootEl = this.containerEl.createDiv({ cls: "claudian-a<OPENAI_API_KEY>" });
+    const titleEl = this.rootEl.createDiv({ cls: "claudian-a<OPENAI_API_KEY>" });
     titleEl.setText(this.config.title);
     if (this.config.headerEl) {
       this.rootEl.appendChild(this.config.headerEl);
@@ -79731,8 +79731,8 @@ var InlineAskUserQuestion = class {
     for (let idx = 0; idx < this.questions.length; idx++) {
       const answered = this.isQuestionAnswered(idx);
       const tab = this.tabBar.createSpan({ cls: "claudian-ask-tab" });
-      tab.createSpan({ text: this.questions[idx].header, cls: "claudian-ask-tab-label" });
-      tab.createSpan({ text: answered ? " \u2713" : "", cls: "claudian-ask-tab-tick" });
+      tab.createSpan({ text: this.questions[idx].header, cls: "claudian-a<OPENAI_API_KEY>" });
+      tab.createSpan({ text: answered ? " \u2713" : "", cls: "claudian-a<OPENAI_API_KEY>" });
       tab.setAttribute("title", this.questions[idx].question);
       if (idx === this.activeTabIndex) tab.addClass("is-active");
       if (answered) tab.addClass("is-answered");
@@ -79741,8 +79741,8 @@ var InlineAskUserQuestion = class {
     }
     const allAnswered = this.questions.every((_10, i2) => this.isQuestionAnswered(i2));
     const submitTab = this.tabBar.createSpan({ cls: "claudian-ask-tab" });
-    submitTab.createSpan({ text: allAnswered ? "\u2713 " : "", cls: "claudian-ask-tab-submit-check" });
-    submitTab.createSpan({ text: "Submit", cls: "claudian-ask-tab-label" });
+    submitTab.createSpan({ text: allAnswered ? "\u2713 " : "", cls: "claudian-a<OPENAI_API_KEY>" });
+    submitTab.createSpan({ text: "Submit", cls: "claudian-a<OPENAI_API_KEY>" });
     if (this.activeTabIndex === this.questions.length) submitTab.addClass("is-active");
     submitTab.addEventListener("click", () => this.switchTab(this.questions.length));
     this.tabElements.push(submitTab);
@@ -79778,7 +79778,7 @@ var InlineAskUserQuestion = class {
     const selected = this.answers.get(idx);
     this.contentArea.createDiv({
       text: q10.question,
-      cls: "claudian-ask-question-text"
+      cls: "claudian-a<OPENAI_API_KEY>"
     });
     const listEl = this.contentArea.createDiv({ cls: "claudian-ask-list" });
     for (let optIdx = 0; optIdx < q10.options.length; optIdx++) {
@@ -79790,18 +79790,18 @@ var InlineAskUserQuestion = class {
       if (isFocused) row.addClass("is-focused");
       if (isSelected) row.addClass("is-selected");
       row.createSpan({ text: isFocused ? "\u203A" : "\xA0", cls: "claudian-ask-cursor" });
-      row.createSpan({ text: `${optIdx + 1}. `, cls: "claudian-ask-item-num" });
+      row.createSpan({ text: `${optIdx + 1}. `, cls: "claudian-a<OPENAI_API_KEY>" });
       if (isMulti) {
         this.renderMultiSelectCheckbox(row, isSelected);
       }
-      const labelBlock = row.createDiv({ cls: "claudian-ask-item-content" });
-      const labelRow = labelBlock.createDiv({ cls: "claudian-ask-label-row" });
-      labelRow.createSpan({ text: option.label, cls: "claudian-ask-item-label" });
+      const labelBlock = row.createDiv({ cls: "claudian-a<OPENAI_API_KEY>" });
+      const labelRow = labelBlock.createDiv({ cls: "claudian-a<OPENAI_API_KEY>" });
+      labelRow.createSpan({ text: option.label, cls: "claudian-a<OPENAI_API_KEY>" });
       if (!isMulti && isSelected) {
-        labelRow.createSpan({ text: " \u2713", cls: "claudian-ask-check-mark" });
+        labelRow.createSpan({ text: " \u2713", cls: "claudian-a<OPENAI_API_KEY>" });
       }
       if (option.description) {
-        labelBlock.createDiv({ text: option.description, cls: "claudian-ask-item-desc" });
+        labelBlock.createDiv({ text: option.description, cls: "claudian-a<OPENAI_API_KEY>" });
       }
       row.addEventListener("click", () => {
         this.focusedItemIndex = optIdx;
@@ -79815,15 +79815,15 @@ var InlineAskUserQuestion = class {
       const customFocused = customIdx === this.focusedItemIndex;
       const customText = (_a3 = this.customInputs.get(idx)) != null ? _a3 : "";
       const hasCustomText = customText.trim().length > 0;
-      const customRow = listEl.createDiv({ cls: "claudian-ask-item claudian-ask-custom-item" });
+      const customRow = listEl.createDiv({ cls: "claudian-ask-item claudian-a<OPENAI_API_KEY>" });
       if (customFocused) customRow.addClass("is-focused");
       customRow.createSpan({ text: customFocused ? "\u203A" : "\xA0", cls: "claudian-ask-cursor" });
-      customRow.createSpan({ text: `${customIdx + 1}. `, cls: "claudian-ask-item-num" });
+      customRow.createSpan({ text: `${customIdx + 1}. `, cls: "claudian-a<OPENAI_API_KEY>" });
       if (isMulti) {
         this.renderMultiSelectCheckbox(customRow, hasCustomText);
       }
       const inputEl = customRow.createEl("input", {
-        cls: "claudian-ask-custom-text",
+        cls: "claudian-a<OPENAI_API_KEY>",
         value: customText
       });
       inputEl.setAttribute("type", q10.isSecret ? "password" : "text");
@@ -79857,25 +79857,25 @@ var InlineAskUserQuestion = class {
   renderSubmitTab() {
     this.contentArea.createDiv({
       text: "Review your answers",
-      cls: "claudian-ask-review-title"
+      cls: "claudian-a<OPENAI_API_KEY>"
     });
     const reviewEl = this.contentArea.createDiv({ cls: "claudian-ask-review" });
     for (let idx = 0; idx < this.questions.length; idx++) {
       const q10 = this.questions[idx];
       const answerText = this.getAnswerText(idx);
-      const pairEl = reviewEl.createDiv({ cls: "claudian-ask-review-pair" });
-      pairEl.createDiv({ text: `${idx + 1}.`, cls: "claudian-ask-review-num" });
-      const bodyEl = pairEl.createDiv({ cls: "claudian-ask-review-body" });
-      bodyEl.createDiv({ text: q10.question, cls: "claudian-ask-review-q-text" });
+      const pairEl = reviewEl.createDiv({ cls: "claudian-a<OPENAI_API_KEY>" });
+      pairEl.createDiv({ text: `${idx + 1}.`, cls: "claudian-a<OPENAI_API_KEY>" });
+      const bodyEl = pairEl.createDiv({ cls: "claudian-a<OPENAI_API_KEY>" });
+      bodyEl.createDiv({ text: q10.question, cls: "claudian-a<OPENAI_API_KEY>" });
       bodyEl.createDiv({
         text: answerText || "Not answered",
-        cls: answerText ? "claudian-ask-review-a-text" : "claudian-ask-review-empty"
+        cls: answerText ? "claudian-a<OPENAI_API_KEY>" : "claudian-a<OPENAI_API_KEY>"
       });
       pairEl.addEventListener("click", () => this.switchTab(idx));
     }
     this.contentArea.createDiv({
       text: "Ready to submit your answers?",
-      cls: "claudian-ask-review-prompt"
+      cls: "claudian-a<OPENAI_API_KEY>"
     });
     const actionsEl = this.contentArea.createDiv({ cls: "claudian-ask-list" });
     const allAnswered = this.questions.every((_10, i2) => this.isQuestionAnswered(i2));
@@ -79883,8 +79883,8 @@ var InlineAskUserQuestion = class {
     if (this.focusedItemIndex === 0) submitRow.addClass("is-focused");
     if (!allAnswered) submitRow.addClass("is-disabled");
     submitRow.createSpan({ text: this.focusedItemIndex === 0 ? "\u203A" : "\xA0", cls: "claudian-ask-cursor" });
-    submitRow.createSpan({ text: "1. ", cls: "claudian-ask-item-num" });
-    submitRow.createSpan({ text: "Submit answers", cls: "claudian-ask-item-label" });
+    submitRow.createSpan({ text: "1. ", cls: "claudian-a<OPENAI_API_KEY>" });
+    submitRow.createSpan({ text: "Submit answers", cls: "claudian-a<OPENAI_API_KEY>" });
     submitRow.addEventListener("click", () => {
       this.focusedItemIndex = 0;
       this.updateFocusIndicator();
@@ -79894,8 +79894,8 @@ var InlineAskUserQuestion = class {
     const cancelRow = actionsEl.createDiv({ cls: "claudian-ask-item" });
     if (this.focusedItemIndex === 1) cancelRow.addClass("is-focused");
     cancelRow.createSpan({ text: this.focusedItemIndex === 1 ? "\u203A" : "\xA0", cls: "claudian-ask-cursor" });
-    cancelRow.createSpan({ text: "2. ", cls: "claudian-ask-item-num" });
-    cancelRow.createSpan({ text: "Cancel", cls: "claudian-ask-item-label" });
+    cancelRow.createSpan({ text: "2. ", cls: "claudian-a<OPENAI_API_KEY>" });
+    cancelRow.createSpan({ text: "Cancel", cls: "claudian-a<OPENAI_API_KEY>" });
     cancelRow.addEventListener("click", () => {
       this.focusedItemIndex = 1;
       this.handleResolve(null);
@@ -79965,10 +79965,10 @@ var InlineAskUserQuestion = class {
           checkSpan.toggleClass("is-checked", isSelected);
         }
       } else {
-        const labelRow = item.querySelector(".claudian-ask-label-row");
-        const existingMark = item.querySelector(".claudian-ask-check-mark");
+        const labelRow = item.querySelector(".claudian-a<OPENAI_API_KEY>");
+        const existingMark = item.querySelector(".claudian-a<OPENAI_API_KEY>");
         if (isSelected && !existingMark && labelRow) {
-          labelRow.createSpan({ text: " \u2713", cls: "claudian-ask-check-mark" });
+          labelRow.createSpan({ text: " \u2713", cls: "claudian-a<OPENAI_API_KEY>" });
         } else if (!isSelected && existingMark) {
           existingMark.remove();
         }
@@ -79992,14 +79992,14 @@ var InlineAskUserQuestion = class {
   updateTabIndicators() {
     for (let idx = 0; idx < this.questions.length; idx++) {
       const tab = this.tabElements[idx];
-      const tick = tab.querySelector(".claudian-ask-tab-tick");
+      const tick = tab.querySelector(".claudian-a<OPENAI_API_KEY>");
       const answered = this.isQuestionAnswered(idx);
       tab.toggleClass("is-answered", answered);
       if (tick) tick.textContent = answered ? " \u2713" : "";
     }
     const submitTab = this.tabElements[this.questions.length];
     if (submitTab) {
-      const submitCheck = submitTab.querySelector(".claudian-ask-tab-submit-check");
+      const submitCheck = submitTab.querySelector(".claudian-a<OPENAI_API_KEY>");
       const allAnswered = this.questions.every((_10, i2) => this.isQuestionAnswered(i2));
       if (submitCheck) submitCheck.textContent = allAnswered ? "\u2713 " : "";
     }
@@ -80124,7 +80124,7 @@ var InlineAskUserQuestion = class {
         } else if (this.canShowCustomInputForQuestion(q10)) {
           this.isInputFocused = true;
           const customRow = this.currentItems[this.focusedItemIndex];
-          const input = customRow == null ? void 0 : customRow.querySelector(".claudian-ask-custom-text");
+          const input = customRow == null ? void 0 : customRow.querySelector(".claudian-a<OPENAI_API_KEY>");
           input == null ? void 0 : input.focus();
         }
         break;
@@ -80231,8 +80231,8 @@ var InlineExitPlanMode = class {
     const newSessionRow = actionsEl.createDiv({ cls: "claudian-ask-item" });
     newSessionRow.addClass("is-focused");
     newSessionRow.createSpan({ text: "\u203A", cls: "claudian-ask-cursor" });
-    newSessionRow.createSpan({ text: "1. ", cls: "claudian-ask-item-num" });
-    newSessionRow.createSpan({ text: "Approve (new session)", cls: "claudian-ask-item-label" });
+    newSessionRow.createSpan({ text: "1. ", cls: "claudian-a<OPENAI_API_KEY>" });
+    newSessionRow.createSpan({ text: "Approve (new session)", cls: "claudian-a<OPENAI_API_KEY>" });
     newSessionRow.addEventListener("click", () => {
       this.focusedIndex = 0;
       this.updateFocus();
@@ -80244,20 +80244,20 @@ var InlineExitPlanMode = class {
     this.items.push(newSessionRow);
     const approveRow = actionsEl.createDiv({ cls: "claudian-ask-item" });
     approveRow.createSpan({ text: "\xA0", cls: "claudian-ask-cursor" });
-    approveRow.createSpan({ text: "2. ", cls: "claudian-ask-item-num" });
-    approveRow.createSpan({ text: "Approve (current session)", cls: "claudian-ask-item-label" });
+    approveRow.createSpan({ text: "2. ", cls: "claudian-a<OPENAI_API_KEY>" });
+    approveRow.createSpan({ text: "Approve (current session)", cls: "claudian-a<OPENAI_API_KEY>" });
     approveRow.addEventListener("click", () => {
       this.focusedIndex = 1;
       this.updateFocus();
       this.handleResolve({ type: "approve" });
     });
     this.items.push(approveRow);
-    const feedbackRow = actionsEl.createDiv({ cls: "claudian-ask-item claudian-ask-custom-item" });
+    const feedbackRow = actionsEl.createDiv({ cls: "claudian-ask-item claudian-a<OPENAI_API_KEY>" });
     feedbackRow.createSpan({ text: "\xA0", cls: "claudian-ask-cursor" });
-    feedbackRow.createSpan({ text: "3. ", cls: "claudian-ask-item-num" });
+    feedbackRow.createSpan({ text: "3. ", cls: "claudian-a<OPENAI_API_KEY>" });
     this.feedbackInput = feedbackRow.createEl("input", {
       type: "text",
-      cls: "claudian-ask-custom-text",
+      cls: "claudian-a<OPENAI_API_KEY>",
       placeholder: "Enter feedback to continue planning..."
     });
     this.feedbackInput.addEventListener("focus", () => {
@@ -80370,8 +80370,8 @@ ${this.planContent}`;
         item.addClass("is-focused");
         if (cursor) cursor.textContent = "\u203A";
         item.scrollIntoView({ block: "nearest" });
-        if (item.hasClass("claudian-ask-custom-item")) {
-          const input = item.querySelector(".claudian-ask-custom-text");
+        if (item.hasClass("claudian-a<OPENAI_API_KEY>")) {
+          const input = item.querySelector(".claudian-a<OPENAI_API_KEY>");
           if (input) {
             input.focus();
             this.isInputFocused = true;
@@ -80380,8 +80380,8 @@ ${this.planContent}`;
       } else {
         item.removeClass("is-focused");
         if (cursor) cursor.textContent = "\xA0";
-        if (item.hasClass("claudian-ask-custom-item")) {
-          const input = item.querySelector(".claudian-ask-custom-text");
+        if (item.hasClass("claudian-a<OPENAI_API_KEY>")) {
+          const input = item.querySelector(".claudian-a<OPENAI_API_KEY>");
           if (input && this.rootEl.ownerDocument.activeElement === input) {
             input.blur();
             this.isInputFocused = false;
@@ -80424,20 +80424,20 @@ var InlinePlanApproval = class {
     const implementRow = actionsEl.createDiv({ cls: "claudian-ask-item" });
     implementRow.addClass("is-focused");
     implementRow.createSpan({ text: "\u203A", cls: "claudian-ask-cursor" });
-    implementRow.createSpan({ text: "1. ", cls: "claudian-ask-item-num" });
-    implementRow.createSpan({ text: "Implement", cls: "claudian-ask-item-label" });
+    implementRow.createSpan({ text: "1. ", cls: "claudian-a<OPENAI_API_KEY>" });
+    implementRow.createSpan({ text: "Implement", cls: "claudian-a<OPENAI_API_KEY>" });
     implementRow.addEventListener("click", () => {
       this.focusedIndex = 0;
       this.updateFocus();
       this.handleResolve({ type: "implement" });
     });
     this.items.push(implementRow);
-    const reviseRow = actionsEl.createDiv({ cls: "claudian-ask-item claudian-ask-custom-item" });
+    const reviseRow = actionsEl.createDiv({ cls: "claudian-ask-item claudian-a<OPENAI_API_KEY>" });
     reviseRow.createSpan({ text: "\xA0", cls: "claudian-ask-cursor" });
-    reviseRow.createSpan({ text: "2. ", cls: "claudian-ask-item-num" });
+    reviseRow.createSpan({ text: "2. ", cls: "claudian-a<OPENAI_API_KEY>" });
     this.feedbackInput = reviseRow.createEl("input", {
       type: "text",
-      cls: "claudian-ask-custom-text",
+      cls: "claudian-a<OPENAI_API_KEY>",
       placeholder: "Enter feedback to revise plan..."
     });
     this.feedbackInput.addEventListener("focus", () => {
@@ -80453,8 +80453,8 @@ var InlinePlanApproval = class {
     this.items.push(reviseRow);
     const cancelRow = actionsEl.createDiv({ cls: "claudian-ask-item" });
     cancelRow.createSpan({ text: "\xA0", cls: "claudian-ask-cursor" });
-    cancelRow.createSpan({ text: "3. ", cls: "claudian-ask-item-num" });
-    cancelRow.createSpan({ text: "Cancel", cls: "claudian-ask-item-label" });
+    cancelRow.createSpan({ text: "3. ", cls: "claudian-a<OPENAI_API_KEY>" });
+    cancelRow.createSpan({ text: "Cancel", cls: "claudian-a<OPENAI_API_KEY>" });
     cancelRow.addEventListener("click", () => {
       this.focusedIndex = 2;
       this.updateFocus();
@@ -80529,8 +80529,8 @@ var InlinePlanApproval = class {
         item.addClass("is-focused");
         if (cursor) cursor.textContent = "\u203A";
         item.scrollIntoView({ block: "nearest" });
-        if (item.hasClass("claudian-ask-custom-item")) {
-          const input = item.querySelector(".claudian-ask-custom-text");
+        if (item.hasClass("claudian-a<OPENAI_API_KEY>")) {
+          const input = item.querySelector(".claudian-a<OPENAI_API_KEY>");
           if (input) {
             input.focus();
             this.isInputFocused = true;
@@ -80539,8 +80539,8 @@ var InlinePlanApproval = class {
       } else {
         item.removeClass("is-focused");
         if (cursor) cursor.textContent = "\xA0";
-        if (item.hasClass("claudian-ask-custom-item") && this.isInputFocused) {
-          const input = item.querySelector(".claudian-ask-custom-text");
+        if (item.hasClass("claudian-a<OPENAI_API_KEY>") && this.isInputFocused) {
+          const input = item.querySelector(".claudian-a<OPENAI_API_KEY>");
           if (input) {
             input.blur();
             this.isInputFocused = false;
@@ -81403,13 +81403,13 @@ function renderAskUserQuestionResult(container, toolCall) {
     const answer = formatAnswer(
       (_a3 = q10.id ? answers[q10.id] : void 0) != null ? _a3 : answers[q10.question]
     );
-    const pairEl = reviewEl.createDiv({ cls: "claudian-ask-review-pair" });
-    pairEl.createDiv({ text: `${i2 + 1}.`, cls: "claudian-ask-review-num" });
-    const bodyEl = pairEl.createDiv({ cls: "claudian-ask-review-body" });
-    bodyEl.createDiv({ text: q10.question, cls: "claudian-ask-review-q-text" });
+    const pairEl = reviewEl.createDiv({ cls: "claudian-a<OPENAI_API_KEY>" });
+    pairEl.createDiv({ text: `${i2 + 1}.`, cls: "claudian-a<OPENAI_API_KEY>" });
+    const bodyEl = pairEl.createDiv({ cls: "claudian-a<OPENAI_API_KEY>" });
+    bodyEl.createDiv({ text: q10.question, cls: "claudian-a<OPENAI_API_KEY>" });
     bodyEl.createDiv({
       text: answer || "Not answered",
-      cls: answer ? "claudian-ask-review-a-text" : "claudian-ask-review-empty"
+      cls: answer ? "claudian-a<OPENAI_API_KEY>" : "claudian-a<OPENAI_API_KEY>"
     });
   }
   return true;
@@ -81423,19 +81423,19 @@ function renderAskUserQuestionFallback(container, toolCall, initialText) {
   }
   if (initialText || toolCall.result) {
     container.createDiv({
-      cls: "claudian-ask-review-prompt",
+      cls: "claudian-a<OPENAI_API_KEY>",
       text: initialText || toolCall.result || "Waiting for answer..."
     });
   }
   for (let questionIndex = 0; questionIndex < questions.length; questionIndex++) {
     const question = questions[questionIndex];
     const reviewEl = container.createDiv({ cls: "claudian-ask-review" });
-    const pairEl = reviewEl.createDiv({ cls: "claudian-ask-review-pair" });
-    pairEl.createDiv({ text: `${questionIndex + 1}.`, cls: "claudian-ask-review-num" });
-    const bodyEl = pairEl.createDiv({ cls: "claudian-ask-review-body" });
-    bodyEl.createDiv({ text: question.question, cls: "claudian-ask-review-q-text" });
+    const pairEl = reviewEl.createDiv({ cls: "claudian-a<OPENAI_API_KEY>" });
+    pairEl.createDiv({ text: `${questionIndex + 1}.`, cls: "claudian-a<OPENAI_API_KEY>" });
+    const bodyEl = pairEl.createDiv({ cls: "claudian-a<OPENAI_API_KEY>" });
+    bodyEl.createDiv({ text: question.question, cls: "claudian-a<OPENAI_API_KEY>" });
     if (!Array.isArray(question.options) || question.options.length === 0) {
-      bodyEl.createDiv({ cls: "claudian-ask-review-empty", text: "No options recorded" });
+      bodyEl.createDiv({ cls: "claudian-a<OPENAI_API_KEY>", text: "No options recorded" });
       continue;
     }
     const listEl = bodyEl.createDiv({ cls: "claudian-ask-list" });
@@ -81449,13 +81449,13 @@ function renderAskUserQuestionOption(parentEl, option, optionIndex, isMultiSelec
   if (isMultiSelect) {
     itemEl.createDiv({ cls: "claudian-ask-check", text: "[ ] " });
   } else {
-    itemEl.createDiv({ cls: "claudian-ask-item-num", text: `${optionIndex + 1}. ` });
+    itemEl.createDiv({ cls: "claudian-a<OPENAI_API_KEY>", text: `${optionIndex + 1}. ` });
   }
-  const contentEl = itemEl.createDiv({ cls: "claudian-ask-item-content" });
-  const labelRowEl = contentEl.createDiv({ cls: "claudian-ask-label-row" });
-  labelRowEl.createDiv({ cls: "claudian-ask-item-label", text: option.label });
+  const contentEl = itemEl.createDiv({ cls: "claudian-a<OPENAI_API_KEY>" });
+  const labelRowEl = contentEl.createDiv({ cls: "claudian-a<OPENAI_API_KEY>" });
+  labelRowEl.createDiv({ cls: "claudian-a<OPENAI_API_KEY>", text: option.label });
   if (option.description) {
-    contentEl.createDiv({ cls: "claudian-ask-item-desc", text: option.description });
+    contentEl.createDiv({ cls: "claudian-a<OPENAI_API_KEY>", text: option.description });
   }
 }
 function contentFallback(container, text) {
@@ -82561,23 +82561,23 @@ var InputController = class {
     if (!parentEl) {
       throw new Error("Input container is detached from DOM");
     }
-    const headerEl = parentEl.createDiv({ cls: "claudian-ask-approval-info" });
+    const headerEl = parentEl.createDiv({ cls: "claudian-a<OPENAI_API_KEY>" });
     headerEl.remove();
-    const toolEl = headerEl.createDiv({ cls: "claudian-ask-approval-tool" });
-    const iconEl = toolEl.createSpan({ cls: "claudian-ask-approval-icon" });
+    const toolEl = headerEl.createDiv({ cls: "claudian-a<OPENAI_API_KEY>" });
+    const iconEl = toolEl.createSpan({ cls: "claudian-a<OPENAI_API_KEY>" });
     iconEl.setAttribute("aria-hidden", "true");
     setToolIcon(iconEl, toolName);
-    toolEl.createSpan({ text: toolName, cls: "claudian-ask-approval-tool-name" });
+    toolEl.createSpan({ text: toolName, cls: "claudian-a<OPENAI_API_KEY>" });
     if (approvalOptions == null ? void 0 : approvalOptions.decisionReason) {
-      headerEl.createDiv({ text: approvalOptions.decisionReason, cls: "claudian-ask-approval-reason" });
+      headerEl.createDiv({ text: approvalOptions.decisionReason, cls: "claudian-a<OPENAI_API_KEY>" });
     }
     if (approvalOptions == null ? void 0 : approvalOptions.blockedPath) {
-      headerEl.createDiv({ text: approvalOptions.blockedPath, cls: "claudian-ask-approval-blocked-path" });
+      headerEl.createDiv({ text: approvalOptions.blockedPath, cls: "claudian-a<OPENAI_API_KEY>" });
     }
     if (approvalOptions == null ? void 0 : approvalOptions.agentID) {
-      headerEl.createDiv({ text: `Agent: ${approvalOptions.agentID}`, cls: "claudian-ask-approval-agent" });
+      headerEl.createDiv({ text: `Agent: ${approvalOptions.agentID}`, cls: "claudian-a<OPENAI_API_KEY>" });
     }
-    headerEl.createDiv({ text: description, cls: "claudian-ask-approval-desc" });
+    headerEl.createDiv({ text: description, cls: "claudian-a<OPENAI_API_KEY>" });
     const decisionOptions = (_a3 = approvalOptions == null ? void 0 : approvalOptions.decisionOptions) != null ? _a3 : DEFAULT_APPROVAL_DECISION_OPTIONS;
     const optionDecisionMap = /* @__PURE__ */ new Map();
     const questionOptions = decisionOptions.map((option, index) => {

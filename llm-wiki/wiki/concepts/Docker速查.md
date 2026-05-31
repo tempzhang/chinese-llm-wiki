@@ -1,3 +1,10 @@
+---
+title: "Docker速查"
+aliases: []
+tags: ["ai", "llm", "deployment"]
+category: "concept"
+status: "active"
+---
 ﻿---
 title: "Docker 速查"
 type: "concept"
@@ -53,3 +60,10 @@ docker exec -it <容器> sh  # 进入容器 shell
 
 - [[NAS 与自建服务]] — Docker 在 NAS 上的应用
 - [[建站]] — Docker 部署网站
+
+## Related Notes
+- [[LLM-Wiki]]
+- [[RAG]]
+- [[MCP]]
+- [[INDEX]]
+- [[TOPICS]]

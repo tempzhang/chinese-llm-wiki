@@ -1,3 +1,10 @@
+---
+title: "Martina在进化"
+aliases: []
+tags: ["ai", "llm"]
+category: "entity"
+status: "active"
+---
 ﻿---
 title: "Martina在进化"
 type: "entity"

@@ -45,7 +45,7 @@
 
 ## L
 
-- **LLM Wiki**：一种面向 AI Agent 维护的结构化知识编译系统。详见 [[LLM Wiki]]。
+- **LLM Wiki**：一种面向 AI Agent 维护的结构化知识编译系统。详见 [[LLM-Wiki]]。
 
 ## M
 

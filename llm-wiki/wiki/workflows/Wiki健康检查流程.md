@@ -65,3 +65,10 @@ python wiki_lint.py --verbose
 - 日常使用：每次资料摄取后运行
 - 周期性：每周做一次全面健康检查
 - CI/CD：可配置 GitHub Actions 自动运行
+
+## Related Notes
+- [[LLM-Wiki]]
+- [[INDEX]]
+- [[TOPICS]]
+- [[KNOWLEDGE_GRAPH]]
+- [[RAG]]

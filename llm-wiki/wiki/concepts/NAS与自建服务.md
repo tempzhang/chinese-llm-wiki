@@ -1,3 +1,10 @@
+---
+title: "NAS与自建服务"
+aliases: []
+tags: ["ai", "llm", "deployment"]
+category: "concept"
+status: "active"
+---
 ﻿---
 title: "NAS 与自建服务"
 type: "concept"
@@ -58,4 +65,9 @@ NAS 是一台 24 小时运行的家庭服务器，集文件存储、媒体中心
 
 - [[建站]] — 网站也可部署在 NAS 上
 
-
+## Related Notes
+- [[LLM-Wiki]]
+- [[RAG]]
+- [[MCP]]
+- [[INDEX]]
+- [[TOPICS]]

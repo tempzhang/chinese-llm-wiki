@@ -1,3 +1,10 @@
+---
+title: "@wanerfu"
+aliases: []
+tags: ["ai", "llm"]
+category: "entity"
+status: "active"
+---
 ﻿---
 title: "@wanerfu"
 type: "entity"

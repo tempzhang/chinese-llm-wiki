@@ -1,3 +1,10 @@
+---
+title: "Xuan酱"
+aliases: []
+tags: ["ai", "llm"]
+category: "entity"
+status: "active"
+---
 ﻿---
 title: "Xuan酱"
 type: "entity"
@@ -27,4 +34,4 @@ YouTube 创作者，分享 Codex + Obsidian 搭建 Karpathy 风格 LLM Wiki 知�
 
 - [[Codex + Obsidian 自主进化知识库（Xuan酱）]] — 手把手教程
 - [[Codex]] — Codex CLI 工具介绍
-- [[LLM Wiki]] — LLM Wiki 概念
+- [[LLM-Wiki]] — LLM Wiki 概念

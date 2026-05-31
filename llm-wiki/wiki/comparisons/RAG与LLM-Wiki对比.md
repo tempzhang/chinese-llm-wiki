@@ -1,3 +1,10 @@
+---
+title: "RAG与LLM-Wiki对比"
+aliases: []
+tags: ["ai", "llm", "rag"]
+category: "comparison"
+status: "active"
+---
 ﻿---
 title: "RAG 与 LLM Wiki 对比"
 type: "comparison"
@@ -78,3 +85,10 @@ related:
 ## 资料来源
 
 - Karpathy, A. "LLM Wiki" Gist, 2025
+
+## Related Notes
+- [[RAG]]
+- [[LLM-Wiki]]
+- [[MCP]]
+- [[INDEX]]
+- [[TOPICS]]

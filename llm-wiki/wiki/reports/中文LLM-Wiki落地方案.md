@@ -1,3 +1,10 @@
+---
+title: "中文LLM-Wiki落地方案"
+aliases: []
+tags: ["ai", "llm", "report"]
+category: "report"
+status: "review"
+---
 ﻿---
 title: "中文 LLM Wiki 落地方案"
 type: "report"
@@ -108,3 +115,10 @@ git init
 ## 后续规划
 
 见 `llm-wiki/roadmap.md`。
+
+## Related Notes
+- [[LLM-Wiki]]
+- [[RAG]]
+- [[MCP]]
+- [[INDEX]]
+- [[TOPICS]]

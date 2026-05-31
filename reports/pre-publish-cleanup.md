@@ -1,0 +1,47 @@
+# Pre-Publish Cleanup
+
+- ?????2026-05-31 17:32:40
+
+## ?????
+- cache/temp/backup??? `.tmp/.bak/.log` ????????
+- `.obsidian`??????????????? `workspace.json`?????????????
+- ????????? `D:\...`?`/Users/...`?`/home/...` ????????
+- ?????????????????????????
+
+## ????
+- `.obsidian` ????9
+  - .obsidian/app.json
+  - .obsidian/appearance.json
+  - .obsidian/community-plugins.json
+  - .obsidian/core-plugins.json
+  - .obsidian/graph.json
+  - .obsidian/workspace.json
+  - .obsidian/plugins/realclaudian/main.js
+  - .obsidian/plugins/realclaudian/manifest.json
+  - .obsidian/plugins/realclaudian/styles.css
+- ??????????19
+  - .claudian/claudian-settings.json
+  - .obsidian/plugins/realclaudian/main.js
+  - llm-wiki/log.md
+  - llm-wiki/raw/bookmarks/02_Agents/Workflows - n8n.md
+  - llm-wiki/raw/bookmarks/02_Agents/_MOC_Agents.md
+  - llm-wiki/raw/bookmarks/17_NAS/_MOC_NAS.md
+  - llm-wiki/raw/bookmarks/17_NAS/阿里云美国大为.md
+  - llm-wiki/raw/bookmarks/20_Programming/pub.alimama.com-portal-v2-home-plus-index.htm.md
+  - llm-wiki/raw/bookmarks/20_Programming/_MOC_Programming.md
+  - llm-wiki/raw/bookmarks/20_Programming/淘宝联盟淘宝客.md
+  - llm-wiki/raw/bookmarks/22_Tools/Google Analytics（分析）.md
+  - llm-wiki/raw/bookmarks/22_Tools/_MOC_Tools.md
+  - llm-wiki/raw/bookmarks/90_Reports/Website Directory.md
+  - llm-wiki/raw/bookmarks/99_Archive/小鲸卡用户中心.md
+  - llm-wiki/tools/bookmarks_to_obsidian.py
+  - llm-wiki/tools/build_vault.py
+  - llm-wiki/tools/check_related.py
+  - llm-wiki/tools/gen_vault.py
+  - reports/repository-analysis.md
+- ??/??/??????0
+
+## ???????????
+1. ?? `.gitignore`?`.obsidian/workspace.json`????????????
+2. ?? `reports/github-sync-readiness.md` ????????
+3. ?? README ???????????????

@@ -45,7 +45,7 @@ RAG（Retrieval-Augmented Generation）是一种通过从外部知识库检索�
 
 ### RAG 与 LLM Wiki 的关系
 
-- [[LLM Wiki]] 是 RAG 的替代思路：不是实时分块检索，而是预先编译知识。
+- [[LLM-Wiki]] 是 RAG 的替代思路：不是实时分块检索，而是预先编译知识。
 - 两者可以互补：RAG 适合海量非结构化文档；LLM Wiki 适合需要深度理解的核心知识。
 - 详细对比见 [[RAG 与 LLM Wiki 对比]]。
 

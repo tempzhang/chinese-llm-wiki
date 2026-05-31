@@ -1,3 +1,10 @@
+---
+title: "AI-Agent框架"
+aliases: []
+tags: ["ai", "llm", "agent"]
+category: "comparison"
+status: "active"
+---
 ﻿---
 title: "AI Agent 框架（Dify / Coze / Hermes / OpenClaw）"
 type: "comparison"
@@ -50,3 +57,10 @@ Dify、Coze、Hermes、OpenClaw 等 AI Agent 框架横向对比。
 - [[自动铺货]] 工作流可通过 OpenClaw 实现全自动
 - [[自动化工具对比（n8n / Zapier / Make / Dify / Coze）]] 涵盖通用工作流工具
 - [[MCP（Model Context Protocol）]] 提供 Agent 与工具的标准通信协议
+
+## Related Notes
+- [[Codex]]
+- [[MCP]]
+- [[RAG]]
+- [[LLM-Wiki]]
+- [[INDEX]]

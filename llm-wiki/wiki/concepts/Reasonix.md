@@ -61,3 +61,10 @@ Reasonix 是 [[DeepSeek]] 生态的核心工具，同为 AI 编程 Agent 类别�
 
 - GitHub: https://github.com/esengine/DeepSeek-Reasonix
 - 配置指南: https://esengine.github.io/DeepSeek-Reasonix/configuration.html
+
+## Related Notes
+- [[LLM-Wiki]]
+- [[RAG]]
+- [[MCP]]
+- [[INDEX]]
+- [[TOPICS]]

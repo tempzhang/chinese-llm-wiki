@@ -1,3 +1,10 @@
+---
+title: "自动SEO"
+aliases: []
+tags: ["ai", "llm", "automation", "seo"]
+category: "workflow"
+status: "active"
+---
 ﻿---
 title: "自动SEO"
 type: "workflow"

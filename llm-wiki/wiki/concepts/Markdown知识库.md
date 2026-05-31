@@ -1,3 +1,10 @@
+---
+title: "Markdown知识库"
+aliases: []
+tags: ["ai", "llm"]
+category: "concept"
+status: "active"
+---
 ﻿---
 title: "Markdown 知识库"
 type: "concept"
@@ -55,7 +62,7 @@ Markdown 知识库是以 Markdown 格式组织和存储知识内容的系统，�
 
 ## 与其他概念的关系
 
-- [[LLM Wiki]]：Markdown 是 LLM Wiki 的存储格式
+- [[LLM-Wiki]]：Markdown 是 LLM Wiki 的存储格式
 - [[Git 版本化知识库]]：Markdown + Git = 完美的知识库版本控制
 - [[双向链接]]：```[[页面标题]]``` 是在 Markdown 中实现双向链接的通用语法
 
@@ -72,3 +79,10 @@ Markdown 知识库是以 Markdown 格式组织和存储知识内容的系统，�
 ## 待补充问题
 
 - Markdown 扩展语法（GFM、Obsidian 风味）的兼容性
+
+## Related Notes
+- [[LLM-Wiki]]
+- [[RAG]]
+- [[MCP]]
+- [[INDEX]]
+- [[TOPICS]]

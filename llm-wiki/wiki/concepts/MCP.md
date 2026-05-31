@@ -62,3 +62,9 @@ Codex CLI 内置 MCP 支持，可通过 plugin 机制接入 Figma、GitHub、Gma
 - [mcp.so](https://mcp.so/) MCP Server 目录
 - CherryStudio MCP 配置教程
 
+## Related Notes
+- [[MCP]]
+- [[Codex]]
+- [[LLM-Wiki]]
+- [[INDEX]]
+- [[TOPICS]]

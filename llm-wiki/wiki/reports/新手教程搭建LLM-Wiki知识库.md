@@ -34,7 +34,7 @@ related:
 
 ## 与 Wiki 的关联
 
-- 与本 Wiki 的核心概念完全一致：基于 [[LLM Wiki]] 理念
+- 与本 Wiki 的核心概念完全一致：基于 [[LLM-Wiki]] 理念
 - 涉及 [[AI Agent 知识维护]] 的入门实践
 - 可作为 [[如何开始维护 LLM Wiki]] 的补充教程
 

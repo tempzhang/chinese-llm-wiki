@@ -1,3 +1,10 @@
+---
+title: "如何开始维护LLM-Wiki"
+aliases: []
+tags: ["ai", "llm"]
+category: "question"
+status: "review"
+---
 ﻿---
 title: "如何开始维护 LLM Wiki"
 type: "question"
@@ -90,7 +97,7 @@ python generate_report.py --stats
 
 ## 涉及的概念
 
-- [[LLM Wiki]]：了解什么是 LLM Wiki
+- [[LLM-Wiki]]：了解什么是 LLM Wiki
 - [[资料摄取流程]]：详细的资料消化流程
 - [[中文 LLM Wiki 落地方案]]：完整的技术方案
 
@@ -107,3 +114,10 @@ python generate_report.py --stats
 - [[新手教程：搭建 Karpathy LLM Wiki 知识库（AI大模型应用开发）]]：视频教程，0 代码搭建
 
 ## 资料来源
+
+## Related Notes
+- [[LLM-Wiki]]
+- [[RAG]]
+- [[MCP]]
+- [[INDEX]]
+- [[TOPICS]]

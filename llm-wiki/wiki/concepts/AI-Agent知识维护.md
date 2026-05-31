@@ -63,7 +63,7 @@ AI Agent 知识维护是指使用 AI Agent（如 Codex、Claude、ChatGPT）作�
 
 ## 与其他概念的关系
 
-- [[LLM Wiki]]：AI Agent 是 LLM Wiki 的维护主体
+- [[LLM-Wiki]]：AI Agent 是 LLM Wiki 的维护主体
 - [[知识编译]]：Agent 执行知识编译流程
 - [[结构化笔记]]：Agent 确保输出符合结构化标准
 
@@ -80,3 +80,10 @@ AI Agent 知识维护是指使用 AI Agent（如 Codex、Claude、ChatGPT）作�
 ## 待补充问题
 
 - 多 Agent 协作维护的最佳实践
+
+## Related Notes
+- [[Codex]]
+- [[MCP]]
+- [[RAG]]
+- [[LLM-Wiki]]
+- [[INDEX]]

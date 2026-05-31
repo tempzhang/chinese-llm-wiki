@@ -1,3 +1,10 @@
+---
+title: "OpenWRT与软路由"
+aliases: []
+tags: ["ai", "llm", "deployment"]
+category: "concept"
+status: "active"
+---
 ﻿---
 title: "OpenWRT 与软路由"
 type: "concept"
@@ -52,3 +59,9 @@ OpenWRT 是开源的嵌入式 Linux 系统，让普通路由器变身可编程�
 - [[NAS 与自建服务]] — NAS + 软路由一体机
 - [[Docker 速查]] — iStoreOS 支持 Docker Compose
 
+## Related Notes
+- [[LLM-Wiki]]
+- [[RAG]]
+- [[MCP]]
+- [[INDEX]]
+- [[TOPICS]]

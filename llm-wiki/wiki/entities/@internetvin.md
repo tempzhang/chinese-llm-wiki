@@ -1,3 +1,10 @@
+---
+title: "@internetvin"
+aliases: []
+tags: ["ai", "llm"]
+category: "entity"
+status: "active"
+---
 ﻿---
 title: "@internetvin"
 type: "entity"

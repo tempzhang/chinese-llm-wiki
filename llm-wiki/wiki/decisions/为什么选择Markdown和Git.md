@@ -1,3 +1,10 @@
+---
+title: "为什么选择Markdown和Git"
+aliases: []
+tags: ["ai", "llm"]
+category: "decision"
+status: "active"
+---
 ﻿---
 title: "为什么选择 Markdown 和 Git"
 type: "decision"
@@ -69,3 +76,10 @@ related:
 
 - 如果未来需要复杂排版，可考虑 Markdown 扩展（GFM + Mermaid）
 - 如果协作需求增加，可启用 GitHub PR 流程
+
+## Related Notes
+- [[LLM-Wiki]]
+- [[RAG]]
+- [[MCP]]
+- [[INDEX]]
+- [[TOPICS]]

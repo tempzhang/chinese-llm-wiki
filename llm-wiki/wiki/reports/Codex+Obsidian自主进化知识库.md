@@ -34,7 +34,7 @@ related:
 
 ## 与 Wiki 的关联
 
-- 涉及概念：[[LLM Wiki]] — 正是本 Wiki 的直接灵感来源
+- 涉及概念：[[LLM-Wiki]] — 正是本 Wiki 的直接灵感来源
 - [[AI Agent 知识维护]] — AI Agent 作为知识库维护者的角色
 - 与 [[从 0 搭建 AI 第二大脑：Obsidian + Claude Code（Martina在进化）]] 类似，但使用 Codex 而非 Claude Code
 - 与本 Wiki 的 [[资料摄取流程]]、[[资料更新流程]] 理念一致

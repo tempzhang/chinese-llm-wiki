@@ -1,3 +1,10 @@
+---
+title: "Git版本化知识库"
+aliases: []
+tags: ["ai", "llm"]
+category: "concept"
+status: "active"
+---
 ﻿---
 title: "Git 版本化知识库"
 type: "concept"
@@ -55,7 +62,7 @@ related:
 
 ## 与其他概念的关系
 
-- [[LLM Wiki]]：Git 是 LLM Wiki 的版本控制方式
+- [[LLM-Wiki]]：Git 是 LLM Wiki 的版本控制方式
 - [[Markdown 知识库]]：Git 对 Markdown 天然友好
 
 ## 适用场景
@@ -69,3 +76,10 @@ related:
 ## 待补充问题
 
 - 大规模知识库的 Git 性能优化
+
+## Related Notes
+- [[LLM-Wiki]]
+- [[RAG]]
+- [[MCP]]
+- [[INDEX]]
+- [[TOPICS]]

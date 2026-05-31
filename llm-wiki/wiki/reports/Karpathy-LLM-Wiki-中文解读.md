@@ -1,3 +1,10 @@
+---
+title: "Karpathy-LLM-Wiki-中文解读"
+aliases: []
+tags: ["ai", "llm", "report"]
+category: "report"
+status: "review"
+---
 ﻿---
 title: "Karpathy LLM Wiki 中文解读"
 type: "report"
@@ -152,3 +159,10 @@ mindmap
 3. **结构化是 AI 友好的前提**：统一的格式让 AI 能批量维护。
 4. **Git 是知识库的终极版本控制**：每次修改可审查、可回滚。
 5. **人和 AI 分工**：AI 做重复性工作，人做判断和决策。
+
+## Related Notes
+- [[LLM-Wiki]]
+- [[RAG]]
+- [[MCP]]
+- [[INDEX]]
+- [[TOPICS]]

@@ -35,7 +35,7 @@ related:
 
 ## 与 Wiki 的关联
 
-- 涉及概念：[[LLM Wiki]]、[[AI工具]]
+- 涉及概念：[[LLM-Wiki]]、[[AI工具]]
 - 与上篇 [[AI + Obsidian 第二大脑（Martina在进化）]] 为姊妹篇（概念篇 + 实操篇）
 - 本教程提到的 **LLM Wiki** 正是本 Wiki 的核心理念来源（Karpathy）
 - Agent 工具对比（Claude Code vs Hermes）与本 Wiki 的 [[AI Agent 知识维护]] 直接相关

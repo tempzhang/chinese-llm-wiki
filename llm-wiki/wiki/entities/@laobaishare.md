@@ -1,3 +1,10 @@
+---
+title: "@laobaishare"
+aliases: []
+tags: ["ai", "llm"]
+category: "entity"
+status: "active"
+---
 ﻿---
 title: "@laobaishare"
 type: "entity"
