@@ -1,118 +1,106 @@
-﻿# MkDocs Material 配置 - 中文 LLM Wiki 文档站
-site_name: 中文 LLM Wiki
-site_description: 面向 AI Agent 维护的中文结构化知识编译系统
+﻿site_name: Chinese LLM Wiki
+site_description: Open Source AI Knowledge Hub
 site_url: https://tempzhang.github.io/chinese-llm-wiki/
 repo_url: https://github.com/tempzhang/chinese-llm-wiki
 repo_name: tempzhang/chinese-llm-wiki
-edit_uri: blob/main/
+edit_uri: edit/main/docs/
 
-docs_dir: llm-wiki/wiki
+docs_dir: docs
+site_dir: site
 
 theme:
   name: material
   language: zh
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.action.edit
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: indigo
       accent: indigo
       toggle:
-        icon: material/brightness-7
-        name: 切换至深色模式
+        icon: material/weather-night
+        name: 切换深色模式
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: indigo
       accent: indigo
       toggle:
-        icon: material/brightness-4
-        name: 切换至浅色模式
-  features:
-    - navigation.tabs
-    - navigation.top
-    - navigation.indexes
-    - search.suggest
-    - search.highlight
-    - content.code.copy
-    - content.code.annotate
+        icon: material/weather-sunny
+        name: 切换浅色模式
 
-nav:
-  - 总览: 00-总览.md
-  - 核心概念:
-    - LLM Wiki: concepts/LLM-Wiki.md
-    - RAG: concepts/RAG.md
-    - 知识编译: concepts/知识编译.md
-    - 双向链接: concepts/双向链接.md
-    - Markdown 知识库: concepts/Markdown知识库.md
-    - Git 版本化知识库: concepts/Git版本化知识库.md
-    - AI Agent 知识维护: concepts/AI-Agent知识维护.md
-    - 结构化笔记: concepts/结构化笔记.md
-    - AI工具: concepts/AI工具.md
-    - MCP: concepts/MCP.md
-    - Codex: concepts/Codex.md
-    - DeepSeek: concepts/DeepSeek.md
-    - SEO工具: concepts/SEO工具.md
-    - WordPress: concepts/WordPress.md
-    - Docker 速查: concepts/Docker速查.md
-  - 跨境电商:
-    - 跨境电商知识库: reports/跨境电商知识库.md
-    - 跨境电商: projects/跨境电商.md
-    - 建站: projects/建站.md
-    - 跨境工具: concepts/跨境工具.md
-    - 跨境支付: concepts/跨境支付.md
-    - TikTok 电商: concepts/TikTok电商.md
-    - 亚马逊运营: concepts/亚马逊运营.md
-    - 自动铺货: workflows/自动铺货.md
-    - 自动SEO: workflows/自动SEO.md
-  - 基础设施:
-    - NAS 与自建服务: concepts/NAS与自建服务.md
-    - OpenWRT 与软路由: concepts/OpenWRT与软路由.md
-    - 工具导航站: concepts/工具导航站.md
-  - 工作流:
-    - 资料摄取流程: workflows/资料摄取流程.md
-    - Wiki 健康检查流程: workflows/Wiki健康检查流程.md
-    - 查询回答流程: workflows/查询回答流程.md
-    - 资料更新流程: workflows/资料更新流程.md
-    - 冲突处理流程: workflows/冲突处理流程.md
-  - 对比分析:
-    - RAG 与 LLM Wiki 对比: comparisons/RAG与LLM-Wiki对比.md
-    - 自动化工具对比: comparisons/自动化工具对比.md
-    - AI Agent 框架: comparisons/AI-Agent框架.md
-  - 报告:
-    - Karpathy LLM Wiki 中文解读: reports/Karpathy-LLM-Wiki-中文解读.md
-    - 中文 LLM Wiki 落地方案: reports/中文LLM-Wiki落地方案.md
-    - YouTube 学习频道推荐: reports/YouTube学习频道推荐.md
-    - YouTube 免费教育资源: reports/YouTube免费教育资源.md
-    - AI + Obsidian 第二大脑: reports/AI+Obsidian第二大脑.md
-    - 从0搭建AI第二大脑: reports/从0搭建AI第二大脑.md
-    - Codex + Obsidian 知识库: reports/Codex+Obsidian自主进化知识库.md
-    - 12个思维工具命令: reports/12个思维工具命令.md
-  - 问题库:
-    - 如何开始维护 LLM Wiki: questions/如何开始维护LLM-Wiki.md
-  - 决策记录:
-    - 为什么选择 Markdown 和 Git: decisions/为什么选择Markdown和Git.md
-  - 示例:
-    - 示例资料摘要: examples/示例资料摘要.md
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/tempzhang/chinese-llm-wiki
+
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js
+
+plugins:
+  - search
+  - awesome-pages
+  - git-revision-date-localized:
+      type: datetime
+      timezone: Asia/Shanghai
+      locale: zh
+      fallback_to_build_date: true
+  - minify:
+      minify_html: true
+  - redirects
 
 markdown_extensions:
   - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
   - pymdownx.details
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
-  - pymdownx.highlight:
-      anchor_linenums: true
+  - pymdownx.highlight
   - pymdownx.inlinehilite
-  - pymdownx.snippets
   - pymdownx.tabbed:
       alternate_style: true
-  - tables
-  - footnotes
-  - toc:
-      permalink: true
-      toc_depth: 3
+  - pymdownx.tasklist:
+      custom_checkbox: true
 
-plugins:
-  - search:
-      lang: zh
+nav:
+  - Home: index.md
+  - Getting Started:
+      - START HERE: Knowledge-Hub/START-HERE.md
+      - Quick Links: Knowledge-Hub/Quick-Links.md
+      - Use Cases: Knowledge-Hub/Use-Cases.md
+  - Knowledge:
+      - Core Topics: TOPICS.md
+      - Models: INDEX.md
+      - Agent: MOCs/Agent-MOC.md
+      - MCP: MOCs/MCP-MOC.md
+      - RAG: MOCs/RAG-MOC.md
+  - Learning Paths:
+      - AI Beginner Path: Learning-Paths/AI-Beginner-Path.md
+      - LLM Engineer Path: Learning-Paths/LLM-Engineer-Path.md
+      - RAG Engineer Path: Learning-Paths/RAG-Engineer-Path.md
+      - Agent Engineer Path: Learning-Paths/Agent-Engineer-Path.md
+      - AI Coding Path: Learning-Paths/AI-Coding-Path.md
+  - Playbooks:
+      - Build RAG System: Playbooks/Build-RAG-System.md
+      - Build AI Agent: Playbooks/Build-AI-Agent.md
+      - Build MCP Server: Playbooks/Build-MCP-Server.md
+      - Build AI Coding Workflow: Playbooks/Build-AI-Coding-Workflow.md
+      - Build Automation System: Playbooks/Build-Automation-System.md
+  - Knowledge Graph: KNOWLEDGE_GRAPH.md
+  - Roadmap: ROADMAP.md
+
+copyright: Copyright © Chinese LLM Wiki Contributors
